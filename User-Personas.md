@@ -3,5 +3,7 @@ A continuación, se construirán los User Persona de cada segmento objetivo de n
 
 ## Segmento 1: Compradores 
 
+![1 ](https://github.com/NanoNerdsGroup/NanoNerds-Report/blob/chapter-5/images/segmento1.png)
 
 ## Segmento 2:  proveedores
+![2 ](https://github.com/NanoNerdsGroup/NanoNerds-Report/blob/chapter-5/images/segmento2.png?raw=true)
