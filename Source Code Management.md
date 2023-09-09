@@ -13,6 +13,6 @@ Esta rama será un lugar donde se combinarán los cambios. Puedes pensar en ella
 |--------------------------------------|-------------------------|-------------------|
 | Gustavo Jandroel Aguirre Rodríguez   | U202124162@upc.edu.pe   | Gustavo           | [Gustavo en GitHub](https://github.com/Gustavo)      |
 | Antonella Frida Gonzales Gomez       | U20211C403@upc.edu.pe    | Anthonnela        | [Anthonnela en GitHub](https://github.com/Anthonnela) |
-| Paolo Sebastián Padilla Advincula    | U202117993@upc.edu.pe    | Paolo             | [Paolo en GitHub](https://github.com/Paolo)           |
+|Louis Piero Alfaro Coveñasa    | u20191b299@upc.edu.pe    | Louis             | [Louis en GitHub](https://github.com/Paolo)           |
 | Orlando Arturo Roca Huapaya          | U201919742@upc.edu.pe    | Orlando           | [Orlando en GitHub](https://github.com/Orlando)       |
-| Piero Mendoza Pimentel               | U201923446@upc.edu.pe    | Piero             | [Piero en GitHub](https://github.com/Piero)         |
+| Farid Rolando Hinostroza Mavila              | u202014468@upc.edu.pe    | Farid             | [Farid en GitHub](https://github.com/Piero)         |
