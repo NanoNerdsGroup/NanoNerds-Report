@@ -20,7 +20,7 @@
 - Orlando Arturo Roca Huapaya - u201919742
 - Farid Rolando Hinostroza Mavila - u202014468
 - Louis Piero Alfaro Coveñas - u20191b299
-- [Nombre del Integrante 4]
+- Antonella Frida Gonzales Gomez - u20211c403
 
 **Ciclo:** 2023-02
 
@@ -34,6 +34,7 @@
 | TB1     | 21-08-2023 | Orlando | Se crearon los archivos md del capitulo 1 y 2 en el repositorio |
 | TB1     | 09-09-2023 | Louis   | Avance el capitulo 2 y 4 en el repositorio                      |
 | TB1     | 09-09-2023 | Orlando | Avance el capitulo 1, 2 y 3 en el repositorio                   |
+| TB1     | 08-09-2023 | Antonella | Avance el capitulo 1, y 5 en el repositorio                   |
 
 
 
