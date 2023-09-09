@@ -17,3 +17,11 @@ Como estudiante de ingeniería de software, mi contribución al equipo se centra
   </tr>
 <br>
 
+
+Soy Antonella Frida Gonzales Gomez, como estudiante de la carrera de Ingeniería de Software, contribuiré al equipo mis conocimientos fundamentales en algunos lenguajes de programación. Estos conocimientos me permitirán participar activamente en la creación y desarrollo de proyectos además tengo un enfoque responsable hacia mi trabajo y tareas asignadas. Entiendo la importancia de cumplir con plazos y metas establecidas, lo que contribuye al flujo de trabajo del equipo y al éxito general del proyecto.
+<tr>
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+        <center><img src="https://drive.google.com/uc?id=1HOwe8UUKBqbAW1O-s0jToMAZTl1xvnno" alt="Imagen desde Google Drive" width="200" height="250"></center>
+    </td>
+</tr>
