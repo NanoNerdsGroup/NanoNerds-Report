@@ -1,61 +1,99 @@
-**2.2.1. Diseño de entrevistas.**
+**2.2.2. Registro de entrevistas.**
 
-**Segmento Objetivo 1: Usuario 1 (Customer): Usuarios que buscan soluciones confiables y sencillas para comprar componentes de PC o laptops según sus necesidades únicas.**
+**Customers**
 
-**Introducción y Presentación:**
+**Registro de entrevista N° 1:** 
 
-- Saludo y presentación.
-- ¿Cuál es tu nombre?
-- ¿Qué edad tienes?
-- ¿Cuál es tu ocupación profesional?
-- Explicación del propósito de la entrevista y cómo se utilizará la información recopilada.
+**Fecha: 01/09/23**
 
-**Preguntas Clave:**
+**Nombres y Apellidos:** Joe Medina
 
-- ¿Con qué frecuencia utilizas dispositivos de tecnología, como PC o laptops?
-- Explicación del propósito de la entrevista y cómo se utilizará la información recopilada.
-- ¿Tienes conocimiento respecto a los componentes de una computadora/laptop?
-- Cuando compraste tu pc/laptop lograste conseguir lo que buscabas?
-- ¿Te sentiste confundido o desconocías sobre ciertas especificaciones y sus diferencias al momento de comprar un equipo?
-- ¿Sientes que hiciste una mala compra al elegir una computadora/laptop?
-- ¿Te brindaron la asesoría correcta al momento de tu compra?
-- ` `¿Lograste entender sobre los requerimientos y el porqué de la diferencia de precios?
-- ¿Piensas que debería existir alguna herramienta para casos como el tuyo?
-- ¿Te sientes seguro al comprar tecnología por internet?
-- ¿Pagarías una membresía para la asesoría de este problema?
+**Edad:** 23 años 
 
-**Cierre y Agradecimiento:**
+**Duración de la entrevista: 0:10 - 02:22 min**
 
-Agradecimiento por su participación.
+![Customer1](images/interview/1.png)
 
+**Link: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202124162_upc_edu_pe/EecBmvMVpMhFqRzcLdvGh98B61H-soEkSiTYUMZ-rz8cbA?e=ye136l>** 
 
+**Resumen de la entrevista:** 
 
-**Segmento Objetivo 2: Usuario 2 (Seller): Personas interesadas en ofrecer sus componentes de PC y laptops.**
+Jhoe, un joven de 23 años que estudia Administración en la Universidad Nacional Mayor de San Marcos y reside en San Martín de Porres, nos comparte su experiencia al comprar una laptop. Él cuenta que a pesar de tener conocimientos básicos sobre computadoras, Jtuvo dificultades para encontrar una laptop que cumpliera con sus requerimientos específicos.
 
-**Introducción y Presentación:**
+Cuando los vendedores le explicaron las características técnicas, Jhoe admitió que no entendía completamente, aunque recibió una buena asesoría. Destacó la importancia de tener una guía o herramienta que facilite la comprensión de los componentes de una laptop. En cuanto a las compras en línea, Jhoe mencionó que estaría dispuesto a pagar en una página web si esta es segura. 
 
-- Saludo y presentación.
-- ¿Cuál es tu nombre?
-- ¿Qué edad tienes?
-- ¿Cuál es tu ocupación profesional?
-- Explicación del propósito de la entrevista y cómo se utilizará la información recopilada.
+**Registro de entrevista N° 2:** 
 
-**Preguntas Clave:**
+**Fecha: 31/08/23**
 
-- ¿Desde hace cuánto te dedicas al tema de ventas en este rubro?
-- ¿Sientes que en el contexto de esta pandemia afectó el rendimiento de tu negocio?
-- ¿Cuánto crees que es el conocimiento de tus clientes al momento de preguntar sobre componentes?
-- ¿Sientes que compran lo que realmente buscan o no se sienten tan familiarizados?
-- ¿Viste en tu entorno estafas respecto a las ventas de pc’s/laptops?
-- ¿Consideras que debería existir más interés respecto a lo que hay detrás de cada computadora?
-- ¿Si tu respuesta es sí, en qué aspecto?
-- ¿Consideras que una aplicación web, pueda solucionar los problemas con respecto a la elección de componentes y su asesoría?
-- ¿Qué características te gustaría que tenga esta aplicación web?
-- ¿Buscarías una alianza con la app? 
-- ¿Cómo ves a futuro el crecimiento en la asesoría para la compra de componentes?
+**Nombres y Apellidos:** Yeline Arce
 
+**Edad:** 23 años 
 
+**Duración de la entrevista: 02:30 – 4:30 min**
 
-**Cierre y Agradecimiento:**
+![Customer2](images/interview/2.png)
 
-Agradecimiento por su participación.
+**Link: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202124162_upc_edu_pe/EecBmvMVpMhFqRzcLdvGh98B61H-soEkSiTYUMZ-rz8cbA?e=ye136l>**
+
+**Resumen de la entrevista:** 
+
+Yeline Arce, una estudiante de 23 años de la UPC, cursando la carrera de periodismo, compartió su experiencia en la compra de una PC. A pesar de tener conocimientos básicos de computadoras, inicialmente tuvo algunas dudas. Sin embargo, logró ensamblar su PC con la ayuda de un técnico que le proporcionó recomendaciones sobre los componentes más adecuados. Durante este proceso, pudo comprender los requisitos necesarios y la lógica detrás de los precios de los componentes. A pesar de su éxito en la compra, Yeline admitió que no se siente completamente segura al realizar compras en línea. Además, mencionó que la experiencia de compra en línea difiere significativamente de la compra presencial.
+
+**Registro de entrevista N° 3:** 
+
+**Fecha: 01/09/23**
+
+**Nombres y Apellidos:** Aracely Nunuvero
+
+**Edad:** 22 años 
+
+**Duración de la entrevista: 4:32 – 6:08 min**
+
+![Customer3](images/interview/3.png)
+
+**Link: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202124162_upc_edu_pe/EecBmvMVpMhFqRzcLdvGh98B61H-soEkSiTYUMZ-rz8cbA?e=ye136l>**
+
+**Resumen de la entrevista:** 
+
+Aracely, una estudiante de 22 años de la Universidad Nacional Mayor de San Marcos, en estudiando Turismo, compartió sus experiencias en la búsqueda de una PC o laptop. A pesar de su interés, Aracely tiene conocimientos limitados en tecnología y se sintió perdida al interactuar con vendedores que utilizaban un lenguaje técnico que no podía comprender completamente. Aracely expresó un deseo de contar con una herramienta que le ayude a comprender mejor las especificaciones técnicas de los productos. 
+
+En cuanto a las compras en línea, Aracely está dispuesta a realizar pagos en línea siempre que la página le brinde la confianza necesaria. Esto refleja su disposición a adoptar tecnologías digitales, siempre y cuando se sienta segura al hacerlo.
+
+**Sellers**
+
+**Registro de entrevista N° 4:** 
+
+**Fecha: 25/08/23**
+
+**Nombres y Apellidos:** Edwin Peche
+
+**Edad:** 32 años 
+
+**Duración de la entrevista: 6:16 – 9:07 min**
+
+![Seller4](images/interview/4.png)
+
+**Link: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202124162_upc_edu_pe/EecBmvMVpMhFqRzcLdvGh98B61H-soEkSiTYUMZ-rz8cbA?e=ye136l>**
+
+**Resumen de la entrevista:** 
+
+Edwin Peche, un vendedor de 32 años en SMP, con 5-6 años de experiencia en ventas, nos comenta que trabajaron por redes durante la pandemia. Sus clientes varían en conocimientos sobre componentes de computadoras, algunos requieren información. No ha observado estafas en este mercado. Destaca la importancia de mantenerse actualizado y busca una aplicación fácil y accesible. Está abierto a una posible alianza con una aplicación para mejorar su trabajo.
+
+**Registro de entrevista N° 5:** 
+
+**Fecha: 27/08/23**
+
+**Nombres y Apellidos:** Tania Perez
+
+**Edad:** 35 años 
+
+**Duración de la entrevista: 9:13 -11:39 min**
+
+![Seller5](images/interview/5.png)
+
+**Link: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202124162_upc_edu_pe/EecBmvMVpMhFqRzcLdvGh98B61H-soEkSiTYUMZ-rz8cbA?e=ye136l>** 
+
+**Resumen de la entrevista:** 
+
+Una emprendedora de 35 años que reside en SMP y lleva 5 años en su negocio compartió sus experiencias. La pandemia tuvo un impacto, pero se están recuperando. Sus clientes varían en su conocimiento de productos, y en su mayoría, quedan satisfechos con sus compras. No ha detectado estafas en las ventas. Destaca la importancia de mantenerse al tanto de los cambios tecnológicos. Busca una aplicación fácil y accesible, sin botones innecesarios. Está interesada en aliarse con una aplicación que cumpla con estas características.
