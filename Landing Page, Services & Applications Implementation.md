@@ -7,7 +7,7 @@ El Sprint Planning es un encuentro que se lleva a cabo al comienzo de cada Sprin
 | Sprint Planning Background | Date: 30 de Agosto del 2023                |
 | Date                   | Time: 15:00 horas (GMT-5)                   |
 | Location               | Location: Reunión virtual (Plataforma Discord) |
-| Prepared By            | Prepared By: WebMinds                           |
+| Prepared By            | Prepared By: NanoNerdsGroup                           |
 | Attendees (to planning meeting) | Attendees (to planning meeting): Todos los miembros del grupo |
 | Sprint 1 – 1 Review Summary   | Sprint 1 – 1 Review Summary: Dado que se trata del primer sprint, no hay un review summary de un sprint anterior |
 | Sprint 1 – 1 Retrospective Summary  Sprint 1 – 1 Retrospective Summary:  |
