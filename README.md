@@ -19,7 +19,8 @@
 **Integrantes:**
 - Orlando Arturo Roca Huapaya - u201919742
 - Farid Rolando Hinostroza Mavila - u202014468
-- [Nombre del Integrante 3]
+- Louis Piero Alfaro Coveñas - u20191b299
+- [Nombre del Integrante 4]
 
 **Ciclo:** 2023-02
 
@@ -28,9 +29,11 @@
 
 # Registro de Versiones del Informe
 
-| Versión | Fecha       | Autor   | Descripción de modificación                              |
-|---------|-------------|---------|---------------------------------------------------------|
-| 1.0     | 21-08-2023  | Orlando  | Se crearon los archivos md del capitulo 1 y 2 en el repositorio|
+| Versión | Fecha      | Autor   | Descripción de modificación                                     |
+|---------|------------|---------|-----------------------------------------------------------------|
+| TB1     | 21-08-2023 | Orlando | Se crearon los archivos md del capitulo 1 y 2 en el repositorio |
+| TB1     | 09-09-2023 | Louis   | Avance el capitulo 2 y 4 en el repositorio                      |
+
 
 
 
@@ -40,11 +43,13 @@
 
 
 
-| Commit ID | Autor       | Fecha        | Descripción del Commit                          |
-|-----------|-------------|--------------|-----------------------------------------------|
-|e1c2ae2aaf4e4bebc9bcbbc3735131e8f9db7662| Orlando| 21-08-2023   | chore: Initial repository setup - Setting up the project structure and initializing the repository.|
-|1194fd4e070ed6f7a4e21d90a04bf135c80c607a| Orlando     | 21-08-2023   | chore: Add initial files for team to start working - Included the necessary files in the chapter 1 for the team to begin working on the assigned task|
-|746ab558314266c63a4d54f581242b4eb60506b9| Orlando     | 21-08-2023   |chore: Add initial files for team to start working - Included the necessary files in the chapter 2 for the team to begin working on the assigned task|
+| Commit ID | Autor   | Fecha      | Descripción del Commit                          |
+|-----------|---------|------------|-----------------------------------------------|
+|e1c2ae2aaf4e4bebc9bcbbc3735131e8f9db7662| Orlando | 21-08-2023 | chore: Initial repository setup - Setting up the project structure and initializing the repository.|
+|1194fd4e070ed6f7a4e21d90a04bf135c80c607a| Orlando | 21-08-2023 | chore: Add initial files for team to start working - Included the necessary files in the chapter 1 for the team to begin working on the assigned task|
+|746ab558314266c63a4d54f581242b4eb60506b9| Orlando | 21-08-2023 |chore: Add initial files for team to start working - Included the necessary files in the chapter 2 for the team to begin working on the assigned task|
+|cad53628381fa3bbd01b186e2e63305c7ee37e85| Louis   | 09-09-2023 |doc: As-is-Scenario-Mapping, Empathy-Mapping, User-Journey-Mapping added                                                                                                                                                     |
+|859f290a360ac940dd594d2fd5d7fb7d179c9e04| Louis   | 09-09-2023 |doc: Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams added                                                                                                                                                     |
 
 ### Actividades:
 - fecha: 20-08-2023
