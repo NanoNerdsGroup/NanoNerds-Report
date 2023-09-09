@@ -33,6 +33,7 @@
 |---------|------------|---------|-----------------------------------------------------------------|
 | TB1     | 21-08-2023 | Orlando | Se crearon los archivos md del capitulo 1 y 2 en el repositorio |
 | TB1     | 09-09-2023 | Louis   | Avance el capitulo 2 y 4 en el repositorio                      |
+| TB1     | 09-09-2023 | Orlando | Avance el capitulo 1, 2 y 3 en el repositorio                   |
 
 
 
@@ -50,6 +51,11 @@
 |746ab558314266c63a4d54f581242b4eb60506b9| Orlando | 21-08-2023 |chore: Add initial files for team to start working - Included the necessary files in the chapter 2 for the team to begin working on the assigned task|
 |cad53628381fa3bbd01b186e2e63305c7ee37e85| Louis   | 09-09-2023 |doc: As-is-Scenario-Mapping, Empathy-Mapping, User-Journey-Mapping added                                                                                                                                                     |
 |859f290a360ac940dd594d2fd5d7fb7d179c9e04| Louis   | 09-09-2023 |doc: Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams added                                                                                                                                                     |
+|2651227a287c63ac50234204a6650104dd84f764|Orlando|09-09-2023|doc: Canvas, Target Segment and Team members profile added|
+|829cec314671610d0025d3215d39e5f54d88a245|Orlando|09-09-2023|doc: Competitive analysis, Competitors and strategies and tactics against competitos added|
+|8770ca25d5b57886f85c143394bd8017c7c1492c|Orlando|09-09-2023|Landing page and Architecture information parts added|
+|4a4538f7c137f24d34992cf582b5f2cce14c6ac7|Orlando|09-09-2023|doc: class diagram, class dictionary and database diagram added|
+
 
 ### Actividades:
 - fecha: 20-08-2023
