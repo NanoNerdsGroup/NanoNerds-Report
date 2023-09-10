@@ -1243,7 +1243,7 @@ User goal: Funcionalidad de Pagos
 
 ## 4.5. Web Applications Prototyping. <a name="45-web-applications-prototyping"></a>
 
-En esta sección, hemos desarrollado un prototipo de la aplicación web utilizando Figma. Además, se elaboró un video que permite una comprensión completa de la interfaz de la aplicación, destacando la ubicación de cada sección importante. Este prototipo incorpora los objetivos de usuario específicos de nuestros segmentos objetivo (Guest/Host).
+En esta sección, hemos desarrollado un prototipo de la aplicación web utilizando Figma. Además, se elaboró un video que permite una comprensión completa de la interfaz de la aplicación, destacando la ubicación de cada sección importante. Este prototipo incorpora los objetivos de usuario específicos de nuestros segmentos objetivo (Usuario/Vendedor).
 
 ![](images-chapter5/prototyping/prototipo.png)
 
