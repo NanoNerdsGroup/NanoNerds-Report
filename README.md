@@ -95,11 +95,11 @@ Durante una reunión de google meet hemos elegido una idea para nuestra startup.
     - [2.3.4. Empathy Mapping](#234-empathy-mapping)
     - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
 
-- [Capítulo III: Requirements Specification]()
-  - [3.1. To-Be Scenario Mapping]()
-  - [3.2. User Stories]()
-  - [3.3. Impact Mapping]()
-  - [3.4. Product Backlog]()
+- [Capítulo III: Requirements Specification](#capítulo-ii-requirements-specification)
+  - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
+  - [3.2. User Stories](#32-user-stories)
+  - [3.3. Impact Mapping](#33-impact-mapping)
+  - [3.4. Product Backlog](#34-product-backlog)
 
 - [Capítulo IV: Product Design]()
   - [4.1. Style Guidelines]()
@@ -664,3 +664,12 @@ Ambos valoran la posibilidad de encontrar ofertas y descuentos en tiendas asocia
   </tr>
 <br>
 
+# Capítulo III: Requirements Specification <a name="capítulo-ii-requirements-specification"></a>
+
+## 3.1. To-Be Scenario Mapping. <a name="31-to-be-scenario-mapping"></a>
+
+## 3.2. User Stories. <a name="32-user-stories"></a>
+
+## 3.3. Impact Mapping. <a name="33-impact-mapping"></a>
+
+## 3.4. Product Backlog. <a name="34-product-backlog"></a>
