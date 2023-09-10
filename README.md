@@ -35,6 +35,7 @@
 | TB1     | 09-09-2023 | Louis   | Avance el capitulo 2 y 4 en el repositorio                      |
 | TB1     | 09-09-2023 | Orlando | Avance el capitulo 1, 2 y 3 en el repositorio                   |
 | TB1     | 08-09-2023 | Antonella | Avance el capitulo 1, y 5 en el repositorio                   |
+|TB1| 08-09-2023|Gustavo|Avance del capitulo 2 y 4 en el repositorio|
 
 
 
@@ -56,6 +57,16 @@
 |829cec314671610d0025d3215d39e5f54d88a245|Orlando|09-09-2023|doc: Competitive analysis, Competitors and strategies and tactics against competitos added|
 |8770ca25d5b57886f85c143394bd8017c7c1492c|Orlando|09-09-2023|Landing page and Architecture information parts added|
 |4a4538f7c137f24d34992cf582b5f2cce14c6ac7|Orlando|09-09-2023|doc: class diagram, class dictionary and database diagram added|
+|9d359303769f0a685720263d94cd3c2d51854f78|Gustavo|09-09-23|doc: interview analysis added|
+|e2b06beaa55b397b9d949a57c1c9eebe34632a0b|Gustavo|09-09-2023|doc: interview record added|
+|81c82cf12b7654dd3c19755effe9ad1b2a46da03|Gustavo|09-09-2023|interviuw-record added|
+|2bc4c299542ff2b2d5fbe2504e510c3b27c595cc|Gustavo|09-09-2023|interview images ad0des|
+|48951439f83ee0065f5d8baf58258b6d0856f46f|Gustavo|09-09-2023|doc: Images and Web-Applications-wireframes added|
+|d5bcb707c331ecb9db103314957cfb3974a7ab5f|Gustavo|09-09-2023|doc: Web-Applications-Wireflows-Diagrams added|
+|833c24f1cf4ffc085b5873b83e9711bce3e00f03|Gustavo|09-09-2023|doc: Web Applications Wireframes and images added|
+|85fe6ffce3d839f859f1243cd96ec27e6ca71161|Gustavo|09-09-2023|doc: modified images|
+|13b6dd749cc235280b475285c14cc8b294ec1e7b|Gustavo|09-09-2023|doc: Web Applications User Flow Diagrams added|
+|41346ac9fdc98c588d5d3a3c62b1ad621ab525ce|Gustavo|10-09-2023|doc: Web Applications Prototyping added|
 
 
 ### Actividades:
@@ -208,9 +219,10 @@ Como estudiante de la carrera de Ingeniería de Software, brindaré mis conocimi
 
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-        <center><img src="imagenes-start-report/profiles/gustavo.png" alt="" width="280" height="250"></center>
+      <center><img src="https://cdn.discordapp.com/attachments/834550053590925412/1150505863677759548/gustavo.png" width="280" height="250"></center>
     </td>
-</tr>
+  </tr>
+<br>
 
 
 
