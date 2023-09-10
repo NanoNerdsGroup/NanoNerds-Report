@@ -789,28 +789,579 @@ En esta sección redactamos las historias de usuario necesarias para el correcto
 ## 4.1. Style Guidelines. <a name="41-style-guidelines"></a>
 
 ### 4.1.1. General Style Guidelines. <a name="411-general-style-guidelines"></a>
+
+**Branding de TechShop:**
+
+Nuestro branding busca transmitir innovación, confianza y accesibilidad. Utilizamos una combinación de colores, tipografía y tono de comunicación que reflejan los valores esenciales de nuestra plataforma.
+
+**Tipografía:**
+
+Hemos elegido la fuente tipográfica "Poppins" como nuestra principal elección para el texto. Poppins es una fuente moderna y legible que complementa nuestra imagen de marca al transmitir claridad y accesibilidad.
+
+**Colores:** Nuestra paleta de colores incluye:
+
+Verde (#A4B300): Representa la frescura y la innovación, reflejando nuestra oferta de soluciones tecnológicas avanzadas.
+
+Azul (#66CCFF): Transmite confianza, fiabilidad y profesionalismo, asegurando a los usuarios que TechShop es una plataforma confiable.
+
+Gris (#333333): Refleja profesionalismo, neutralidad y calidad en la asesoría de componentes tecnológicos.
+
+**Tono de Comunicación y Lenguaje:**
+
+El tono de comunicación de TechShop es una combinación de profesionalismo y amigabilidad. Nuestro lenguaje es claro y conciso, mostrando empatía hacia las necesidades de nuestros usuarios. Mantenemos un equilibrio entre lo formal y lo accesible, asegurando que la comunicación sea respetuosa y fácil de entender.
+
+Estas pautas de branding reflejan la identidad visual y de comunicación de TechShop, destacando nuestra dedicación a la innovación, confiabilidad y calidad en la asesoría de componentes tecnológicos.
+
 ### 4.1.2. Web Style Guidelines. <a name="412-web-style-guidelines"></a>
+
+**Colores Principales:**
+
+- **Verde Primario (#A4B300):** El verde es un color que simboliza la frescura y la innovación. Al utilizar el verde como color principal, TechShop comunica su compromiso con la tecnología avanzada y soluciones frescas en la personalización de componentes tecnológicos.
+
+- **Azul Primario (#66CCFF):** El azul transmite confianza y fiabilidad. Utilizar el azul como color principal en TechShop refleja la confiabilidad de la plataforma para brindar recomendaciones precisas y confiables de componentes tecnológicos.
+
+**Color Secundario:**
+
+- **Gris Secundario (#333333):** El gris se asocia con profesionalismo y neutralidad. Al incorporar el gris como color secundario, TechShop comunica su compromiso con la seriedad y la calidad en la asesoría de componentes tecnológicos.
+
+Estos colores ayudarán a establecer una identidad visual distintiva para TechShop, transmitiendo confianza, innovación y profesionalismo a sus usuarios.
+
 ## 4.2. Information Architecture. <a name="42-information-architecture"></a>
 ### 4.2.1. Organization Systems. <a name="421-organization-systems"></a>
+
+**Jerarquía Visual:**
+
+Utilizaremos una jerarquía visual clara para destacar elementos cruciales, como la búsqueda de componentes, la selección y la información del usuario. Esto asegurará que los usuarios puedan identificar rápidamente las funciones clave y sepan dónde dirigirse para lograr sus objetivos.
+
+**Organización Secuencial (Paso a Paso):**
+
+Implementaremos un enfoque de organización secuencial en el proceso de selección de componentes. Guiaremos a los usuarios paso a paso, desde la definición de sus necesidades hasta la compra final, para asegurarnos de que cada etapa sea comprensible y fácil de seguir.
+
+**Organización Matricial:**
+
+En casos donde haya múltiples opciones de componentes, como tipos de procesadores o tarjetas gráficas, utilizaremos una organización matricial para presentar de manera clara y comparativa las diferentes opciones. Esto ayudará a los usuarios a tomar decisiones informadas.
+
+**Esquemas de Categorización de Contenido:**
+
+Cronológico: Emplearemos la categorización cronológica en secciones como "Historial de Compras" para que los usuarios puedan rastrear y revisar sus acciones pasadas de manera ordenada.
+
+**Según Audiencia (Grupos de Usuarios):** Utilizaremos la categorización según grupos de usuarios en áreas como "Recomendaciones Personalizadas", donde ofreceremos selecciones de componentes adaptadas a las necesidades específicas de diferentes tipos de usuarios, como gamers, profesionales de diseño, etc.
+
 ### 4.2.2. Labeling Systems. <a name="422-labeling-systems"></a>
+
+Este enfoque emplea una escritura clara y directa para identificar las funciones y secciones en la página de inicio, manteniendo un diseño minimalista que facilita la comprensión de los usuarios. Además, se han etiquetado de manera efectiva los botones y enlaces de navegación para proporcionar una experiencia de usuario más intuitiva. Además, se han incorporado íconos en colores vibrantes para representar características de la aplicación y enlaces a las redes sociales, lo que añade un toque visual atractivo.
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <center><img src="https://cdn.discordapp.com/attachments/782453162409328641/1150016256758530128/image.png?"></center>
+    </td>
+  </tr>
+<br>
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <center><img src="https://cdn.discordapp.com/attachments/782453162409328641/1150016202308059246/image.png"></center>
+    </td>
+  </tr>
+<br>
+
 ### 4.2.3. SEO Tags and Meta Tags <a name="423-seo-tags-and-meta-tags"></a>
+
+Landing Page:
+
+```HTML
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>TechShop - Encuentra los componentes que necesitas para tu pc</title>
+<meta name="description" content="TechShop simplifica tu experiencia de compra de componentes. Encuentra fácilmente los componentes que necesitas. Únete a nosotros hoy.">
+<meta name="keywords" content="componentes, compra de componentes, computadoras, precio competitivo, TechShop">
+<meta name="author" content="TechShop Inc.">
+<link rel="stylesheet" href="style.css">
+```
+
+
+Web application:
+
+```HTML
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Bienvenido a TechShop - Tu aliado en armar tu computadora ideal</title>
+<meta name="description" content="TechShop es tu compañero confiable para encontrar y comprar componentes. Descubre la mejor manera de armar tu computadora">
+<meta name="keywords" content="componentes, compra de componentes, computadoras, precio competitivo, TechShop">
+<meta name="author" content="TechShop Inc.">
+<link rel="stylesheet" href="app-style.css">
+```
+
 ### 4.2.4. Searching Systems. <a name="424-searching-systems"></a>
+
+**Sistema de Búsqueda en TechShop**
+
+Un sistema de búsqueda efectivo permitirá a los usuarios encontrar rápidamente la información que necesitan y ofrecerá opciones de filtro para personalizar sus búsquedas de componentes tecnológicos. La presentación de los resultados será clara y concisa, y los usuarios deben poder interactuar con los resultados para obtener más información y realizar compras si es necesario.
+
+**Opciones de Búsqueda:**
+
+- Búsqueda por Tipo de Componente: Los usuarios pueden buscar componentes específicos, como procesadores, tarjetas gráficas o almacenamiento.
+
+- Búsqueda por Marca: Posibilidad de buscar componentes de una marca específica.
+
+- Filtros de Precio: Los usuarios pueden definir un rango de precios para ajustarse a su presupuesto.
+
+- Tipo de Uso: Los usuarios pueden seleccionar si necesitan componentes para gaming, diseño gráfico, trabajo de oficina, etc.
+
+- Calificaciones y Reseñas: Los usuarios pueden filtrar los componentes según las calificaciones y reseñas de otros compradores.
+
+**Presentación de los Datos Después de la Búsqueda:**
+
+- Lista de Resultados: Se muestra una lista de componentes que coinciden con los criterios de búsqueda, con detalles esenciales como nombre, marca, precio y calificaciones.
+
+- Información Detallada: Los usuarios pueden hacer clic en un componente para obtener información detallada, incluyendo especificaciones técnicas, opiniones de expertos y enlaces para comprar.
+
+- Filtros Adicionales: Los usuarios pueden refinar aún más sus resultados utilizando filtros adicionales, como velocidad de procesador, capacidad de almacenamiento, etc.
+
+- Ordenar Resultados: Se permite a los usuarios ordenar los resultados por precio, calificación o relevancia.
+
+- Carrito de Compra: Los usuarios pueden agregar componentes a su carrito de compra y proceder a la compra cuando estén listos.
+
+Este sistema de búsqueda garantiza que los usuarios de TechShop puedan encontrar fácilmente los componentes que necesitan y tomar decisiones informadas al personalizar sus sistemas tecnológicos.
+
+
 ### 4.2.5. Navigation Systems. <a name="425-navigation-systems"></a>
+
+El sistema de navegación en la página de inicio y en la aplicación es esencial para guiar a los usuarios de manera efectiva en su búsqueda de componentes tecnológicos y personalización de sistemas. Para lograrlo, hemos implementado las siguientes estrategias:
+
+- Menú de Navegación Claro: Utilizamos un menú visible en la parte superior con botones y texto claro para las secciones importantes de TechShop, como "Componentes", "Recomendaciones", "Tiendas" y "Mi Cuenta".
+
+- Estructura Jerárquica: Organizamos la información de manera jerárquica, destacando los componentes esenciales, como la búsqueda de componentes y las recomendaciones personalizadas.
+
+- Enlaces y Botones Reales: Utilizamos enlaces y botones descriptivos y relevantes, como "Buscar Componentes" y "Ver Recomendaciones".
+
+- Barra de Búsqueda: Incluimos una barra de búsqueda prominente en la parte superior de la página de inicio para facilitar la búsqueda de componentes y productos.
+
+- Rutas de Navegación Guiada: Creamos rutas paso a paso para tareas específicas, como la personalización de sistemas, guiando a los usuarios desde la selección de componentes hasta la compra.
+
+- Mapas Interactivos: Utilizamos mapas interactivos para mostrar la ubicación de tiendas asociadas y permitir a los usuarios explorar detalles adicionales.
+
+- Filtros y Categorías: Ofrecemos filtros y categorías para refinar las búsquedas de componentes, lo que facilita la localización de productos específicos.
+
+- Enlaces de Regreso: Proporcionamos enlaces "Volver" en todas las secciones para una navegación más fácil y rápida.
+
+- Navegación Responsiva: Aseguramos que la navegación sea efectiva y cómoda tanto en dispositivos de escritorio como en dispositivos móviles, garantizando una experiencia sin problemas.
+
+- Pruebas de Usuario: Realizamos pruebas regulares con usuarios reales y ajustamos la navegación en función del feedback recibido, asegurando una experiencia de usuario óptima.
+
+Un buen sistema de navegación está diseñado teniendo en cuenta las necesidades de nuestros usuarios, lo que mejora significativamente su experiencia al facilitar la búsqueda y la interacción en TechShop.
+
 ## 4.3. Landing Page UI Design. <a name="43-landing-page-ui-design"></a>
+
+En el diseño de la interfaz de usuario (UI) de nuestro Landing Page en TechShop, hemos aplicado nuestras decisiones de diseño y arquitectura de información de manera coherente para crear un enfoque visual atractivo y altamente funcional que refleja la esencia de TechShop. Nuestra principal meta es ofrecer a los usuarios una experiencia elegante, de fácil uso y centrada en la acción, donde puedan explorar y personalizar componentes tecnológicos de forma rápida y sencilla. A continuación, destacamos los principales aspectos de nuestro diseño UI:
+
+- Paleta de Colores
+- Tipografía
+- Imágenes y Videos
+- Botones y Enlaces
+- Navegación
+- Secciones Destacadas
+- Formularios y Barra de Búsqueda
+- Responsive Design
+- Pruebas de Usuario
+
+[Links Figma Landing Page Wireframe
+Web:](https://www.figma.com/file/d2K0pcnqAZyC8POc7vQOXX/TechShop-LandingPage?type=design&node-id=0%3A1&mode=design&t=E3ft7PDLLxwLfk76-1)
+
 ### 4.3.1. Landing Page Wireframe. <a name="431-landing-page-wireframe"></a>
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <center><img src="https://cdn.discordapp.com/attachments/782453162409328641/1149998598273110176/image.png"></center>
+    </td>
+  </tr>
+<br>
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <center><img src="https://cdn.discordapp.com/attachments/782453162409328641/1149998665734303776/image.png"></center>
+    </td>
+  </tr>
+<br>
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <center><img src="https://cdn.discordapp.com/attachments/782453162409328641/1149998732222410822/image.png"></center>
+    </td>
+  </tr>
+<br>
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <center><img src="https://cdn.discordapp.com/attachments/782453162409328641/1150002386698518669/image.png"></center>
+    </td>
+  </tr>
+<br>
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <center><img src="https://cdn.discordapp.com/attachments/782453162409328641/1150002460186910760/image.png"></center>
+    </td>
+  </tr>
+<br>
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <center><img src="https://cdn.discordapp.com/attachments/782453162409328641/1150002515413315624/image.png"></center>
+    </td>
+  </tr>
+<br>
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <center><img src="https://cdn.discordapp.com/attachments/782453162409328641/1150002555607330826/image.png"></center>
+    </td>
+  </tr>
+<br>
+
 ### 4.3.2. Landing Page Mock-up. <a name="432-landing-page-mock-up"></a>
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <center><img src="https://cdn.discordapp.com/attachments/782453162409328641/1150002651870793728/image.png"></center>
+    </td>
+  </tr>
+<br>
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <center><img src="https://cdn.discordapp.com/attachments/782453162409328641/1150002716618260561/image.png"></center>
+    </td>
+  </tr>
+<br>
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <center><img src="https://cdn.discordapp.com/attachments/782453162409328641/1150002816191057940/image.png"></center>
+    </td>
+  </tr>
+<br>
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <center><img src="https://cdn.discordapp.com/attachments/782453162409328641/1150002879445348352/image.png"></center>
+    </td>
+  </tr>
+<br>
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <center><img src="https://cdn.discordapp.com/attachments/782453162409328641/1150002932654280776/image.png"></center>
+    </td>
+  </tr>
+<br>
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <center><img src="https://cdn.discordapp.com/attachments/782453162409328641/1150003011419131944/image.png"></center>
+    </td>
+  </tr>
+<br>
+
 ## 4.4. Web Applications UX/UI Design. <a name="44-web-applications-uxui-design"></a>
 ### 4.4.1. Web Applications Wireframes. <a name="441-web-applications-wireframes"></a>
+
+User goal: Preferencia y gestión de cuenta de los usuarios.
+
+- Registro de sesión
+
+![](images/wireframes/registro.png)
+
+- Inicio de sesión
+
+![](images/wireframes/inicio-sesion.png)
+
+- Recuperar Contraseña
+
+![](images/wireframes/recuperar-contraseña.png)
+
+- Métodos de pago
+
+![](images/wireframes/metodo-pago.png)
+
+Descripción generada automáticamente](Aspose.Words.0c55bc50-9d83-42c3-8b47-ba9e0be4a04b.004.png)
+
+- Historial de pagos
+
+![](images/wireframes/historial-pagos.png)
+
+User goal: Funcionalidades de Búsqueda.
+
+- Búsqueda de Componentes.
+
+![](images/wireframes/buscar-componente.png)
+
+- Búsqueda de componentes en favoritos.
+
+![](images/wireframes/buscar-componente-fav.png)
+
+User goal: Mejora de soporte al cliente y experiencia de servicio.
+
+- Acceso a Preguntas Frecuentes y contacto con Servicio Técnico.
+
+![](images/wireframes/preguntas-frecuentes.png)
+
+User goal: Funcionalidad de pagos
+
+- Visualización y confirmación de pago.
+
+![](images/wireframes/visualizacion-pagos.png)
+
+- Compra de suscripciones
+
+![](images/wireframes/suscripcion.png)
+
+User goal: Preferencia y gestión de cuenta
+
+- Editar información del perfil del usuario y actualización de métodos de pago.
+
+![](images/wireframes/perfil-actualizacion-metodos.png)
+
+
 ### 4.4.2. Web Applications Wireflow Diagrams. <a name="442-web-applications-wireflow-diagrams"></a>
+
+User goal: Usuario se registra, inicia sesión o recupera su contraseña en la plataforma.
+
+![](images/wireflows-diagrams/registro-iniciosesion-recuperacion.png)
+
+**Descripción:**
+
+Al estar en la pestaña de bienvenida, el usuario tiene dos opciones: registrarse de manera gratuita rellenando el formulario con sus datos personales o iniciar sesión rellenando el formulario con su correo y contraseña. Además, puede recibir un correo para recuperar su contraseña si en caso se le olvidó.
+
+**User goal: Preguntas frecuentes y contacto a Servicio Técnico.**
+
+![](images/wireflows-diagrams/preguntas-soporte.png)
+
+**Descripción:**
+
+Al entrar en la pestaña de inicio, el usuario puede seleccionar la opción de preguntas frecuentes. El usuario puede seleccionar entre las preguntas frecuentes de vendedores o usuarios clientes. Si no consigue resolver sus dudas, puede contactar con soporte técnico.
+
+**User goal: Editar perfil y cambiar métodos de pago.**
+
+![](images/wireflows-diagrams/perfil-metodo-pago.png)
+
+**Descripción:**
+
+Al entrar en la pestaña de inicio, el usuario puede darle a su perfil y editar los datos necesarios. Asimismo, podrá cambiar sus métodos de pago
+
+.
+
+**User goal: Búsqueda de Componentes y visualización de favoritos.**
+
+![](images/wireflows-diagrams/busqueda-favoritos.png)
+
+**Descripción:**
+
+Al entrar en la pestaña de inicio, el usuario podrá buscar los componentes que quiera, además si le da a su nombre de usuario, visualizará la opción  de favoritos. Dentro de esta pestaña podrá ver los componentes que marcó como favoritos.
+
+**User goal: Visualización del historial de pagos.**
+
+![](images/wireflows-diagrams/historial-pagos.png)
+
+**Descripción:**
+
+Al entrar en la pestaña de inicio, el usuario puede seleccionar la pestaña con el nombre del usuario y entrar a historial de pagos. Dentro de la pestaña historial de pagos, el usuario puede visualizar los pagos que ha hecho con su respectiva fecha, método de pago, importe y nombre del vendedor.
+
+**User goal: Visualización de Suscripciones.**
+
+![](images/wireflows-diagrams/suscripciones.png)
+
+**Descripción:**
+
+Al entrar en la pestaña de inicio, el usuario puede seleccionar la pestaña con el nombre del usuario y entrar a suscripciones. En este apartado el usuario tendrá la opción de escoger entre distintos tipos de suscripción para beneficios en la aplicación.
+
+**User goal: Búsqueda y pago de componentes.**
+
+![](images/wireflows-diagrams/busqueda-pago.png)
+
+**Descripción:**
+
+Al entrar en la pestaña de inicio, el usuario puede buscar los componentes de su interés, al encontrar uno, podrá visualizar sus características, para posteriormente comprarlo.
+
+
 ### 4.4.2. Web Applications Mock-ups. <a name="443-web-applications-mock-ups"></a>
+
+User goal: Preferencia y gestión de cuenta de los usuarios.
+
+- Registro de Sesión
+
+![](images/mockups/registro.png)
+
+- Inicio de Sesión
+
+![](images/mockups/inicio%20de%20sesion.png)
+
+- Recuperar Contraseña
+
+![](images/mockups/recuperar-contrasena.png)
+
+- Métodos de pago.
+
+![](images/mockups/Métodos%20de%20pago.png)
+
+- Historial de pagos
+
+![](images/mockups/historial-pagos.png)
+
+User goal: Funcionalidades de Búsqueda para Componentes.
+
+- Búsqueda de un componente.
+
+![](images/mockups/busqueda-componentes.png)
+
+- Navegación por favoritos.
+
+![](images/mockups/favoritos.png)
+
+User goal: Soporte al cliente y experiencia de servicio.
+
+- Preguntas Frecuentes
+
+![](images/mockups/preguntas-frecuentes.png)
+
+User goal: Funcionalidad de Pagos
+
+- Visualización y confirmación de pago.
+
+![](images/mockups/confirmacion-pago.png)
+
+- Suscripciones
+
+![](images/mockups/suscripciones.png)
+
+
 ### 4.4.3. Web Applications User Flow Diagrams. <a name="444web-applications-user-flow-diagrams"></a>
+
+- Registro e Inicio de Sesión
+
+![](images/userflow-diagrams/registro-inicio-sesion.png)
+
+
+
+
+- Preguntas Frecuentes y Soporte Técnico
+
+![](images/userflow-diagrams/preguntas-soporte.png)
+
+- Compra de un componente.
+
+![](images/userflow-diagrams/compra-componente.png)
+
+
 ## 4.5. Web Applications Prototyping. <a name="45-web-applications-prototyping"></a>
+
 ## 4.6. Domain-Driven Software Architecture. <a name="46-domain-driven-software-architecture"></a>
 ### 4.6.1. Software Architecture Context Diagram. <a name="461-software-architecture-context-diagram"></a>
+
+A continuación, se mostrará el Context Diagram de nuestra aplicación el cual nos permitirá establecer un buen punto de partida para poder diagramar y documentar nuestro sistema de manera general.
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/610911183339388978/1149958498755555388/1.1.JPG?width=958&height=676">
+    </td>
+  </tr>
+<br>
+
 ### 4.6.2. Software Architecture Container Diagrams. <a name="462-software-architecture-container-diagrams"></a>
+
+A continuación, se mostrará el Container Diagram de nuestra aplicación en el cual se visualiza la forma de alto nivel de la arquitectura del software y cómo se distribuyen las responsabilidades en ella.
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/610911183339388978/1149957676541935776/2.2.JPG?width=961&height=676">
+    </td>
+  </tr>
+<br>
+
 ### 4.6.3. Software Architecture Components Diagrams. <a name="463-software-architecture-components-diagrams"></a>
+
+A continuación, se mostrará el Component Diagram en el cual se descompone el contenedor “API Application” y se identifican los principales bloques de construcción estructurales y sus interacciones.
+
+### Componente IMS App
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/610911183339388978/1149959365076463656/3.3.JPG?width=961&height=676">
+    </td>
+  </tr>
+<br>
+
+### Componente Verificación de cuenta
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/610911183339388978/1149959375872593971/3.4.JPG?width=955&height=676">
+    </td>
+  </tr>
+<br>
+
+### Componente Creación de cuenta
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/610911183339388978/1149959388786872330/3.5.JPG?width=962&height=676">
+    </td>
+  </tr>
+<br>
+
+### Componente Notificaciones
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/610911183339388978/1149959402472874065/3.6.JPG?width=952&height=676">
+    </td>
+  </tr>
+<br>
+
+
+Link del structuriz -> https://structurizr.com/share/77547/38021e1c-f520-406c-abdb-3b7b54326c66/diagrams#Contenedor
+
 ## 4.7. Software Object-Oriented Design. <a name="47-software-object-oriented-design"></a>
 ### 4.7.1. Class Diagrams. <a name="471-class-diagrams"></a>
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <center><img src="https://cdn.discordapp.com/attachments/782453162409328641/1149997559444672573/Diagrama_de_clase_TechShop.png"></center>
+    </td>
+  </tr>
+<br>
+
+[Diagrama de clases](https://drive.google.com/file/d/1E-qaWEXrm9yYL5iFyc1zxCPxPna7dXEi/view?usp=sharing)
+
 ### 4.7.2. Class Dictionary. <a name="472-class-dictionary"></a>
+
+|Nombre|Descripción|
+| :-: | :-: |
+|User|Clase padre de Seller y Customer, encargada de la autenticación del usuario|
+|Customer|Clase hija de User, encargada de identificar a los usuario de tipo customer|
+|Seller|Clase hija de User, encargada de identificar a los usuarios de tipo Seller|
+|Account|Encargada de declarar los beneficios del usuario|
+|Subscription|Encargada de declarar las suscripciones que tendra la cuenta|
+|Plan|Encargada de definir los tipos de planes y su duracion|
+|PlanType|Define los tipos de planes|
+|SalesOrden|Encargada de controlar los items, y definir al vender y al cliente en la orden de compra |
+|SalesOrdenItem|Encargada de declarar el producto, la cantidad y el precio unitario|
+|Product|Encargada de declarar la información del producto|
+|CustomerPayment|Encargada de realizar la compra de la orden|
+|CreditCard|Encargada de declarar la información de las tarjetas de credito|
+|SerchComponent|Encargada de buscar los componentes que necesita el usuario.|
+|Requirement|Encargada de definir los requerimientos del usuario, para contruir su computadora|
+|Program|Encargada de definir los programas que usará el usuario en su computadora|
+|Category|Encargada de definir la categoria del programa|
+
+
+
 ## 4.8. Database Design. <a name="48-database-design"></a>
 ### 4.8.1. Database Diagram. <a name="481-database-diagram"></a>
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <center><img src="https://cdn.discordapp.com/attachments/782453162409328641/1149997542352883733/Diagrama_base_de_datos_TechShop.drawio.png"></center>
+    </td>
+  </tr>
+<br>
+
+[Diagrama de base de datos](https://drive.google.com/file/d/1L4b3JzFnEZNRVmTpG1lnVg9T6JHnWVew/view?usp=sharing)
