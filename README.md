@@ -208,7 +208,7 @@ Como estudiante de la carrera de Ingeniería de Software, brindaré mis conocimi
 
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-        <center><img src="imagenes-start-report/profiles/gustavo.png" alt="Imagen desde Google Drive" width="280" height="250"></center>
+        <center><img src="imagenes-start-report/profiles/gustavo.png" alt="" width="280" height="250"></center>
     </td>
 </tr>
 
