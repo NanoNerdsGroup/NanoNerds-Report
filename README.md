@@ -204,6 +204,16 @@ Soy Antonella Frida Gonzales Gomez, como estudiante de la carrera de Ingeniería
 </tr>
 
 
+Como estudiante de la carrera de Ingeniería de Software, brindaré mis conocimientos tanto de programación como diseño a mi equipo. Escogí esta carrera porque me encanta la tecnología y me mantiene actualizado en todo momento.
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+        <center><img src="imagenes-start-report/profiles/gustavo.png" alt="Imagen desde Google Drive" width="280" height="250"></center>
+    </td>
+</tr>
+
+
+
 ## 1.2. Solution Profile <a name="12-solution-profile"></a>
 
 ### 1.2.1  Antecedentes y problemática <a name="121-antecedentes-y-problemática"></a>
