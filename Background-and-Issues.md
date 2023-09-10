@@ -1,4 +1,4 @@
-***Antecedentes y Problemática
+Antecedentes y Problemática
 
 ●	What (Qué)
 El desconocimiento de gran parte de la población sobre el hardware y el armado de una computadora, en especial el sector juvenil que se integra en el mundo del gaming, trabajo o estudio. Por ello se desea ayudar dando información sobre los componentes y así despejando las dudas que pudiesen tener sin el temor de ser estafados por precios inflados, componentes de segunda o de mala calidad, especializadas en constatar todos los precios e informarse sobre los productos.
