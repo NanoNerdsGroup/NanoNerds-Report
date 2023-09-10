@@ -101,34 +101,34 @@ Durante una reunión de google meet hemos elegido una idea para nuestra startup.
   - [3.3. Impact Mapping](#33-impact-mapping)
   - [3.4. Product Backlog](#34-product-backlog)
 
-- [Capítulo IV: Product Design]()
-  - [4.1. Style Guidelines]()
-    - [4.1.1. General Style Guidelines]()
-    - [4.1.2. Web Style Guidelines]()
-  - [4.2. Information Architecture]()
-    - [4.2.1. Organization Systems]()
-    - [4.2.2. Labeling Systems]()
-    - [4.2.3. SEO Tags and Meta Tags]()
-    - [4.2.4. Searching Systems]()
-    - [4.2.5. Navigation Systems]()
-  - [4.3. Landing Page UI Design]()
-    - [4.3.1. Landing Page Wireframe]()
-    - [4.3.2. Landing Page Mock-up]()
-  - [4.4. Web Applications UX/UI Design]()
-    - [4.4.1. Web Applications Wireframes]()
-    - [4.4.2. Web Applications Wireflow Diagrams]()
-    - [4.4.3. Web Applications Mock-ups]()
-    - [4.4.4. Web Applications User Flow Diagrams]()
-  - [4.5. Web Applications Prototyping]()
-  - [4.6. Domain-Driven Software Architecture]()
-    - [4.6.1. Software Architecture Context Diagram]()
-    - [4.6.2. Software Architecture Container Diagrams]()
-    - [4.6.3. Software Architecture Components Diagrams]()
-  - [4.7. Software Object-Oriented Design]()
-    - [4.7.1. Class Diagrams]()
-    - [4.7.2. Class Dictionary]()
-  - [4.8. Database Design]()
-    - [4.8.1. Database Diagram]()
+- [Capítulo IV: Product Design](#capítulo-iv-product-design)
+  - [4.1. Style Guidelines](#41-style-guidelines)
+    - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
+    - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
+  - [4.2. Information Architecture](#42-information-architecture)
+    - [4.2.1. Organization Systems](#421-organization-systems)
+    - [4.2.2. Labeling Systems](#422-labeling-systems)
+    - [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
+    - [4.2.4. Searching Systems](#424-searching-systems)
+    - [4.2.5. Navigation Systems](#425-navigation-systems)
+  - [4.3. Landing Page UI Design](#43-landing-page-ui-design)
+    - [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)
+    - [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up)
+  - [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)
+    - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
+    - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
+    - [4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups)
+    - [4.4.4. Web Applications User Flow Diagrams](#444web-applications-user-flow-diagrams)
+  - [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
+  - [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
+    - [4.6.1. Software Architecture Context Diagram](#461-software-architecture-context-diagram)
+    - [4.6.2. Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)
+    - [4.6.3. Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)
+  - [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
+    - [4.7.1. Class Diagrams](#471-class-diagrams)
+    - [4.7.2. Class Dictionary](#472-class-dictionary)
+  - [4.8. Database Design](#48-database-design)
+    - [4.8.1. Database Diagram](#481-database-diagram)
 
 - [Capítulo V: Product Implementation, Validation & Deployment]()
   - [5.1. Software Configuration Management]()
@@ -755,4 +755,62 @@ En esta sección redactamos las historias de usuario necesarias para el correcto
 |20 |US-19 |Cambiar de Idioma a Español/Inglés|Como usuario quiero tener la opción de cambiar el idioma del sitio entre español e inglés. |5 |
 
 
+- [Capítulo IV: Product Design](#capítulo-iv-product-design)
+  - [4.1. Style Guidelines](#41-style-guidelines)
+    - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
+    - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
+  - [4.2. Information Architecture](#42-information-architecture)
+    - [4.2.1. Organization Systems](#421-organization-systems)
+    - [4.2.2. Labeling Systems](#422-labeling-systems)
+    - [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
+    - [4.2.4. Searching Systems](#424-searching-systems)
+    - [4.2.5. Navigation Systems](#425-navigation-systems)
+  - [4.3. Landing Page UI Design](#43-landing-page-ui-design)
+    - [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)
+    - [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up)
+  - [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)
+    - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
+    - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
+    - [4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups)
+    - [4.4.4. Web Applications User Flow Diagrams](#444web-applications-user-flow-diagrams)
+  - [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
+  - [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
+    - [4.6.1. Software Architecture Context Diagram](#461-software-architecture-context-diagram)
+    - [4.6.2. Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)
+    - [4.6.3. Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)
+  - [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
+    - [4.7.1. Class Diagrams](#471-class-diagrams)
+    - [4.7.2. Class Dictionary](#472-class-dictionary)
+  - [4.8. Database Design](#48-database-design)
+    - [4.8.1. Database Diagram](#481-database-diagram)
 
+
+# Capítulo IV: Product Design <a name="capítulo-iv-product-design"></a>
+## 4.1. Style Guidelines. <a name="41-style-guidelines"></a>
+
+### 4.1.1. General Style Guidelines. <a name="411-general-style-guidelines"></a>
+### 4.1.2. Web Style Guidelines. <a name="412-web-style-guidelines"></a>
+## 4.2. Information Architecture. <a name="42-information-architecture"></a>
+### 4.2.1. Organization Systems. <a name="421-organization-systems"></a>
+### 4.2.2. Labeling Systems. <a name="422-labeling-systems"></a>
+### 4.2.3. SEO Tags and Meta Tags <a name="423-seo-tags-and-meta-tags"></a>
+### 4.2.4. Searching Systems. <a name="424-searching-systems"></a>
+### 4.2.5. Navigation Systems. <a name="425-navigation-systems"></a>
+## 4.3. Landing Page UI Design. <a name="43-landing-page-ui-design"></a>
+### 4.3.1. Landing Page Wireframe. <a name="431-landing-page-wireframe"></a>
+### 4.3.2. Landing Page Mock-up. <a name="432-landing-page-mock-up"></a>
+## 4.4. Web Applications UX/UI Design. <a name="44-web-applications-uxui-design"></a>
+### 4.4.1. Web Applications Wireframes. <a name="441-web-applications-wireframes"></a>
+### 4.4.2. Web Applications Wireflow Diagrams. <a name="442-web-applications-wireflow-diagrams"></a>
+### 4.4.2. Web Applications Mock-ups. <a name="443-web-applications-mock-ups"></a>
+### 4.4.3. Web Applications User Flow Diagrams. <a name="444web-applications-user-flow-diagrams"></a>
+## 4.5. Web Applications Prototyping. <a name="45-web-applications-prototyping"></a>
+## 4.6. Domain-Driven Software Architecture. <a name="46-domain-driven-software-architecture"></a>
+### 4.6.1. Software Architecture Context Diagram. <a name="461-software-architecture-context-diagram"></a>
+### 4.6.2. Software Architecture Container Diagrams. <a name="462-software-architecture-container-diagrams"></a>
+### 4.6.3. Software Architecture Components Diagrams. <a name="463-software-architecture-components-diagrams"></a>
+## 4.7. Software Object-Oriented Design. <a name="47-software-object-oriented-design"></a>
+### 4.7.1. Class Diagrams. <a name="471-class-diagrams"></a>
+### 4.7.2. Class Dictionary. <a name="472-class-dictionary"></a>
+## 4.8. Database Design. <a name="48-database-design"></a>
+### 4.8.1. Database Diagram. <a name="481-database-diagram"></a>
