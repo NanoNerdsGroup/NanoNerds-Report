@@ -67,33 +67,33 @@ Durante una reunión de google meet hemos elegido una idea para nuestra startup.
 
 # Contenido
 
-- [Capítulo I: Introducción]()
-  - [1.1. Startup Profile]()
-    - [1.1.1. Descripción de la Startup]()
-    - [1.1.2. Perfiles de integrantes del equipo]()
-  - [1.2. Solution Profile]()
-    - [1.2.1. Antecedentes y problemática]()
-    - [1.2.2. Lean UX Process]()
-      - [1.2.2.1. Lean UX Problem Statements]()
-      - [1.2.2.2. Lean UX Assumptions]()
-      - [1.2.2.3. Lean UX Hypothesis Statements]()
-      - [1.2.2.4. Lean UX Canvas]()
-    - [1.3. Segmentos objetivo]()
+- [Capítulo I: Introducción](#capitulo-1)
+  - [1.1. Startup Profile](#11-startup-profile)
+    - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
+    - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
+  - [1.2. Solution Profile](#12-solution-profile)
+    - [1.2.1. Antecedentes y problemática](#121-antecedentes-y-problemática)
+    - [1.2.2. Lean UX Process](#122-lean-ux-process)
+      - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
+      - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
+      - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
+      - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
+    - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
 
-- [Capítulo II: Requirements Elicitation & Analysis]()
-  - [2.1. Competidores]()
-    - [2.1.1. Análisis competitivo]()
-    - [2.1.2. Estrategias y tácticas frente a competidores]()
-  - [2.2. Entrevistas]()
-    - [2.2.1. Diseño de entrevistas]()
-    - [2.2.2. Registro de entrevistas]()
-    - [2.2.3. Análisis de entrevistas]()
-  - [2.3. Needfinding]()
-    - [2.3.1. User Personas]()
-    - [2.3.2. User Task Matrix]()
-    - [2.3.3. User Journey Mapping]()
-    - [2.3.4. Empathy Mapping]()
-    - [2.3.5. As-is Scenario Mapping]()
+- [Capítulo II: Requirements Elicitation & Analysis](#capítulo-ii-requirements-elicitation--analysis)
+  - [2.1. Competidores](#21-competidores)
+    - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
+    - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
+  - [2.2. Entrevistas](#22-entrevistas)
+    - [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
+    - [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
+    - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
+  - [2.3. Needfinding](#23-needfinding)
+    - [2.3.1. User Personas](#231-user-personas)
+    - [2.3.2. User Task Matrix](#232-user-task-matrix)
+    - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
+    - [2.3.4. Empathy Mapping](#234-empathy-mapping)
+    - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
 
 - [Capítulo III: Requirements Specification]()
   - [3.1. To-Be Scenario Mapping]()
@@ -161,11 +161,11 @@ Durante una reunión de google meet hemos elegido una idea para nuestra startup.
 
 # Student Outcome
 
-# Capítulo I: Introducción 
+# Capítulo I: Introducción <a name="capitulo-1"></a>
 
-## 1.1. Startup Profile 
+## 1.1. Startup Profile <a name="11-startup-profile"></a>
 
-### 1.1.1. Descripción de la Startup 
+### 1.1.1. Descripción de la Startup <a name="111-descripción-de-la-startup"></a>
 
 TechShop es una plataforma innovadora que tiene como objetivo simplificar y mejorar la forma en que las personas diseñan y personalizan sus propias PCs y laptops. En nuestro enfoque centrado en el usuario, proporcionamos a los usuarios la capacidad de definir requisitos específicos para su sistema a través de un cuestionario interactivo. Por ejemplo, si desean un sistema para juegos de alto rendimiento o para tareas intensivas de edición de video, TechShop procesa esta información y ofrece recomendaciones precisas de componentes que garantizan un rendimiento óptimo para cada caso de uso.
 
@@ -175,7 +175,7 @@ Visión: Ser líder global en la personalización de PCs y laptops, ofreciendo u
 
 Misión: Facilitar la creación de tecnología personalizada al brindar recomendaciones precisas de componentes y conectar a los usuarios con opciones confiables de compra, transformando así la manera en que las personas interactúan con la tecnología
 
-### 1.1.2. Perfiles de integrantes del equipo 
+### 1.1.2. Perfiles de integrantes del equipo <a name="112-perfiles-de-integrantes-del-equipo"></a>
 
 Soy Louis Piero Alfaro Coveñas, soy estudiante de la UPC en la carrera de ingenieria de Software. Cuento con el conocimiento de diversos lenguajes HTML,java, C++, C# y MySQL. Ya tengo experiencia creando páginas con los modelos C4
 <tr>
@@ -204,14 +204,14 @@ Soy Antonella Frida Gonzales Gomez, como estudiante de la carrera de Ingeniería
 </tr>
 
 
-## 1.2. Solution Profile 
+## 1.2. Solution Profile <a name="12-solution-profile"></a>
 
-### 1.2.1  Antecedentes y problemática 
+### 1.2.1  Antecedentes y problemática <a name="121-antecedentes-y-problemática"></a>
 
 
-### 1.2.2 Lean UX Process. 
+### 1.2.2 Lean UX Process. <a name="122-lean-ux-process"></a>
 
-#### 1.2.2.1. Lean UX Problem Statements. 
+#### 1.2.2.1. Lean UX Problem Statements. <a name="1221-lean-ux-problem-statements"></a>
 
 - **PS1:**
  Objetivos actuales del producto: Simplificar la experiencia de personalización de PCs y laptops al brindar recomendaciones precisas de componentes y opciones de compra confiables.
@@ -228,11 +228,11 @@ Objetivos actuales del producto: Conectar a los usuarios con tiendas de componen
   Pregunta solicitud de mejora: ¿Cómo podemos desarrollar soluciones que permitan a los vendedores presentar sus productos de manera más atractiva y destacar sus características diferenciales en la plataforma, para así fomentar su participación y diversificar las opciones disponibles para nuestros usuarios?
 
 
-#### 1.2.2.2. Lean UX Assumptions. 
+#### 1.2.2.2. Lean UX Assumptions. <a name="1222-lean-ux-assumptions"></a>
 
 
 
-#### 1.2.2.3. Lean UX Hypothesis Statements. 
+#### 1.2.2.3. Lean UX Hypothesis Statements. <a name="1223-lean-ux-hypothesis-statements"></a>
 
 
 La finalidad de esta idea de negocio es brindar a todas las personas con falta de conocimiento de pc, herramientas que les ayude a informarse sobre componentes y armado de sus pc deseadas.
@@ -265,18 +265,14 @@ La finalidad de esta idea de negocio es brindar a todas las personas con falta d
   Cuando observemos un aumento del 30% en la cantidad de clics y visitas a las páginas de productos exhibidos por los vendedores. Esto indicará que los usuarios están explorando más a fondo las ofertas de los vendedores, lo que sugiere un mayor interés y participación.
 
 
-#### 1.2.2.4. Lean UX Canvas. 
-
-1.2.2.4. Lean UX Canvas.
+#### 1.2.2.4. Lean UX Canvas. <a name="1224-lean-ux-canvas"></a>
 
 |<p>**Business Problem**</p><p>●         Buscamos dar recomendaciones a las personas que tienen poco conocimiento de los componentes de las pc o laptops</p><p></p><p>●         Gente que desconoce sobre el funcionamiento o para qué empleamos los componentes.</p>|<p>**Solution**</p><p>●        En base al conocimiento de  expertos en armado de componentes, se desarrolla una búsqueda selectiva.</p><p></p><p>●        Ofrecer componentes de acuerdo con el rango de presupuesto</p><p></p><p>●        Algoritmo de respuesta con un almacenamiento de respuestas</p><p>** </p>|<p>**Business Outcomes**</p><p>●        El valor fundamental que el usuario buscará en nuestra página es el encontrar   la compra ideal de componentes para  pc o laptops con seguridad de conseguir precios justos y económicos</p>|
 | :-: | :-: | :-: |
 |<p>**Users**</p><p>●        Personas entre 18 a 30 años</p>|** |<p>`    `**User Outcomes & Benefits**</p><p>●        Las personas realizarán compras útiles</p><p>●         Confianza en su compra</p>|
 |<p>**Hypothesis**</p><p>** </p><p>●         Creemos que si damos una interfaz de usuario a nuestra página será más llamativo y fácil para el usuario.</p><p></p><p>●        Creemos que si nos aliamos con otras tiendas nos dará más ingresos con la publicidad</p><p></p><p>●        Creemos que si promocionamos nuestra página por las distintas redes sociales aumentará el uso de esta.</p><p></p>|<p>**What is the most important thing we to learn first?**</p><p>** </p><p>●        Conocer el sector sector y la ubicación donde realizan más compras de componentes</p><p></p><p>●        Conocer las temporadas de compra de pc/laptops.</p><p></p><p>●        Conocer el presupuesto de los usuarios de acuerdo con sus ubicaciones</p><p> </p>|<p>**What is the least amount of work we need to do to learn the next most important thing?**</p><p>** </p><p>●        Hacer un estudio de mercado de los sectores</p><p></p><p>●        Realizar el algoritmo de acuerdo con las selecciones de los usuarios</p><p></p><p>●         Buscar marcas y tiendas aliadas</p>|
 
-## 1.3. Segmentos objetivo. 
-
-1.3. Segmentos objetivo.
+## 1.3. Segmentos objetivo. <a name="13-segmentos-objetivo"></a>
 
 **Usuario 1: Usuarios que buscan soluciones confiables y sencillas para comprar componentes de PC o laptops según sus necesidades únicas.**
 
@@ -332,4 +328,339 @@ Valores: Interés en ofrecer productos de alta calidad y diferenciados.
 Experiencia: Experiencia en la venta de componentes de tecnología.
 
 Intereses: Interés en mostrar productos de manera atractiva en una plataforma dedicada a la tecnología.
+
+# Capítulo II: Requirements Elicitation & Analysis <a name="capítulo-ii-requirements-elicitation--analysis"></a>
+
+## 2.1. Competidores. <a name="21-competidores"></a>
+
+**PCPartPicker:** Es una plataforma en línea que permite a los usuarios seleccionar componentes para construir su propia PC. Ofrece comparaciones de precios, compatibilidad de componentes y opciones personalizadas.
+
+**Newegg:** Es un minorista en línea de productos electrónicos y hardware de computadoras. Ofrece una amplia gama de componentes y dispositivos tecnológicos, además de reseñas y calificaciones de usuarios.
+
+**Amazon:** El gigante del comercio electrónico también ofrece una gran variedad de componentes de PC y laptops. Los usuarios pueden comparar precios y opciones de productos, leer reseñas y aprovechar la logística de entrega rápida.
+
+### 2.1.1. Análisis competitivo. <a name="211-análisis-competitivo"></a>
+
+<table><tr><th colspan="6" valign="top">Competitive Analysis Landscape</th></tr>
+<tr><td colspan="2" rowspan="2" valign="top"><p>¿Por qué llevar a cabo</p><p>este análisis?</p></td><td colspan="4" valign="top">Objetivo del análisis</td></tr>
+<tr><td colspan="4" valign="top"><p>¿Cómo analiza, produce y enfrenta el mercado mi</p><p>competencia?</p></td></tr>
+<tr><td colspan="2" valign="top">Startup</td><td valign="top">TechShop</td><td valign="top">PCPartPicker</td><td valign="top">Newegg</td><td valign="top">Amazon</td></tr>
+<tr><td colspan="2" valign="top">Logo</td><td valign="top"> </td><td valign="top"> </td><td valign="top"> </td><td valign="top"> </td></tr>
+<tr><td rowspan="2" valign="top">Perfil</td><td valign="top">Overview</td><td valign="top">Plataforma de personalización de PCs y laptops con recomendaciones personalizadas.</td><td valign="top">Plataforma para seleccionar y construir PCs personalizadas.</td><td valign="top">Minorista en línea de productos electrónicos, hardware y accesorios.</td><td valign="top">Mayor plataforma de comercio electrónico con una amplia gama de productos.</td></tr>
+<tr><td valign="top">Ventaja competitiva ¿Qué valor ofrece a los clientes?</td><td valign="top"><p>Ofrece recomendaciones de componentes personalizadas para optimizar el rendimiento.</p><p>Permite a los usuarios tomar decisiones informadas al comprar componentes.</p></td><td valign="top"><p>Plataforma interactiva para comparar precios y componentes.</p><p>Facilita la construcción de PCs con componentes compatibles.</p></td><td valign="top"><p>Variedad de productos electrónicos y acceso a reseñas.</p><p>Ofrece una amplia gama de productos tecnológicos en un solo lugar.</p></td><td valign="top"><p>Amplia selección de productos con entrega rápida y comodidad.</p><p>Proporciona conveniencia y opciones para diferentes necesidades.</p></td></tr>
+<tr><td rowspan="2" valign="top">Perfil de Marketing</td><td valign="top">Mercado Objetivo</td><td valign="top">Usuarios de todas las edades en Perú que desean componentes personalizados para PCs y laptops.</td><td valign="top">Usuarios de tecnología interesados en construir PCs personalizadas.</td><td valign="top">Consumidores en busca de productos tecnológicos y electrónicos.</td><td valign="top">Diversos consumidores que buscan productos electrónicos y más allá.</td></tr>
+<tr><td valign="top">Estrategias de Marketing</td><td valign="top"><p>Utiliza plataformas de redes sociales como Facebook e Instagram para promocionar recomendaciones personalizadas y conexiones con tiendas confiables.</p><p>Implementa una campaña de marketing de contenido, ofreciendo guías detalladas sobre cómo elegir componentes según diferentes necesidades</p><p></p></td><td valign="top"><p>Ofrece webinars y tutoriales en línea sobre cómo construir PCs utilizando PCPartPicker, fomentando la educación y la comunidad.</p><p>Utiliza publicidad en línea en sitios web de tecnología y foros especializados para destacar la funcionalidad de la plataforma.</p><p></p></td><td valign="top"><p>Realiza campañas de marketing por correo electrónico para informar a los clientes sobre ofertas especiales, lanzamientos de productos y ventas exclusivas.</p><p>Destaca la garantía de calidad y reseñas de productos para construir confianza entre los compradores.</p><p></p></td><td valign="top"><p>Implementa un enfoque de marketing global con anuncios en línea y sociales para llegar a un público diverso.</p><p>Colabora con marcas tecnológicas líderes para destacar sus productos en la plataforma y atraer a los consumidores.</p><p></p></td></tr>
+<tr><td rowspan="3" valign="top">Perfil de Producto</td><td valign="top">Productos & Servicios</td><td valign="top">Recomendaciones personalizadas de componentes para PCs y laptops.</td><td valign="top">Plataforma interactiva para seleccionar y comparar componentes.</td><td valign="top">Amplia gama de productos electrónicos, hardware y accesorios.</td><td valign="top">Diversa selección de productos electrónicos y de otras categorías.</td></tr>
+<tr><td valign="top">Precios & Costos</td><td valign="top">Conexiones con tiendas que ofrecen precios competitivos en componentes.</td><td valign="top">Comparación de precios de componentes en múltiples tiendas en línea.</td><td valign="top">Precios variados en función de la calidad y la marca.</td><td valign="top">Amplia gama de precios y opciones, desde económicas hasta premium.</td></tr>
+<tr><td valign="top">Canales de Distribución</td><td valign="top">Plataforma en línea que conecta usuarios con tiendas de componentes.</td><td valign="top">Plataforma en línea que destaca las opciones de componentes y tiendas.</td><td valign="top">Plataforma en línea con opciones de envío a domicilio.</td><td valign="top">Amplia red de distribución con opciones de envío y entrega.</td></tr>
+<tr><td rowspan="4" valign="top">Análisis SWOT</td><td valign="top">Fortalezas</td><td valign="top">Recomendaciones personalizadas, conexión con tiendas, enfoque en experiencia del usuario.</td><td valign="top">Interfaz interactiva, comparación de precios, enfoque en personalización.</td><td valign="top">Variedad de productos, opciones de envío, reseñas de usuarios.</td><td valign="top">Amplia gama de productos, conveniencia, programas de membresía.</td></tr>
+<tr><td valign="top">Debilidades</td><td valign="top">Dependencia de colaboraciones con tiendas, competencia en el mercado.</td><td valign="top">Enfocado en público específico, competencia en la industria.</td><td valign="top">Posibles variaciones en calidad, competencia con otros minoristas en línea.</td><td valign="top">Posible saturación de opciones, competencia en varias categorías.</td></tr>
+<tr><td valign="top">Oportunidades</td><td valign="top">Crecimiento en la demanda de personalización tecnológica, expansión a otras regiones.</td><td valign="top">Mayor interés en construcción de PCs, diversificación de servicios.</td><td valign="top">Mayor demanda de productos electrónicos, mejora de la experiencia del usuario.</td><td valign="top">Continuo crecimiento del comercio electrónico, expansión global.</td></tr>
+<tr><td valign="top">Amenazas</td><td valign="top">Cambios en las preferencias del consumidor, competidores emergentes.</td><td valign="top">Cambios en la tecnología, fluctuación en la demanda de componentes.</td><td valign="top">Competencia con otras tiendas en línea, fluctuaciones en la economía.</td><td valign="top">Competencia intensa, regulaciones cambiantes en el comercio electrónico.</td></tr>
+</table>
+
+### 2.1.2. Estrategias y tácticas frente a competidores. <a name="212-estrategias-y-tácticas-frente-a-competidores"></a>
+
+TechShop debe centrarse en destacar su propuesta única de simplificación y personalización de la compra de componentes tecnológicos. Esta estrategia no solo facilita la adquisición de componentes de alta calidad, sino que también garantiza que los clientes obtengan los productos adecuados para sus necesidades específicas.
+
+Para diferenciarse de la competencia, debemos enfocarnos en campañas de marketing personalizadas que aborden las necesidades individuales de los compradores. Comunicar cómo TechShop resuelve problemas y ofrece beneficios adaptados a cada usuario ayudará a atraer y retener a clientes satisfechos. La constante mejora de la plataforma y las asociaciones estratégicas con marcas líderes en tecnología son esenciales para mantenernos en la vanguardia. Desarrollar nuevas características y colaborar con fabricantes de componentes consolidará la posición de TechShop en la industria de la venta de componentes tecnológicos.
+
+En resumen, debemos centrarnos en la diferenciación estratégica a través de la simplificación y personalización de la compra de componentes tecnológicos. Garantizar una experiencia de usuario excepcional y dirigir el marketing de manera personalizada serán clave para atraer a clientes. La innovación continua y las colaboraciones estratégicas fortalecerán nuestra posición competitiva en el mercado.
+
+## 2.2. Entrevistas. <a name="22-entrevistas"></a>
+### 2.2.1. Diseño de entrevistas. <a name="221-diseño-de-entrevistas"></a>
+
+**Segmento Objetivo 1: Usuario 1 (Customer): Usuarios que buscan soluciones confiables y sencillas para comprar componentes de PC o laptops según sus necesidades únicas.**
+
+**Introducción y Presentación:**
+
+- Saludo y presentación.
+- ¿Cuál es tu nombre?
+- ¿Qué edad tienes?
+- ¿Cuál es tu ocupación profesional?
+- Explicación del propósito de la entrevista y cómo se utilizará la información recopilada.
+
+**Preguntas Clave:**
+
+- ¿Con qué frecuencia utilizas dispositivos de tecnología, como PC o laptops?
+- Explicación del propósito de la entrevista y cómo se utilizará la información recopilada.
+- ¿Tienes conocimiento respecto a los componentes de una computadora/laptop?
+- Cuando compraste tu pc/laptop lograste conseguir lo que buscabas?
+- ¿Te sentiste confundido o desconocías sobre ciertas especificaciones y sus diferencias al momento de comprar un equipo?
+- ¿Sientes que hiciste una mala compra al elegir una computadora/laptop?
+- ¿Te brindaron la asesoría correcta al momento de tu compra?
+- ` `¿Lograste entender sobre los requerimientos y el porqué de la diferencia de precios?
+- ¿Piensas que debería existir alguna herramienta para casos como el tuyo?
+- ¿Te sientes seguro al comprar tecnología por internet?
+- ¿Pagarías una membresía para la asesoría de este problema?
+
+**Cierre y Agradecimiento:**
+
+Agradecimiento por su participación.
+
+
+
+**Segmento Objetivo 2: Usuario 2 (Seller): Personas interesadas en ofrecer sus componentes de PC y laptops.**
+
+**Introducción y Presentación:**
+
+- Saludo y presentación.
+- ¿Cuál es tu nombre?
+- ¿Qué edad tienes?
+- ¿Cuál es tu ocupación profesional?
+- Explicación del propósito de la entrevista y cómo se utilizará la información recopilada.
+
+**Preguntas Clave:**
+
+- ¿Desde hace cuánto te dedicas al tema de ventas en este rubro?
+- ¿Sientes que en el contexto de esta pandemia afectó el rendimiento de tu negocio?
+- ¿Cuánto crees que es el conocimiento de tus clientes al momento de preguntar sobre componentes?
+- ¿Sientes que compran lo que realmente buscan o no se sienten tan familiarizados?
+- ¿Viste en tu entorno estafas respecto a las ventas de pc’s/laptops?
+- ¿Consideras que debería existir más interés respecto a lo que hay detrás de cada computadora?
+- ¿Si tu respuesta es sí, en qué aspecto?
+- ¿Consideras que una aplicación web, pueda solucionar los problemas con respecto a la elección de componentes y su asesoría?
+- ¿Qué características te gustaría que tenga esta aplicación web?
+- ¿Buscarías una alianza con la app? 
+- ¿Cómo ves a futuro el crecimiento en la asesoría para la compra de componentes?
+
+
+
+**Cierre y Agradecimiento:**
+
+Agradecimiento por su participación.
+
+### 2.2.2. Registro de entrevistas. <a name="222-registro-de-entrevistas"></a>
+
+**Customers**
+
+**Registro de entrevista N° 1:** 
+
+**Fecha: 01/09/23**
+
+**Nombres y Apellidos:** Joe Medina
+
+**Edad:** 23 años 
+
+**Duración de la entrevista: 0:10 - 02:22 min**
+
+![Customer1](images/interview/1.png)
+
+**Link: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202124162_upc_edu_pe/EecBmvMVpMhFqRzcLdvGh98B61H-soEkSiTYUMZ-rz8cbA?e=ye136l>** 
+
+**Resumen de la entrevista:** 
+
+Jhoe, un joven de 23 años que estudia Administración en la Universidad Nacional Mayor de San Marcos y reside en San Martín de Porres, nos comparte su experiencia al comprar una laptop. Él cuenta que a pesar de tener conocimientos básicos sobre computadoras, Jtuvo dificultades para encontrar una laptop que cumpliera con sus requerimientos específicos.
+
+Cuando los vendedores le explicaron las características técnicas, Jhoe admitió que no entendía completamente, aunque recibió una buena asesoría. Destacó la importancia de tener una guía o herramienta que facilite la comprensión de los componentes de una laptop. En cuanto a las compras en línea, Jhoe mencionó que estaría dispuesto a pagar en una página web si esta es segura. 
+
+**Registro de entrevista N° 2:** 
+
+**Fecha: 31/08/23**
+
+**Nombres y Apellidos:** Yeline Arce
+
+**Edad:** 23 años 
+
+**Duración de la entrevista: 02:30 – 4:30 min**
+
+![Customer2](images/interview/2.png)
+
+**Link: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202124162_upc_edu_pe/EecBmvMVpMhFqRzcLdvGh98B61H-soEkSiTYUMZ-rz8cbA?e=ye136l>**
+
+**Resumen de la entrevista:** 
+
+Yeline Arce, una estudiante de 23 años de la UPC, cursando la carrera de periodismo, compartió su experiencia en la compra de una PC. A pesar de tener conocimientos básicos de computadoras, inicialmente tuvo algunas dudas. Sin embargo, logró ensamblar su PC con la ayuda de un técnico que le proporcionó recomendaciones sobre los componentes más adecuados. Durante este proceso, pudo comprender los requisitos necesarios y la lógica detrás de los precios de los componentes. A pesar de su éxito en la compra, Yeline admitió que no se siente completamente segura al realizar compras en línea. Además, mencionó que la experiencia de compra en línea difiere significativamente de la compra presencial.
+
+**Registro de entrevista N° 3:** 
+
+**Fecha: 01/09/23**
+
+**Nombres y Apellidos:** Aracely Nunuvero
+
+**Edad:** 22 años 
+
+**Duración de la entrevista: 4:32 – 6:08 min**
+
+![Customer3](images/interview/3.png)
+
+**Link: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202124162_upc_edu_pe/EecBmvMVpMhFqRzcLdvGh98B61H-soEkSiTYUMZ-rz8cbA?e=ye136l>**
+
+**Resumen de la entrevista:** 
+
+Aracely, una estudiante de 22 años de la Universidad Nacional Mayor de San Marcos, en estudiando Turismo, compartió sus experiencias en la búsqueda de una PC o laptop. A pesar de su interés, Aracely tiene conocimientos limitados en tecnología y se sintió perdida al interactuar con vendedores que utilizaban un lenguaje técnico que no podía comprender completamente. Aracely expresó un deseo de contar con una herramienta que le ayude a comprender mejor las especificaciones técnicas de los productos. 
+
+En cuanto a las compras en línea, Aracely está dispuesta a realizar pagos en línea siempre que la página le brinde la confianza necesaria. Esto refleja su disposición a adoptar tecnologías digitales, siempre y cuando se sienta segura al hacerlo.
+
+**Sellers**
+
+**Registro de entrevista N° 4:** 
+
+**Fecha: 25/08/23**
+
+**Nombres y Apellidos:** Edwin Peche
+
+**Edad:** 32 años 
+
+**Duración de la entrevista: 6:16 – 9:07 min**
+
+![Seller4](images/interview/4.png)
+
+**Link: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202124162_upc_edu_pe/EecBmvMVpMhFqRzcLdvGh98B61H-soEkSiTYUMZ-rz8cbA?e=ye136l>**
+
+**Resumen de la entrevista:** 
+
+Edwin Peche, un vendedor de 32 años en SMP, con 5-6 años de experiencia en ventas, nos comenta que trabajaron por redes durante la pandemia. Sus clientes varían en conocimientos sobre componentes de computadoras, algunos requieren información. No ha observado estafas en este mercado. Destaca la importancia de mantenerse actualizado y busca una aplicación fácil y accesible. Está abierto a una posible alianza con una aplicación para mejorar su trabajo.
+
+**Registro de entrevista N° 5:** 
+
+**Fecha: 27/08/23**
+
+**Nombres y Apellidos:** Tania Perez
+
+**Edad:** 35 años 
+
+**Duración de la entrevista: 9:13 -11:39 min**
+
+![Seller5](images/interview/5.png)
+
+**Link: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202124162_upc_edu_pe/EecBmvMVpMhFqRzcLdvGh98B61H-soEkSiTYUMZ-rz8cbA?e=ye136l>** 
+
+**Resumen de la entrevista:** 
+
+Una emprendedora de 35 años que reside en SMP y lleva 5 años en su negocio compartió sus experiencias. La pandemia tuvo un impacto, pero se están recuperando. Sus clientes varían en su conocimiento de productos, y en su mayoría, quedan satisfechos con sus compras. No ha detectado estafas en las ventas. Destaca la importancia de mantenerse al tanto de los cambios tecnológicos. Busca una aplicación fácil y accesible, sin botones innecesarios. Está interesada en aliarse con una aplicación que cumpla con estas características.
+
+### 2.2.3. Análisis de entrevistas. <a name="223-análisis-de-entrevistas"></a>
+
+**Análisis de la entrevista N° 1 Joe Medina:** 
+
+Joe Medina fue nuestro primer entrevistado y respondió a todas nuestras preguntas con gran interés. En cuanto a las preguntas relacionadas con la creación de una plataforma web para ayudar en la elección de una PC, sus respuestas estuvieron alineadas con nuestras expectativas. Principalmente, expresó su desconocimiento al comprar su PC y las diferencias que enfrentó al adquirirla, aunque logró entender los conceptos básicos y tuvo dificultades con detalles específicos y las variaciones de precios. Joe considera útil la idea de nuestra aplicación, ya que resolvería su situación y estaría dispuesto a pagar una membresía siempre y cuando sea confiable.
+
+**Análisis de la entrevista N° 2 Yeline Arce:** 
+
+Yeline explicó sus necesidades y preferencias con respecto a la elección de una PC y afirmó que había comprendido en términos generales las especificaciones y requisitos. Cuando se le mencionó la posibilidad de una aplicación web para recibir asesoramiento, mostró interés, pero expresó cierta inseguridad al comprar componentes en línea debido a la falta de la experiencia de ver el ensamblaje en tiempo real. Sin embargo, no descartó la idea para el futuro.
+
+**Análisis de la entrevista N° 3 Aracely Nunuvero:** 
+
+Aracely reveló tener un conocimiento limitado sobre los componentes de una PC o laptop, aunque comprendía lo básico y lo que necesitaba buscar. Sin embargo, enfrentó dificultades con la jerga técnica y los términos tecnológicos. Está dispuesta a pagar una membresía en una aplicación web que le ofrezca soluciones a su falta de conocimiento en tecnología, siempre y cuando esta sea confiable y segura.
+
+**Análisis de la entrevista N° 4 Edwin Peche:** 
+
+Edwin es nuestro experto con más de 5 años de experiencia en la venta de componentes. Él compartió su conocimiento sobre sus clientes, divididos en dos categorías: los experimentados en tecnología que saben lo que necesitan y los usuarios comunes que requieren más asesoramiento. Además, considera que debería haber un mayor interés en componentes y tecnología en general, dado que el campo de la informática está en constante evolución. Edwin enfatiza que las aplicaciones son prácticamente un estilo de vida para muchas personas y que, si se crea una aplicación para resolver problemas relacionados con los componentes, lo más importante sería la facilidad de uso, la experiencia del usuario y la accesibilidad para todos.
+
+**Análisis de la entrevista N° 5 Tania Perez:** 
+
+Tania considera que la mayoría de sus clientes quedan satisfechos con sus compras gracias a su asesoramiento. Ella respalda la idea de crear una aplicación para asesorar sobre componentes, siempre y cuando sea fácilmente accesible para cualquier usuario. Tania cree que esta aplicación también podría beneficiarla a ella, ya que ningún experto puede saber todo sobre informática y mantenerse actualizado es crucial.
+
+## 2.3. Needfinding. <a name="23-needfinding"></a>
+### 2.3.1. User Personas. <a name="231-user-personas"></a>
+
+### 2.3.2. User Task Matrix. <a name="232-user-task-matrix"></a> 
+
+| **Tareas / User Persona**                                  | **Laura Montalvo**                                       |
+|-----------------------------------------------------------|---------------------------------------------------------|
+| Explorar contenido sobre componentes de PC                  | Frecuencia: Alta Importancia: Media                      |
+| Buscar ofertas y descuentos en tiendas asociadas            | Frecuencia: Media Importancia: Alta                      |
+| Seleccionar componentes para armar una PC personalizada     | Frecuencia: Alta Importancia: Alta                       |
+| Comprar componentes a través de la plataforma              | Frecuencia: Alta Importancia: Alta                       |
+| Publicar detalles de los componentes que vende             | Frecuencia: Baja Importancia: Baja                       |
+| Interactuar con compradores interesados                     | Frecuencia: Baja Importancia: Baja                       |
+| Acceder a guías detalladas para ensamblar componentes       | Frecuencia: Media Importancia: Media                     |
+| Participar en la comunidad de entusiastas tecnológicos      | Frecuencia: Baja Importancia: Baja                       |
+
+### Tareas con Mayor Frecuencia e Importancia:
+
+
+
+- Seleccionar componentes para armar una PC personalizada: Laura está muy interesada en elegir los componentes adecuados para construir su PC personalizada.
+
+
+- Comprar componentes a través de la plataforma: La adquisición de componentes es una tarea clave para lograr su objetivo de construir su propia PC.
+
+| **Tareas / User Persona**                              | **Luis Huerta**                                         |
+|-------------------------------------------------------|--------------------------------------------------------|
+| Explorar contenido sobre componentes de PC              | Frecuencia: Baja Importancia: Media                      |
+| Buscar ofertas y descuentos en tiendas asociadas        | Frecuencia: Baja Importancia: Media                      |
+| Seleccionar componentes para armar una PC personalizada | Frecuencia: Baja Importancia: Media                      |
+| Comprar componentes a través de la plataforma          | Frecuencia: Alta Importancia: Alta                       |
+| Publicar detalles de los componentes que vende         | Frecuencia: Alta Importancia: Alta                       |
+| Interactuar con compradores interesados                 | Frecuencia: Alta Importancia: Alta                       |
+| Acceder a guías detalladas para ensamblar componentes   | Frecuencia: Baja Importancia: Baja                       |
+| Participar en la comunidad de entusiastas tecnológicos  | Frecuencia: Alta Importancia: Alta                       |
+
+
+### Tareas con Mayor Frecuencia e Importancia:
+
+
+
+- Publicar detalles de los componentes que vende: Dado que Luis busca generar ingresos a través de la plataforma, publicar detalles sobre los componentes es esencial para atraer a compradores potenciales.
+
+
+- Interactuar con compradores interesados: La comunicación con los compradores interesados es crucial para cerrar ventas y generar ingresos.
+ 
+###  Principales diferencias:
+Las principales diferencias entre las dos personas se centran en sus roles en la plataforma:
+- Laura, como compradora, se enfoca en la selección y compra de componentes para armar su PC personalizada.
+- Luis, como proveedor, se centra en publicar detalles de los componentes que vende y en interactuar con compradores interesados.
+### Principales coincidencias:
+A pesar de sus roles diferentes, hay algunas coincidencias entre Laura y Luis:
+Ambos están interesados en participar en la comunidad de entusiastas tecnológicos, aunque Luis lo hace desde la perspectiva de un proveedor y Laura como una entusiasta que busca información.
+Ambos valoran la posibilidad de encontrar ofertas y descuentos en tiendas asociadas a través de la plataforma para ahorrar dinero en sus transacciones.
+
+### 2.3.3. User Journey Mapping. <a name="233-user-journey-mapping"></a>
+
+### Segmento Usuario
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/610911183339388978/1149952094275645470/user.JPG?width=1440&height=629">
+    </td>
+  </tr>
+<br>
+
+### Segmento Vendedor
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/610911183339388978/1149952196847353926/agent.JPG?width=1440&height=619">
+    </td>
+  </tr>
+<br>
+
+### 2.3.4. Empathy Mapping. <a name="234-empathy-mapping"></a>
+
+### Segmento Usuario
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/610911183339388978/1149949280086405120/Empathy_Map_User.jpg?width=864&height=676">
+    </td>
+  </tr>
+<br>
+
+### Segmento Vendedor
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/610911183339388978/1149949292270866462/Empathy_Map_Agent.jpg?width=932&height=676">
+    </td>
+  </tr>
+<br>
+
+### 2.3.5. As-is Scenario Mapping. <a name="235-as-is-scenario-mapping"></a>
+
+### Segmento Usuario
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/610911183339388978/1149949760208371712/As_is_User.jpg?width=1440&height=606">
+    </td>
+  </tr>
+<br>
+
+### Segmento Vendedor
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/610911183339388978/1149949773584011274/as_is_agent.jpg?width=1440&height=615">
+    </td>
+  </tr>
+<br>
 
