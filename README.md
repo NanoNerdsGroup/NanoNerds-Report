@@ -130,34 +130,34 @@ Durante una reunión de google meet hemos elegido una idea para nuestra startup.
   - [4.8. Database Design](#48-database-design)
     - [4.8.1. Database Diagram](#481-database-diagram)
 
-- [Capítulo V: Product Implementation, Validation & Deployment]()
-  - [5.1. Software Configuration Management]()
-    - [5.1.1. Software Development Environment Configuration]()
-    - [5.1.2. Source Code Management]()
-    - [5.1.3. Source Code Style Guide & Conventions]()
-    - [5.1.4. Software Deployment Configuration]()
-  - [5.2. Landing Page, Services & Applications Implementation]()
-    - [5.2.X. Sprint n]()
-      - [5.2.X.1. Sprint Planning n]()
-      - [5.2.X.2. Sprint Backlog n]()
-      - [5.2.X.3. Development Evidence for Sprint Review]()
-      - [5.2.X.4. Testing Suite Evidence for Sprint Review]()
-      - [5.2.X.5. Execution Evidence for Sprint Review]()
-      - [5.2.X.6. Services Documentation Evidence for Sprint Review]()
-      - [5.2.X.7. Software Deployment Evidence for Sprint Review]()
-      - [5.2.X.8. Team Collaboration Insights during Sprint]()
-  - [5.3. Validation Interviews]()
-    - [5.3.1. Diseño de Entrevistas]()
-    - [5.3.2. Registro de Entrevistas]()
-    - [5.3.3. Evaluaciones según heurísticas]()
-  - [5.4. Video About-the-Product]()
+- [Capítulo V: Product Implementation, Validation & Deployment](#1)
+  - [5.1. Software Configuration Management](#2)
+    - [5.1.1. Software Development Environment Configuration](#3)
+    - [5.1.2. Source Code Management](#4)
+    - [5.1.3. Source Code Style Guide & Conventions](#5)
+    - [5.1.4. Software Deployment Configuration](#6)
+  - [5.2. Landing Page, Services & Applications Implementation](#7)
+    - [5.2.X. Sprint n](#8)
+      - [5.2.X.1. Sprint Planning n](#9)
+      - [5.2.X.2. Sprint Backlog n](#10)
+      - [5.2.X.3. Development Evidence for Sprint Review](#11)
+      - [5.2.X.4. Testing Suite Evidence for Sprint Review](#12)
+      - [5.2.X.5. Execution Evidence for Sprint Review](#13)
+      - [5.2.X.6. Services Documentation Evidence for Sprint Review](#14)
+      - [5.2.X.7. Software Deployment Evidence for Sprint Review](#15)
+      - [5.2.X.8. Team Collaboration Insights during Sprint](#16)
+  - [5.3. Validation Interviews](#17)
+    - [5.3.1. Diseño de Entrevistas](#18)
+    - [5.3.2. Registro de Entrevistas](#19)
+    - [5.3.3. Evaluaciones según heurísticas](#20)
+  - [5.4. Video About-the-Product](#21)
 
-- [Conclusiones]()
-  - [Conclusiones y recomendaciones]()
-  - [Video About-the-Team]()
+- [Conclusiones](#22)
+  - [Conclusiones y recomendaciones](#23)
+  - [Video About-the-Team](#24)
 
-- [Bibliografía]()
-- [Anexos]()
+- [Bibliografía](#25)
+- [Anexos](#26)
 
 # Student Outcome
 
@@ -754,37 +754,6 @@ En esta sección redactamos las historias de usuario necesarias para el correcto
 |19 |US-18 |<p></p><p>Visualización de Planes de Suscripción</p>|Como usuario de la aplicación, quiero acceder a información sobre los diferentes planes de suscripción ofrecidos por TechShop.|6 |
 |20 |US-19 |Cambiar de Idioma a Español/Inglés|Como usuario quiero tener la opción de cambiar el idioma del sitio entre español e inglés. |5 |
 
-
-- [Capítulo IV: Product Design](#capítulo-iv-product-design)
-  - [4.1. Style Guidelines](#41-style-guidelines)
-    - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
-    - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
-  - [4.2. Information Architecture](#42-information-architecture)
-    - [4.2.1. Organization Systems](#421-organization-systems)
-    - [4.2.2. Labeling Systems](#422-labeling-systems)
-    - [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
-    - [4.2.4. Searching Systems](#424-searching-systems)
-    - [4.2.5. Navigation Systems](#425-navigation-systems)
-  - [4.3. Landing Page UI Design](#43-landing-page-ui-design)
-    - [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)
-    - [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up)
-  - [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)
-    - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
-    - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
-    - [4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups)
-    - [4.4.4. Web Applications User Flow Diagrams](#444web-applications-user-flow-diagrams)
-  - [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
-  - [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
-    - [4.6.1. Software Architecture Context Diagram](#461-software-architecture-context-diagram)
-    - [4.6.2. Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)
-    - [4.6.3. Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)
-  - [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
-    - [4.7.1. Class Diagrams](#471-class-diagrams)
-    - [4.7.2. Class Dictionary](#472-class-dictionary)
-  - [4.8. Database Design](#48-database-design)
-    - [4.8.1. Database Diagram](#481-database-diagram)
-
-
 # Capítulo IV: Product Design <a name="capítulo-iv-product-design"></a>
 ## 4.1. Style Guidelines. <a name="41-style-guidelines"></a>
 
@@ -1365,3 +1334,32 @@ Link del structuriz -> https://structurizr.com/share/77547/38021e1c-f520-406c-ab
 <br>
 
 [Diagrama de base de datos](https://drive.google.com/file/d/1L4b3JzFnEZNRVmTpG1lnVg9T6JHnWVew/view?usp=sharing)
+
+
+# Capítulo V: Product Implementation, Validation & Deployment <a name="1"></a>
+## 5.1. Software Configuration Management. <a name="2"></a>
+### 5.1.1. Software Development Environment Configuration. <a name="3"></a>
+### 5.1.2. Source Code Management. <a name="4"></a>
+### 5.1.3. Source Code Style Guide & Conventions. <a name="5"></a>
+### 5.1.4. Software Deployment Configuration.  <a name="6"></a>
+## 5.2. Landing Page, Services & Applications Implementation. <a name="7"></a>
+### 5.2.X. Sprint n <a name="8"></a>
+#### 5.2.X.1. Sprint Planning n. <a name="9"></a>
+#### 5.2.X.2. Sprint Backlog n. <a name="10"></a>
+#### 5.2.X.3. Development Evidence for Sprint Review. <a name="11"></a>
+#### 5.2.X.4. Testing Suite Evidence for Sprint Review. <a name="12"></a>
+#### 5.2.X.5. Execution Evidence for Sprint Review. <a name="13"></a>
+#### 5.2.X.6. Services Documentation Evidence for Sprint Review. <a name="14"></a>
+#### 5.2.X.7. Software Deployment Evidence for Sprint Review. <a name="15"></a>
+#### 5.2.X.8. Team Collaboration Insights during Sprint. <a name="16"></a>
+## 5.3. Validation Interviews. <a name="17"></a>
+### 5.3.1. Diseño de Entrevistas. <a name="18"></a>
+### 5.3.2. Registro de Entrevistas. <a name="19"></a>
+### 5.3.3. Evaluaciones según heurísticas. <a name="20"></a>
+
+## 5.4. Video About-the-Product. <a name="21"></a>
+# Conclusiones<a name="22"></a>
+## Conclusiones Conclusiones y recomendaciones. <a name="23"></a>
+## Video About-the-Team.  <a name="24"></a>
+# Bibliografía  <a name="25"></a>
+# Anexos <a name="26"></a>
