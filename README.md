@@ -1438,7 +1438,7 @@ Para el despliegue de nuestra landing page, en el campo de las configuraciones d
 
 ## 5.2. Landing Page, Services & Applications Implementation. <a name="7"></a>
 ### 5.2.1. Sprint n <a name="8"></a>
-#### 5.2.1.1. Sprint Planning n. <a name="9"></a>
+#### 5.2.1.1. Sprint Planning 1. <a name="9"></a>
 
 El Sprint Planning es un encuentro que se lleva a cabo al comienzo de cada Sprint dentro del enfoque de Scrum. En esta reunión, el equipo de Scrum se reúne para establecer la meta del Sprint y debatir sobre los elementos del backlog del producto. Se escogen las tareas que serán abordadas en el próximo Sprint. Además, el equipo de desarrollo define los elementos específicos del backlog del Sprint y crea un plan detallado para su cumplimiento. Esta reunión, que por lo general tiene una duración de unas pocas horas, involucra a todos los miembros del equipo Scrum, incluyendo el Scrum Master y el Product Owner. El propósito fundamental del Sprint Planning es generar una comprensión clara y compartida acerca de los objetivos a alcanzar durante el Sprint y cómo se llevarán a cabo.
 
@@ -1457,7 +1457,18 @@ El Sprint Planning es un encuentro que se lleva a cabo al comienzo de cada Sprin
 | Sprint of Story Points | Sprint of Story Points: 8                    |
 
 
-#### 5.2.1.2. Sprint Backlog n. <a name="10"></a>
+#### 5.2.1.2. Sprint Backlog 1. <a name="10"></a>
+
+<table><tr><th colspan="1" valign="top">Sprint 1</th><th colspan="7" valign="top">Sprint1</th></tr>
+<tr><td colspan="2" valign="top">User story</td><td colspan="6" valign="top">Work Item/Task</td></tr>
+<tr><td colspan="1" valign="top">Id</td><td colspan="1" valign="top">Title</td><td colspan="1" valign="top">Id</td><td colspan="1" valign="top">Title</td><td colspan="1" valign="top">Description</td><td colspan="1" valign="top"><p>Estimation</p><p>(Hours)</p></td><td colspan="1" valign="top">Assigned To</td><td colspan="1" valign="top">Status(To-do InProcess ToReview Done)</td></tr>
+<tr><td colspan="1" rowspan="6" valign="top"><p></p><p>E1-US100</p></td><td colspan="1" rowspan="6" valign="top">Implementación del Landing Page</td><td colspan="1" valign="top">W01</td><td colspan="1" valign="top">Creación del repositorio de la landing page</td><td colspan="1" valign="top">Creación del repositorio de Github</td><td colspan="1" valign="top"><p>5</p><p>hours</p></td><td colspan="1" valign="top">Orlando</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">W02</td><td colspan="1" valign="top">Desarrollo la navegación</td><td colspan="1" valign="top">Desarrollar la navegación interactiva</td><td colspan="1" valign="top"><p>3</p><p>hours</p></td><td colspan="1" valign="top">Louis</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">W03</td><td colspan="1" valign="top">Desarrollo la sección inicial del landing page</td><td colspan="1" valign="top">` `Desarrollar la sección inicial de la landing page</td><td colspan="1" valign="top"><p>4</p><p>hours</p></td><td colspan="1" valign="top">` `Farid</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">W04</td><td colspan="1" valign="top">Desarrollo de la sección de suscripción </td><td colspan="1" valign="top">` `Desarrollar la sección suscripción dirigidos a los customers</td><td colspan="1" valign="top"><p>6</p><p>hours</p></td><td colspan="1" valign="top">` `Orlando</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">W05</td><td colspan="1" valign="top">Desarrollo de la sección de Acerca de nosotros</td><td colspan="1" valign="top">` `Desarrollar la sección que muestra quienes somos nosotros.</td><td colspan="1" valign="top"><p>4</p><p>hours</p></td><td colspan="1" valign="top">` `Gustavo</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">W06</td><td colspan="1" valign="top">Desarrollo de la sección de Footer de la landing page</td><td colspan="1" valign="top">Desarrollar un Footer en el landing page con link de nuestras redes sociales y como pueden contactarnos</td><td colspan="1" valign="top">3 hour</td><td colspan="1" valign="top">Antonella</td><td colspan="1" valign="top">Done</td></tr>
+</table>
 
 
 
