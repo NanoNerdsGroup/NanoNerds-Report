@@ -1221,6 +1221,44 @@ User goal: Funcionalidad de Pagos
 
 ## 4.5. Web Applications Prototyping. <a name="45-web-applications-prototyping"></a>
 
+En esta sección, hemos desarrollado un prototipo de la aplicación web utilizando Figma. Además, se elaboró un video que permite una comprensión completa de la interfaz de la aplicación, destacando la ubicación de cada sección importante. Este prototipo incorpora los objetivos de usuario específicos de nuestros segmentos objetivo (Guest/Host).
+
+![](images-chapter5/prototyping/prototipo.png)
+
+**Link del prototipo: <https://www.figma.com/file/BMO4VvH6k4huMoU6qYDIyn/Prototype---TechShop?type=design&node-id=0%3A1&mode=design&t=1Zz1SG0wtxEoFZ3J-1>** 
+
+**Link del video: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202124162_upc_edu_pe/EcXtN-bSh6RJkv9QDrzr_4cBmmHq53i-b7ZQmRq_RD--XQ?e=LWUOSH>** 
+
+**Capturas de pantalla del video:**
+
+
+
+
+- Apartado de Registro 
+
+![](images-chapter5/prototyping/registro.png)
+
+
+
+
+- Apartado de Búsqueda de Componentes
+
+![](images-chapter5/prototyping/busqueda.png)
+
+
+
+
+- Apartado de perfil
+
+![](images-chapter5/prototyping/perfil.png)
+
+
+
+
+- Apartado de compras y método de pagos
+
+![](images-chapter5/prototyping/compra.png)
+
 ## 4.6. Domain-Driven Software Architecture. <a name="46-domain-driven-software-architecture"></a>
 ### 4.6.1. Software Architecture Context Diagram. <a name="461-software-architecture-context-diagram"></a>
 
