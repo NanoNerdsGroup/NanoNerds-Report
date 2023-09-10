@@ -444,7 +444,7 @@ Agradecimiento por su participación.
 
 **Duración de la entrevista: 0:10 - 02:22 min**
 
-![Customer1](images/interview/1.png)
+![Customer1](images-chapter2/interview/1.png)
 
 **Link: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202124162_upc_edu_pe/EecBmvMVpMhFqRzcLdvGh98B61H-soEkSiTYUMZ-rz8cbA?e=ye136l>** 
 
@@ -464,7 +464,7 @@ Cuando los vendedores le explicaron las características técnicas, Jhoe admiti�
 
 **Duración de la entrevista: 02:30 – 4:30 min**
 
-![Customer2](images/interview/2.png)
+![Customer2](images-chapter2/interview/2.png)
 
 **Link: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202124162_upc_edu_pe/EecBmvMVpMhFqRzcLdvGh98B61H-soEkSiTYUMZ-rz8cbA?e=ye136l>**
 
@@ -482,7 +482,7 @@ Yeline Arce, una estudiante de 23 años de la UPC, cursando la carrera de period
 
 **Duración de la entrevista: 4:32 – 6:08 min**
 
-![Customer3](images/interview/3.png)
+![Customer3](images-chapter2/interview/3.png)
 
 **Link: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202124162_upc_edu_pe/EecBmvMVpMhFqRzcLdvGh98B61H-soEkSiTYUMZ-rz8cbA?e=ye136l>**
 
@@ -504,7 +504,7 @@ En cuanto a las compras en línea, Aracely está dispuesta a realizar pagos en l
 
 **Duración de la entrevista: 6:16 – 9:07 min**
 
-![Seller4](images/interview/4.png)
+![Seller4](images-chapter2/interview/4.png)
 
 **Link: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202124162_upc_edu_pe/EecBmvMVpMhFqRzcLdvGh98B61H-soEkSiTYUMZ-rz8cbA?e=ye136l>**
 
@@ -522,7 +522,7 @@ Edwin Peche, un vendedor de 32 años en SMP, con 5-6 años de experiencia en ven
 
 **Duración de la entrevista: 9:13 -11:39 min**
 
-![Seller5](images/interview/5.png)
+![Seller5](images-chapter2/interview/5.png)
 
 **Link: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202124162_upc_edu_pe/EecBmvMVpMhFqRzcLdvGh98B61H-soEkSiTYUMZ-rz8cbA?e=ye136l>** 
 
@@ -1038,64 +1038,64 @@ User goal: Preferencia y gestión de cuenta de los usuarios.
 
 - Registro de sesión
 
-![](images/wireframes/registro.png)
+![](images-chapter5/wireframes/registro.png)
 
 - Inicio de sesión
 
-![](images/wireframes/inicio-sesion.png)
+![](images-chapter5/wireframes/inicio-sesion.png)
 
 - Recuperar Contraseña
 
-![](images/wireframes/recuperar-contraseña.png)
+![](images-chapter5/wireframes/recuperar-contraseña.png)
 
 - Métodos de pago
 
-![](images/wireframes/metodo-pago.png)
+![](images-chapter5/wireframes/metodo-pago.png)
 
-Descripción generada automáticamente](Aspose.Words.0c55bc50-9d83-42c3-8b47-ba9e0be4a04b.004.png)
+[Descripción generada automáticamente](Aspose.Words.0c55bc50-9d83-42c3-8b47-ba9e0be4a04b.004.png)
 
 - Historial de pagos
 
-![](images/wireframes/historial-pagos.png)
+![](images-chapter5/wireframes/historial-pagos.png)
 
 User goal: Funcionalidades de Búsqueda.
 
 - Búsqueda de Componentes.
 
-![](images/wireframes/buscar-componente.png)
+![](images-chapter5/wireframes/buscar-componente.png)
 
 - Búsqueda de componentes en favoritos.
 
-![](images/wireframes/buscar-componente-fav.png)
+![](images-chapter5/wireframes/buscar-componente-fav.png)
 
 User goal: Mejora de soporte al cliente y experiencia de servicio.
 
 - Acceso a Preguntas Frecuentes y contacto con Servicio Técnico.
 
-![](images/wireframes/preguntas-frecuentes.png)
+![](images-chapter5/wireframes/preguntas-frecuentes.png)
 
 User goal: Funcionalidad de pagos
 
 - Visualización y confirmación de pago.
 
-![](images/wireframes/visualizacion-pagos.png)
+![](images-chapter5/wireframes/visualizacion-pagos.png)
 
 - Compra de suscripciones
 
-![](images/wireframes/suscripcion.png)
+![](images-chapter5/wireframes/suscripcion.png)
 
 User goal: Preferencia y gestión de cuenta
 
 - Editar información del perfil del usuario y actualización de métodos de pago.
 
-![](images/wireframes/perfil-actualizacion-metodos.png)
+![](images-chapter5/wireframes/perfil-actualizacion-metodos.png)
 
 
 ### 4.4.2. Web Applications Wireflow Diagrams. <a name="442-web-applications-wireflow-diagrams"></a>
 
 User goal: Usuario se registra, inicia sesión o recupera su contraseña en la plataforma.
 
-![](images/wireflows-diagrams/registro-iniciosesion-recuperacion.png)
+![](images-chapter5/wireflows-diagrams/registro-iniciosesion-recuperacion.png)
 
 **Descripción:**
 
@@ -1103,7 +1103,7 @@ Al estar en la pestaña de bienvenida, el usuario tiene dos opciones: registrars
 
 **User goal: Preguntas frecuentes y contacto a Servicio Técnico.**
 
-![](images/wireflows-diagrams/preguntas-soporte.png)
+![](images-chapter5/wireflows-diagrams/preguntas-soporte.png)
 
 **Descripción:**
 
@@ -1111,7 +1111,7 @@ Al entrar en la pestaña de inicio, el usuario puede seleccionar la opción de p
 
 **User goal: Editar perfil y cambiar métodos de pago.**
 
-![](images/wireflows-diagrams/perfil-metodo-pago.png)
+![](images-chapter5/wireflows-diagrams/perfil-metodo-pago.png)
 
 **Descripción:**
 
@@ -1121,7 +1121,7 @@ Al entrar en la pestaña de inicio, el usuario puede darle a su perfil y editar 
 
 **User goal: Búsqueda de Componentes y visualización de favoritos.**
 
-![](images/wireflows-diagrams/busqueda-favoritos.png)
+![](images-chapter5/wireflows-diagrams/busqueda-favoritos.png)
 
 **Descripción:**
 
@@ -1129,7 +1129,7 @@ Al entrar en la pestaña de inicio, el usuario podrá buscar los componentes que
 
 **User goal: Visualización del historial de pagos.**
 
-![](images/wireflows-diagrams/historial-pagos.png)
+![](images-chapter5/wireflows-diagrams/historial-pagos.png)
 
 **Descripción:**
 
@@ -1137,7 +1137,7 @@ Al entrar en la pestaña de inicio, el usuario puede seleccionar la pestaña con
 
 **User goal: Visualización de Suscripciones.**
 
-![](images/wireflows-diagrams/suscripciones.png)
+![](images-chapter5/wireflows-diagrams/suscripciones.png)
 
 **Descripción:**
 
@@ -1145,7 +1145,7 @@ Al entrar en la pestaña de inicio, el usuario puede seleccionar la pestaña con
 
 **User goal: Búsqueda y pago de componentes.**
 
-![](images/wireflows-diagrams/busqueda-pago.png)
+![](images-chapter5/wireflows-diagrams/busqueda-pago.png)
 
 **Descripción:**
 
@@ -1158,67 +1158,65 @@ User goal: Preferencia y gestión de cuenta de los usuarios.
 
 - Registro de Sesión
 
-![](images/mockups/registro.png)
+![](images-chapter5/mockups/registro.png)
 
 - Inicio de Sesión
 
-![](images/mockups/inicio%20de%20sesion.png)
+![](images-chapter5/mockups/inicio%20de%20sesion.png)
 
 - Recuperar Contraseña
 
-![](images/mockups/recuperar-contrasena.png)
+![](images-chapter5/mockups/recuperar-contrasena.png)
 
 - Métodos de pago.
 
-![](images/mockups/Métodos%20de%20pago.png)
+![](images-chapter5/mockups/Métodos%20de%20pago.png)
 
 - Historial de pagos
 
-![](images/mockups/historial-pagos.png)
+![](images-chapter5/mockups/historial-pagos.png)
 
 User goal: Funcionalidades de Búsqueda para Componentes.
 
 - Búsqueda de un componente.
 
-![](images/mockups/busqueda-componentes.png)
+![](images-chapter5/mockups/busqueda-componentes.png)
 
 - Navegación por favoritos.
 
-![](images/mockups/favoritos.png)
+![](images-chapter5/mockups/favoritos.png)
 
 User goal: Soporte al cliente y experiencia de servicio.
 
 - Preguntas Frecuentes
 
-![](images/mockups/preguntas-frecuentes.png)
+![](images-chapter5/mockups/preguntas-frecuentes.png)
 
 User goal: Funcionalidad de Pagos
 
 - Visualización y confirmación de pago.
 
-![](images/mockups/confirmacion-pago.png)
+![](images-chapter5/mockups/confirmacion-pago.png)
 
 - Suscripciones
 
-![](images/mockups/suscripciones.png)
+![](images-chapter5/mockups/suscripciones.png)
 
 
 ### 4.4.3. Web Applications User Flow Diagrams. <a name="444web-applications-user-flow-diagrams"></a>
 
 - Registro e Inicio de Sesión
 
-![](images/userflow-diagrams/registro-inicio-sesion.png)
-
-
+![](images-chapter5/userflow-diagrams/registro-inicio-sesion.png)
 
 
 - Preguntas Frecuentes y Soporte Técnico
 
-![](images/userflow-diagrams/preguntas-soporte.png)
+![](images-chapter5/userflow-diagrams/preguntas-soporte.png)
 
 - Compra de un componente.
 
-![](images/userflow-diagrams/compra-componente.png)
+![](images-chapter5/userflow-diagrams/compra-componente.png)
 
 
 ## 4.5. Web Applications Prototyping. <a name="45-web-applications-prototyping"></a>
@@ -1338,20 +1336,181 @@ Link del structuriz -> https://structurizr.com/share/77547/38021e1c-f520-406c-ab
 
 # Capítulo V: Product Implementation, Validation & Deployment <a name="1"></a>
 ## 5.1. Software Configuration Management. <a name="2"></a>
+
+
+
 ### 5.1.1. Software Development Environment Configuration. <a name="3"></a>
+
+### Project Management
+A continuación, se procederá a describir cada uno de los productos de software que han sido empleados en el proyecto. 
+Esta sección será beneficiosa para que los desarrolladores actuales y futuros puedan contribuir al desarrollo continuo 
+del proyecto en todas sus etapas.
+
+### Project Management 
+
+-	Trello: https://trello.com/ 
+Se utilizó para gestionar y mantener un seguimiento de las tareas en diferentes etapas: pendientes, en progreso y completadas. Esto nos permite tener una idea clara del progreso y estado de las actividades pendientes en el equipo. Trello es una herramienta web que funciona en la mayoría de los navegadores y solo necesitas registrarte para tener una cuenta activa.
+-	Discord:  https://discord.com/ 
+La plataforma de discord se empleo para realizar las reuniones virtuales con los integrantes del equipo y tener un mejor medio para compartir contenido de las diversas formas (compartir pantalla, imágenes, texto, video, etc.). Esta es una aplicación web, móvil y de escritorio que tiene amplia compatibilidad en cada una de sus versiones, se requerirá tener una cuenta activa.
+
+### Requirements Management
+- Trello: https://trello.com/ 
+Desempeñó un papel fundamental en la gestión de nuestros requisitos. Nos permitió trabajar en equipo en la elaboración de nuestro backlog, brindándonos una vista organizada y cómoda. Además, nos ayudó a establecer prioridades claras y a mantener un enfoque conjunto en nuestros objetivos. Lo mejor de todo es que Trello es una herramienta gratuita, solo requiere que te registres para empezar a utilizarla.
+
+### Product UX/UI Design
+-	UXPressia:   https://uxpressia.com/ 
+Se empleo esta herramienta para la creación de los User Personas, el Customer Journey Map, Empathy Map e Impact Map. Ya que cuenta con plantillas que facilitan el desarrollo de estos artefactos. Además, es colaborativo y gratuito. Para usar este software hace falta registrarnos y se puede acceder a él desde la gran mayoría de navegadores. 
+-	Miro https://miro.com/es/
+Miro ha sido empleado en el desarrollo de los escenarios mapping y escenario mapping para ambos segmentos objetivos.
+-	Figma: https://www.figma.com/ 
+Esta herramienta fue de vital importancia para la creación de los wireframes, mockups y Mobile applications prototyping de manera colaborativa. Asimismo, su acceso es gratuito al contar con una cuanta registrada.
+
+### Software Development
+Para el desarrollo del software para este trabajo se hizo uso de las siguientes herramientas:
+-	HTML: Lenguaje de uso común para páginas web o aplicaciones web.
+
+-	CSS: Lenguaje para el diseño que trabaja de la mano con HTML para poder generar una página web presentable con colores y de manera más organizada.
+
+-	Webstorm: Es un IDE donde se puede trabajar de manera compartida y multiplataforma, donde se puede programar en varios lenguajes para el desarrollo web como HTML, CSS, JavaScript, TypeScript, Angular, etc.
+Link: WebStorm
+- Github: Lo utilizamos para almacenar todos los cambios realizados durante el ciclo de vida de la aplicación.
+-	Link: https://github.com/
+  
+### Software Testing
+
+Para hacer las pruebas de funcionamiento de nuestro landing page como de la aplicación web, se emplearon las herramientas de desarrollador de los principales navegadores web como Google Chrome (https://www.google.com/chrome/), Microsoft Edge (https://www.microsoft.com/en-us/edge?form=MA13FJ ). Estos navegadores cuentan con aplicaciones desktop y móviles las cuales son totalmente gratuitas. En el caso de desktop podemos instalarlos desde sus sitios oficiales, en el caso de móvil, desde la tienda de aplicaciones del sistema operativo en cuestión. 
+### Software Deployment
+Para el despliegue de la landing page, dado que no requería modificaciones frecuentes al ser estática, optamos por no realizar actualizaciones constantes. En su lugar, aprovechamos el sistema de control de versiones de Github para gestionar el despliegue.
+### Software Documentation	
+- Google Drive (https://www.google.com/intl/es-419_pe/drive/ )
+Se ha utilizado Google Drive para subir archivos de documentos y presentaciones. Además se han utilizado herramientas como Google Doccs y Google Slides que permiten el desarrollo colaborativo de los informes a entregar.
+
+-	Lucidchart: (https://www.lucidchart.com/ )
+Utilizamos Lucidchart para la creación de wireflows, user flows y diagramas UML. Esta plataforma nos facilitó la elaboración de diversos tipos de diagramas y procesos secuenciales de manera sencilla. Además, es accesible a través del navegador y solo requiere que tengas una cuenta para comenzar a utilizarla.
+
+-	Structurizr:  https://structurizr.com/ 
+Esta es una herramienta que nos ha facilitado la creación rápida de diagramas C4. Utiliza una sintaxis similar a la de un lenguaje de programación, lo que simplifica su uso.
+
+-	Vertabelo: https://vertabelo.com/ 
+Es una aplicación web colaborativa que facilita el diseño e implementación de base de datos e una amplia variedad de motores.
+
+
 ### 5.1.2. Source Code Management. <a name="4"></a>
+
+Para administrar el proceso de desarrollo del proyecto, aprovecharemos Git, que es una herramienta de control de versiones. Esto nos permitirá rastrear y documentar todos los cambios y mejoras en nuestro proyecto. Utilizaremos una plataforma llamada GitHub, donde podremos visualizar de manera clara todas las actualizaciones y ajustes realizados por cada miembro del equipo. Los branches (ramas) que utilizaremos en el repositorio serán los siguientes:
+
+### Principal (Main): 
+En esta rama almacenaremos las versiones definitivas y estables del proyecto. Esto nos ayudará a mantener una organización adecuada y garantizar que las versiones oficiales estén disponibles.
+### Desarrollo (Develop): 
+Esta rama será un lugar donde se combinarán los cambios. Puedes pensar en ella como una "segunda versión principal", pero su propósito es probar y verificar las modificaciones antes de incorporarlas a la rama principal (Main).
+
+| Alumno                               | Correo                  | Usuario de GitHub |
+|--------------------------------------|-------------------------|-------------------|
+| Gustavo Jandroel Aguirre Rodríguez   | U202124162@upc.edu.pe   | Gustavo           | [Gustavo en GitHub](https://github.com/Gustavo)      |
+| Antonella Frida Gonzales Gomez       | U20211C403@upc.edu.pe    | Anthonnela        | [Anthonnela en GitHub](https://github.com/Anthonnela) |
+|Louis Piero Alfaro Coveñasa    | u20191b299@upc.edu.pe    | Louis             | [Louis en GitHub](https://github.com/Paolo)           |
+| Orlando Arturo Roca Huapaya          | U201919742@upc.edu.pe    | Orlando           | [Orlando en GitHub](https://github.com/Orlando)       |
+| Farid Rolando Hinostroza Mavila              | u202014468@upc.edu.pe    | Farid             | [Farid en GitHub](https://github.com/Piero)         |
+
+
 ### 5.1.3. Source Code Style Guide & Conventions. <a name="5"></a>
+
+Para el avance del código, se planeó utilizar las convenciones descritas en HTML Style Guide and Coding Conventions para esta parte del trabajo.
+Para este proyecto se utilizaron las principales convenciones para HTML que incluyen:
+- 	Declaración del tipo de documento en HTML.
+- 	Uso de nombres de elementos en minúsculas en HTML.
+-  Cerrar todos los elementos en HTML.
+-  Uso de nombres de atributos en minúsculas y valores en HTML.
+-  Utilizar comillas dobles para los valores de los atributos en HTML.
+  
+Estas convenciones ayudan a mantener la consistencia y la legibilidad del código HTML. Además, es importante seguir las convenciones de codificación para hacer que el código sea más fácil de entender y darle mantenimiento.
+
+
 ### 5.1.4. Software Deployment Configuration.  <a name="6"></a>
+
+Para el despliegue de nuestra landing page, en el campo de las configuraciones debemos tener presente lo siguiente: tener un archivo en formato HTML llamado index.HTML con otras carpetas o directorios con los nombres:
+
+
+-	Images: Se aloja las imágenes utilizadas en el landing page.
+-	Principal.css: Contiene los estilos que ayudaran a que el landing page se vea ordenado y atractivo.
+-	principal.html: Contiene la estructura del landing page por secciones.
+
+
 ## 5.2. Landing Page, Services & Applications Implementation. <a name="7"></a>
-### 5.2.X. Sprint n <a name="8"></a>
-#### 5.2.X.1. Sprint Planning n. <a name="9"></a>
-#### 5.2.X.2. Sprint Backlog n. <a name="10"></a>
-#### 5.2.X.3. Development Evidence for Sprint Review. <a name="11"></a>
-#### 5.2.X.4. Testing Suite Evidence for Sprint Review. <a name="12"></a>
-#### 5.2.X.5. Execution Evidence for Sprint Review. <a name="13"></a>
-#### 5.2.X.6. Services Documentation Evidence for Sprint Review. <a name="14"></a>
-#### 5.2.X.7. Software Deployment Evidence for Sprint Review. <a name="15"></a>
-#### 5.2.X.8. Team Collaboration Insights during Sprint. <a name="16"></a>
+### 5.2.1. Sprint n <a name="8"></a>
+#### 5.2.1.1. Sprint Planning n. <a name="9"></a>
+
+El Sprint Planning es un encuentro que se lleva a cabo al comienzo de cada Sprint dentro del enfoque de Scrum. En esta reunión, el equipo de Scrum se reúne para establecer la meta del Sprint y debatir sobre los elementos del backlog del producto. Se escogen las tareas que serán abordadas en el próximo Sprint. Además, el equipo de desarrollo define los elementos específicos del backlog del Sprint y crea un plan detallado para su cumplimiento. Esta reunión, que por lo general tiene una duración de unas pocas horas, involucra a todos los miembros del equipo Scrum, incluyendo el Scrum Master y el Product Owner. El propósito fundamental del Sprint Planning es generar una comprensión clara y compartida acerca de los objetivos a alcanzar durante el Sprint y cómo se llevarán a cabo.
+
+| Sprint #               | Sprint 1                                      |
+|------------------------|----------------------------------------------|
+| Sprint Planning Background | Date: 30 de Agosto del 2023                |
+| Date                   | Time: 15:00 horas (GMT-5)                   |
+| Location               | Location: Reunión virtual (Plataforma Discord) |
+| Prepared By            | Prepared By: NanoNerdsGroup                           |
+| Attendees (to planning meeting) | Attendees (to planning meeting): Todos los miembros del grupo |
+| Sprint 1 – 1 Review Summary   | Sprint 1 – 1 Review Summary: Dado que se trata del primer sprint, no hay un review summary de un sprint anterior |
+| Sprint 1 – 1 Retrospective Summary  Sprint 1 – 1 Retrospective Summary:  |
+| Sprint Goal & User Stories |                                                |
+| Sprint 1 Goal          | Sprint 1 Goal: Implementar y desplegar Landing Page |
+| Sprint 1 Velocity      | Sprint 1 Velocity: 15                        |
+| Sprint of Story Points | Sprint of Story Points: 8                    |
+
+
+#### 5.2.1.2. Sprint Backlog n. <a name="10"></a>
+
+
+
+#### 5.2.1.3. Development Evidence for Sprint Review. <a name="11"></a>
+
+| Repository     | Branch | Commit Id | Commit Message               | Committed on (Date) |
+| -------------- | ------ | --------- | ---------------------------- | ------------------- |
+| Landing Page   | Main   | 8e6feaf   | Initial Commit               | 11/09/2023          |
+| Landing Page   | Main   | ed5979a   | Landing-Page/index.html     | 11/09/2023          |
+| Landing Page   | Main   | 1091ad5   | Landing-Page/image/logo.png | 11/09/2023          |
+| Landing Page   | Main   | 999c79d   | Landing-Page/Font           | 11/09/2023          |
+| Landing Page   | Main   | fb042b5   | Landing-Page/Assets/style.css | 11/09/2023        |
+| Landing Page   |        | 5b759e1   | Landing-Page/index.html     | 11/09/2023          |
+| Landing Page   |        | 2aa104f   | Landing-Page/image/f-logo.png | 11/09/2023        |
+
+
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review. <a name="12"></a>
+
+Debido a que estamos en la etapa de diseño del prototipo de la aplicación web no podemos realizar los respectivos Tests. No obstante, se está evaluando qué aplicaciones usar para realizar las pruebas y validaciones correspondientes para desarrollar una efectiva aplicación web y que no contenga errores.
+
+#### 5.2.1.5. Execution Evidence for Sprint Review. <a name="13"></a>
+
+A continuación, se muestra screenshots de la landing page desarrollada y desplegada.
+
+![imagen 1 ](https://github.com/NanoNerdsGroup/NanoNerds-Report/blob/chapter-5/images/imagen-1.png?raw=true)
+
+![imagen 2 ](https://github.com/NanoNerdsGroup/NanoNerds-Report/blob/chapter-5/images/Imagen2.png?raw=true)
+
+![imagen 3 ](https://github.com/NanoNerdsGroup/NanoNerds-Report/blob/chapter-5/images/Imagen3.png?raw=true)
+
+![imagen 4 ](https://github.com/NanoNerdsGroup/NanoNerds-Report/blob/chapter-5/images/Imagen4.png?raw=true)
+
+![imagen 5 ](https://github.com/NanoNerdsGroup/NanoNerds-Report/blob/chapter-5/images/Imagen5.png?raw=true)
+
+![imagen 6 ](https://github.com/NanoNerdsGroup/NanoNerds-Report/blob/chapter-5/images/Imagen6.png?raw=true)
+
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review. <a name="14"></a>
+
+Como se mencionó anteriormente, debido a que estamos en la etapa de diseño del prototipo de la aplicación web no podemos documentar la relación de los endpoints.
+
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review. <a name="15"></a>
+
+Para el presente sprint, se ha desarrollado el landing page. Para el despliegue se han utilizado las siguentes herramientas:
+
+-	Git: Sistema de control de versiones que nos ayudó a trabajar en equipo durante el desarrollo del landing page.
+-	GitHub: Plataforma que nos ayudó al desarrollo colaborativo del equipo para almacenar las versiones de nuestro proyecto.
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint. <a name="16"></a>
+
+Team Collaboration Insights hace referencia a una variedad de datos e información que proporciona información sobre cómo un equipo está colaborando y trabajando en conjunto. Esto puede incluir métricas como frecuencia de comunicación, niveles de participación, progreso del proyecto y más.
+
+![Logo de GitHub](https://github.com/NanoNerdsGroup/NanoNerds-Report/blob/chapter-5/images/team-collaboration.png?raw=true) 
+
 ## 5.3. Validation Interviews. <a name="17"></a>
 ### 5.3.1. Diseño de Entrevistas. <a name="18"></a>
 ### 5.3.2. Registro de Entrevistas. <a name="19"></a>
@@ -1360,6 +1519,16 @@ Link del structuriz -> https://structurizr.com/share/77547/38021e1c-f520-406c-ab
 ## 5.4. Video About-the-Product. <a name="21"></a>
 # Conclusiones<a name="22"></a>
 ## Conclusiones Conclusiones y recomendaciones. <a name="23"></a>
+
+ - La aplicación TechShop tiene el potencial de abordar un problema real y común en entornos urbanos, que es la escasez de espacios de estacionamiento y la búsqueda ineficiente de lugares para estacionar. La propuesta de la aplicación para permitir a los usuarios buscar, reservar y pagar por espacios de estacionamiento de manera eficiente, así como permitir a los propietarios de espacios registrarse y alquilar a través de la plataforma, puede tener un impacto significativo en la experiencia de los conductores y en la congestión del tráfico en las áreas urbanas.
+
+  - Después de delimitar las funcionalidades de ParKEase a partir del capítulo cuatro, se ha realizado la planificación para el despliegue del landing page y web applications, partiendo de las especificaciones de estilo, hasta la realización de los wireframes y mockups. Además de completar el despliegue del landing page con HTML, CSS y JavaScript, dando uso a la plataforma de control de versiones, GitHub.
+  
+ - Creemos que se han cumplido adecuadamente todos los criterios solicitados para esta primera entrega. Cabe mencionar que el trabajo colaborativo y bien planificado ha sido muy importante para completar las secciones de este informe, como recomendación, sería excelente tener fechas y horarios preestablecidos para cada reunión.
+
 ## Video About-the-Team.  <a name="24"></a>
+
+
+
 # Bibliografía  <a name="25"></a>
 # Anexos <a name="26"></a>
