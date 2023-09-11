@@ -26,6 +26,7 @@
 - Farid Rolando Hinostroza Mavila - u202014468
 - Louis Piero Alfaro Coveñas - u20191b299
 - Antonella Frida Gonzales Gomez - u20211c403
+- Gustavo Jandroel Aguirre Rodriguez - u202124162
 
 **Ciclo:** 2023-02
 
