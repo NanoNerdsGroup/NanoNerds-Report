@@ -559,7 +559,7 @@ Una emprendedora de 35 años que reside en SMP y lleva 5 años en su negocio com
 
 **Registro de entrevista N° 6:** 
 
-**Fecha: /09/23**
+**Fecha: 02/09/23**
 
 **Nombres y Apellidos:** Leonardo Ventura
 
