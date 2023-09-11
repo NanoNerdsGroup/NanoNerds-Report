@@ -552,6 +552,24 @@ Edwin Peche, un vendedor de 32 años en SMP, con 5-6 años de experiencia en ven
 
 Una emprendedora de 35 años que reside en SMP y lleva 5 años en su negocio compartió sus experiencias. La pandemia tuvo un impacto, pero se están recuperando. Sus clientes varían en su conocimiento de productos, y en su mayoría, quedan satisfechos con sus compras. No ha detectado estafas en las ventas. Destaca la importancia de mantenerse al tanto de los cambios tecnológicos. Busca una aplicación fácil y accesible, sin botones innecesarios. Está interesada en aliarse con una aplicación que cumpla con estas características.
 
+**Registro de entrevista N° 6:** 
+
+**Fecha: /09/23**
+
+**Nombres y Apellidos:** Leonardo Ventura
+
+**Edad:** 22 años 
+
+**Duración de la entrevista: 9:13 -11:39 min**
+
+![Seller6](images-chapter2/interview/6.png)
+
+**Link: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202124162_upc_edu_pe/EZSEQNFxnYxFmSgzGbKmyZEBKKh5o8_69im2NNJSUDdJqw?e=cSisW7>** 
+
+**Resumen de la entrevista:** 
+
+Durante la entrevista con Leonardo, un vendedor experimentado de componentes de computadora con 5 años de experiencia, se observan dos aspectos cruciales. Primero, los compradores muestran un creciente conocimiento previo sobre los componentes, lo que resalta la importancia de orientar las estrategias hacia la educación del cliente y la transparencia en las ventas. Segundo, Leonardo expresa preocupación por estafas en el mercado de componentes y muestra disposición a probar una plataforma web de ventas, señalando una oportunidad para abordar la seguridad y autenticidad en las transacciones en línea.
+
 ### 2.2.3. Análisis de entrevistas. <a name="223-análisis-de-entrevistas"></a>
 
 **Análisis de la entrevista N° 1 Joe Medina:** 
@@ -573,6 +591,10 @@ Edwin es nuestro experto con más de 5 años de experiencia en la venta de compo
 **Análisis de la entrevista N° 5 Tania Perez:** 
 
 Tania considera que la mayoría de sus clientes quedan satisfechos con sus compras gracias a su asesoramiento. Ella respalda la idea de crear una aplicación para asesorar sobre componentes, siempre y cuando sea fácilmente accesible para cualquier usuario. Tania cree que esta aplicación también podría beneficiarla a ella, ya que ningún experto puede saber todo sobre informática y mantenerse actualizado es crucial.
+
+**Análisis de la entrevista N° 6 Leonardo Ventura:** 
+
+La entrevista con Leonardo subraya la necesidad de adaptarse a las tendencias del mercado y abordar desafíos clave. El aumento en el conocimiento de los compradores sugiere la importancia de proporcionar contenido educativo y transparente. Por otro lado, la preocupación por estafas resalta la necesidad de mejorar la seguridad en las transacciones en línea. En resumen, se destaca la importancia de la educación del cliente y la confiabilidad en las ventas en línea de componentes de computadora.
 
 ## 2.3. Needfinding. <a name="23-needfinding"></a>
 ### 2.3.1. User Personas. <a name="231-user-personas"></a>
