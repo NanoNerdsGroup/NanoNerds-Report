@@ -72,7 +72,7 @@
 ### Actividades:
 - fecha: 20-08-2023
 
-![Asignación de colores](Imagenes/Acordar-idea.png)
+![Asignación de colores](Imagenes-start-report/Acordar-idea.png)
 Durante una reunión de google meet hemos elegido una idea para nuestra startup. Abarcamos temas como el nombre de la startup y el sector en el que ibamos a trabajar, al final de la reunión elegimos el sector de tecnología.
 
 
@@ -1603,3 +1603,35 @@ Team Collaboration Insights hace referencia a una variedad de datos e informaci�
 
 # Bibliografía  <a name="25"></a>
 # Anexos <a name="26"></a>
+
+[User Persona]()
+
+[User Journey Mapping]()
+
+[Empathy Mapping]()
+
+[As-is Scenario Mapping]()
+
+[Landing page Wireframes](https://www.figma.com/file/d2K0pcnqAZyC8POc7vQOXX/TechShop-LandingPage?type=design&node-id=0%3A1&mode=design&t=E3ft7PDLLxwLfk76-1)
+
+[Landing page Mock-ups](https://www.figma.com/file/d2K0pcnqAZyC8POc7vQOXX/TechShop-LandingPage?type=design&node-id=0%3A1&mode=design&t=E3ft7PDLLxwLfk76-1)
+
+[Web Applications Wireframes]()
+
+[Web Applications Wireflow Diagrams]()
+
+[Web Applications Mock-ups]()
+
+[Web Applications User Flow Diagrams]()
+
+[Explicación del web applications Prototyping]()
+
+[Domain Driven Software Architecture Diagrams C4]()
+
+[Class Diagrams](https://drive.google.com/file/d/1E-qaWEXrm9yYL5iFyc1zxCPxPna7dXEi/view?usp=sharing)
+
+[Database Diagram](https://drive.google.com/file/d/1L4b3JzFnEZNRVmTpG1lnVg9T6JHnWVew/view?usp=sharing)
+
+[Organización en GitHub](https://github.com/NanoNerdsGroup)
+
+[Link del Landing Page desplegado](https://nanonerdsgroup.github.io/NanoNerds-LandingPage/)
