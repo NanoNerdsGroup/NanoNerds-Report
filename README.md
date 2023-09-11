@@ -41,6 +41,9 @@
 | TB1     | 09-09-2023 | Orlando | Avance el capitulo 1, 2 y 3 en el repositorio                   |
 | TB1     | 08-09-2023 | Antonella | Avance el capitulo 1, y 5 en el repositorio                   |
 |TB1| 08-09-2023|Gustavo|Avance del capitulo 2 y 4 en el repositorio|
+|TB1| 08-09-2023|Farid|Avance del capitulo 1 y 3 en el repositorio|
+|TB1| 09-09-2023|Farid|Avance del capitulo 3, cambios en estimación de story points en el repositorio|
+
 
 
 
