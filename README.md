@@ -1,4 +1,9 @@
-# Carátula
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <center><img src="https://cdn.discordapp.com/attachments/782453162409328641/1150589541644783696/descarga.jpeg"></center>
+    </td>
+  </tr>
+<br>
 
 **Universidad:** Universidad Peruana de Ciencias Aplicadas
 
@@ -1642,13 +1647,13 @@ Team Collaboration Insights hace referencia a una variedad de datos e informaci�
 
 [Web Applications Wireflow Diagrams]()
 
-[Web Applications Mock-ups]()
+[Web Applications Mock-ups](https://www.figma.com/file/BMO4VvH6k4huMoU6qYDIyn/Prototype---TechShop?type=design&node-id=0%3A1&mode=design&t=1Zz1SG0wtxEoFZ3J-1)
 
 [Web Applications User Flow Diagrams]()
 
-[Explicación del web applications Prototyping]()
+[Explicación del web applications Prototyping](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202124162_upc_edu_pe/EcXtN-bSh6RJkv9QDrzr_4cBmmHq53i-b7ZQmRq_RD--XQ?e=LWUOSH)
 
-[Domain Driven Software Architecture Diagrams C4]()
+[Domain Driven Software Architecture Diagrams C4](https://structurizr.com/share/77547/38021e1c-f520-406c-abdb-3b7b54326c66/diagrams#Contenedor)
 
 [Class Diagrams](https://drive.google.com/file/d/1E-qaWEXrm9yYL5iFyc1zxCPxPna7dXEi/view?usp=sharing)
 
