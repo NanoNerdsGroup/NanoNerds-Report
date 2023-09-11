@@ -188,7 +188,7 @@ Durante una reunión de google meet hemos elegido una idea para nuestra startup.
 |**Criterio específico**|**Acciones realizadas**|**Conclusiones**|
 | :- | :- | :- |
 |<p>**Participa en equipos** </p><p>**multidisciplinarios con eficacia,** </p><p>**eficiencia y objetividad, en el** </p><p>**marco de un proyecto en** </p><p>**soluciones de ingeniería de** </p><p>**software.**</p>|<p>**Orlando Arturo Roca Huapaya**</p><p>**TB1**</p><p>En esta entrega me encargue de realizar revisiones oportunas en el trabajo para realizar un correcto desarrollo del TB1. Asimismo, participe en el desarrollo de la idea de negocio</p><p></p><p>**Gonzales Gomez, Antonella**</p><p>**TB1**</p><p>` `Para el desarrollo del proyecto, se tuvo que identificar un problema o una necesidad latente, nuestro startup resuelve la necesidad de dos segmentos de usuarios, a través de las diferentes funcionalidades de nuestra aplicación.</p><p></p><p>**Aguirre Rodríguez, Gustavo Jandroel**</p><p>**TB1**</p><p>En el proceso, tuve que identificar las funciones esenciales del aplicativo y analizar el pensamiento del público objetivo para guiar la creación del diseño del web application.</p><p></p><p>**Louis Piero Alfaro Coveñas**</p><p>**TB1**</p><p>En esta entrega tuve que ver con que software me ayudaría para realizar el capítulo 2 del trabajo y analizar cómo lo que nuestro sistema embarca y con qué lenguaje pensaba programar el diseño de la estructura de nuestro sistema</p>|<br>|
-|<p>**Conoce al menos un sector** </p><p>**empresarial o dominio de** </p><p>**aplicación de soluciones de** </p><p>**software.**</p>|<p>**Orlando Arturo Roca Huapaya**</p><p>**TB1**</p><p>Me encargue de realizar el analisis competitivo, los wireframes y mock-ups de la landing page, el diagrama de clases y el diagrama de base de datos</p><p></p><p>**Gonzales Gomez, Antonella**</p><p>**TB1**</p><p>` `Me encargue de la gestión de la configuración del software y de las herramientas utilizadas en diferentes aspectos del proyecto. Estas herramientas abarcan desde la gestión de proyectos hasta el desarrollo, pruebas, documentación y despliegue del software. </p><p></p><p>**Aguirre Rodríguez, Gustavo Jandroel**</p><p>**TB1**</p><p>En este trabajo, mi responsabilidad abarcó el diseño de entrevistas, la recolección y análisis de datos, así como la creación de diseños en Figma para la aplicación web. Además, utilicé Lucidchart para confeccionar diagramas relevantes.</p><p>**Louis Piero Alfaro Coveñas**</p><p>**TB1**</p><p>Me encargue de los Customer Journey Mapping, Empathy Mapping, As-is Scenario Mapping</p><p>como también de DOMAIN-DRIVEN SOFTWARE ARCHITECTURE. </p>||
+|<p>**Conoce al menos un sector** </p><p>**empresarial o dominio de** </p><p>**aplicación de soluciones de** </p><p>**software.**</p>|<p>**Orlando Arturo Roca Huapaya**</p><p>**TB1**</p><p>Me encargue de realizar el analisis competitivo, los wireframes y mock-ups de la landing page, el diagrama de clases y el diagrama de base de datos</p><p></p><p>**Gonzales Gomez, Antonella**</p><p>**TB1**</p><p>` `Me encargue de la gestión de la configuración del software y de las herramientas utilizadas en diferentes aspectos del proyecto. Estas herramientas abarcan desde la gestión de proyectos hasta el desarrollo, pruebas, documentación y despliegue del software. </p><p></p><p>**Aguirre Rodríguez, Gustavo Jandroel**</p><p>**TB1**</p><p>En este trabajo, mi responsabilidad abarcó el diseño de entrevistas, la recolección y análisis de datos, así como la creación de diseños en Figma para la aplicación web. Además, utilicé Lucidchart para confeccionar diagramas relevantes.</p><p>**Louis Piero Alfaro Coveñas**</p><p>**TB1**</p><p>Me encargue de los Customer Journey Mapping, Empathy Mapping, As-is Scenario Mapping</p><p>como también de DOMAIN-DRIVEN SOFTWARE ARCHITECTURE. </p> </p><p>**Farid Hinostroza Mavila**</p><p>**TB1**</p><p>Me encargue de las historias de usuario y product backlog, a su vez, definiciones en el capitulo I</p><p>diseño de la edición del video </p>|||
 
 
 # Capítulo I: Introducción <a name="capitulo-1"></a>
@@ -242,6 +242,14 @@ Como estudiante de la carrera de Ingeniería de Software, brindaré mis conocimi
     </td>
   </tr>
 <br>
+
+Soy Farid Hinostroza, escogí la carrera de Ingeniería de Software por mi gran interés en la tecnología y su avance continuo, me motivan a aprender y ser autodidacta. 
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+        <center><img src="https://cdn.discordapp.com/attachments/775786045790355459/1150644075050045502/Screenshot_2023-08-27_at_12.png" alt="Imagen" width="200" height="250"></center>
+    </td>
+</tr>
 
 
 
