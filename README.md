@@ -243,6 +243,14 @@ Como estudiante de la carrera de Ingeniería de Software, brindaré mis conocimi
   </tr>
 <br>
 
+Soy Farid Hinostroza Mavila, escogí la carrera de Ingeniería de Software por mi gran interés en la tecnología y su avance continuo, me motivan a aprender y ser autodidacta.
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <center><img src="https://cdn.discordapp.com/attachments/775786045790355459/1150644075050045502/Screenshot_2023-08-27_at_12.png" width="280" height="250"></center>
+    </td>
+  </tr>
+<br>
+
 
 
 ## 1.2. Solution Profile <a name="12-solution-profile"></a>
