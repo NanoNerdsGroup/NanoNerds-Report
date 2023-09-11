@@ -258,6 +258,20 @@ Soy Farid Hinostroza, escogí la carrera de Ingeniería de Software por mi gran 
 ### 1.2.1  Antecedentes y problemática <a name="121-antecedentes-y-problemática"></a>
 
 
+● What (Qué) El desconocimiento de gran parte de la población sobre el hardware y el armado de una computadora, en especial el sector juvenil que se integra en el mundo del gaming, trabajo o estudio. Por ello se desea ayudar dando información sobre los componentes y así despejando las dudas que pudiesen tener sin el temor de ser estafados por precios inflados, componentes de segunda o de mala calidad, especializadas en constatar todos los precios e informarse sobre los productos.
+
+● When (Cuando) La principal causa de la problemática es cuando una persona quiere comprar o renovar los componentes para su pc o laptop y carece de conocimientos de marcas y demás cosas, además de no querer informarse sobre los precios, calidad y variedad de componentes, al ocurrir este problema el usuario recurrirá a nuestra página en busca de información.
+
+● Where (dónde) Esta problemática ocurre a más del 60% de la población, pero nos enfocaremos principalmente en la ciudad de Lima, con el fin de que en ese lugar conoceremos más sobre la problemática por la cantidad de habitantes, para luego expandirnos a todo el Perú.
+
+● Who (quién) Nuestro target principal son los jóvenes que están ingresando al mundo del gaming, trabajo o estudio, que viven en Lima, gran parte de ellos desconocen sobre los componentes y precio/
+
+● Why (por qué) La principal causa de esta problemática surge cuando las personas no quieren investigar o informarse sobre hardware y Software de computadoras o laptops por falta de tiempo o diversas circunstancias. Además, hay mucha confusión al momento de elegir entre modelos de laptops y desconocimiento sobre el armado de computadoras.
+
+● How (cómo) El problema de no saber que componente comprar, ya sea como funciona o qué es lo que hace, ocurre cuando la persona está pensando en comprar o renovar en la tienda o en su casa, a causa de la falta de información acerca de ello.
+
+● How much (cuánto) Este problema tiene un gran sector al cual podemos abarcar como queda demostrado en los siguientes cuadros estadísticos, más del 50% no tiene conocimiento y no investiga acerca del hardware de su pc.
+
 ### 1.2.2 Lean UX Process. <a name="122-lean-ux-process"></a>
 
 #### 1.2.2.1. Lean UX Problem Statements. <a name="1221-lean-ux-problem-statements"></a>
@@ -278,7 +292,44 @@ Objetivos actuales del producto: Conectar a los usuarios con tiendas de componen
 
 
 #### 1.2.2.2. Lean UX Assumptions. <a name="1222-lean-ux-assumptions"></a>
+Business Outcomes
+1. Creemos que nuestros clientes necesitan un servicio en el cual que les simplifique la compra de componentes de pc o laptops a precios justos y económicos.
 
+3. Nuestros clientes iniciales son (o serán) personas mayores de los 15 años, de cualquier sexo, con un nivel socioeconómico A,B,C,D; con acceso a internet y que estén interesados en comprar componentes de pc o laptops.
+
+4. 	El valor fundamental que el usuario buscará en nuestra página es el asesoramiento para la compra de componentes de pc o laptops con seguridad de conseguir precios justos y económicos.
+
+5. 	El cliente también puede obtener beneficios adicionales como: distribuidores oficiales de ciertas marcas de componentes y garantía de los componentes que compra con nosotros.
+
+6.   Vamos a conseguir gran parte de nuestros clientes por medio de publicidad por las redes sociales. También, por la recomendación y comentarios de los usuarios asesorados.
+
+7. Haremos dinero a través de la suscripción a nuestro servicio y comisiones de marcas y comerciales que deseen que enviemos a nuestros usuarios.
+
+8. Mi competencia principal serán otras páginas y centros comerciales que cuentan con asesorías en la compra de componentes.
+
+9. 	Los venceremos, debido a que ofreceremos muchos más beneficios que la competencia.
+
+10.	Nuestro mayor riesgo de producto es que ocurran inconvenientes con la página cuando se conectan muchos usuarios al mismo tiempo.
+    
+11.	Resolveremos esto a través de actualizaciones seguido a nuestra página.
+
+
+
+
+
+ Users Assumptions
+1. ¿Quién es el usuario?
+Los usuarios son aquellos que requieren comprar o renovar componentes de pc o laptops, sin ningún conocimiento sobre ello o con algún conocimiento previo.
+2. ¿Dónde encaja nuestro producto? ¿En su trabajo o vida?
+Nuestro producto encaja en su vida diaria y en algunos casos trabajo. Por la cual, nuestra página brindará asistencia a las personas que deseen comprar o renovar  componentes para su uso diario o para el trabajo.
+3. ¿Qué problemas tiene nuestro producto y cómo se pueden resolver?
+TechShop encaja perfectamente en la vida y el trabajo de aquellos que desean personalizar sus computadoras y laptops para satisfacer necesidades específicas, como edición de video, diseño gráfico, juegos y más. Además, ofrece a los vendedores de componentes la oportunidad de presentar sus productos de manera atractiva a una audiencia comprometida con la tecnología.
+4. ¿Cuándo y cómo es usado nuestro producto?
+Nuestra página es usada cuando el cliente no tiene claro sobre el funcionamiento de algunos componentes o que componentes usar para diversos factores como gaming, estudio o trabajo. La página se usa siguiendo los siguientes pasos: registrarse, ingresar que es lo que se desea hacer (comprar, renovar o mejorar componentes), se pregunta para qué será usado (trabajo, estudios o gaming), se pregunta el rango de dinero disponible para la compra y se muestra los resultados.
+6.  ¿Qué características son importantes?
+Nuestra página poseerá una interfaz de fácil uso, lo cual permitirá al usuario moverse por la página con seguridad.
+7. ¿Cómo debe verse y comportarse nuestro producto?
+La interfaz de usuario debe ser fácil y agradable uso, con colores neutros para captar su atención y tranquilidad. Además, la actualización constante de los precios, instalaciones y ubicaciones de las tiendas.
 
 
 #### 1.2.2.3. Lean UX Hypothesis Statements. <a name="1223-lean-ux-hypothesis-statements"></a>
