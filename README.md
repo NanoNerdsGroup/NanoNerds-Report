@@ -810,10 +810,11 @@ Impact Mapping de los usuarios.
 
 ## 3.4. Product Backlog. <a name="34-product-backlog"></a>
 
-|![](Aspose.Words.9a1e41bb-7cee-4994-a180-30f86ac6b1d1.001.png)|![](Aspose.Words.9a1e41bb-7cee-4994-a180-30f86ac6b1d1.002.png)|![](Aspose.Words.9a1e41bb-7cee-4994-a180-30f86ac6b1d1.003.png)|![](Aspose.Words.9a1e41bb-7cee-4994-a180-30f86ac6b1d1.004.png)|![](Aspose.Words.9a1e41bb-7cee-4994-a180-30f86ac6b1d1.005.png)|
+
+|![](Aspose.Words.ebfc1af6-edf8-4618-9338-165c542cca53.001.png)|![](Aspose.Words.ebfc1af6-edf8-4618-9338-165c542cca53.002.png)|![](Aspose.Words.ebfc1af6-edf8-4618-9338-165c542cca53.003.png)|![](Aspose.Words.ebfc1af6-edf8-4618-9338-165c542cca53.004.png)|![](Aspose.Words.ebfc1af6-edf8-4618-9338-165c542cca53.005.png)|
 | :- | :- | :- | :- | :- |
 |<a name="_hlk145125425"></a>1 |EP06/TS01 |Acceder a EndPoints|Como developer deseo acceder a endpoints para interactuar con la aplicacion|6 |
-|2 |US01|Conocer propósito de sitio web, landing page|Como usuario **deseo** conocer el propósito del sitio web para conocer los servicios ofrecidos a los usuarios.|4 |
+|2 |US01|Seller, proveedores disponibles|Como proveedor deseo ofrecer mis componentes|7|
 |3 |US02|Registro de usuario en la aplicación|Como usuario **deseo** crear una cuenta para administrar mis servicios|8 |
 |4 |US03|Inicio de Sesion|Como usuario quiero iniciar sesión con la cuenta que cree para poder acceder a las funciones de la aplicación.|8|
 |5 |US04 |Recuperación de la cuenta|` `Como usuario quiero recuperar mi cuenta de la cual me olvide la contraseña o el correo, para evitar crearme otra cuenta.|6|
@@ -838,6 +839,12 @@ Impact Mapping de los usuarios.
 |18 |US-17 |Obtención de Datos a través de la API|` `Como Developer quiero tener la capacidad de obtener la lista de propietarios, la lista de usuarios y los anuncios publicados en la aplicación para poder utilizar estos datos en aplicaciones o servicios externos.|8 |
 |19 |US-18 |<p></p><p>Visualización de Planes de Suscripción</p>|Como usuario de la aplicación, quiero acceder a información sobre los diferentes planes de suscripción ofrecidos por TechShop.|6 |
 |20 |US-19 |Cambiar de Idioma a Español/Inglés|Como usuario quiero tener la opción de cambiar el idioma del sitio entre español e inglés. |5 |
+|21|US-20|Navegación en la página web|Como usuario quiero navegar libremente por la aplicación web para dirigirme a mis necesidades.|7|
+|22|US-21|Hero, inicio de proceso de búsqueda|Como usuario quiero iniciar el proceso de busqueda|8|
+|23|US-22|Conocer propósito de sitio web, About US.|Como usuario deseo conocer el propósito del sitio web para conocer los servicios ofrecidos a los usuarios|5|
+|24|US-23|Customer Start|Como cliente deseo comprar mi pc ideal|8|
+|25|US-24|Footer|Como usuario deseo conocer más información acerca de TechShop|3|
+
 
 # Capítulo IV: Product Design <a name="capítulo-iv-product-design"></a>
 ## 4.1. Style Guidelines. <a name="41-style-guidelines"></a>
