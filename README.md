@@ -1645,7 +1645,7 @@ Team Collaboration Insights hace referencia a una variedad de datos e informaci√
 
 [Web Applications Wireframes]()
 
-[Web Applications Wireflow Diagrams]()
+[Web Applications Wireflow Diagrams](https://lucid.app/lucidchart/95e317cf-5ddc-44e2-b801-185f55a2bf3b/edit?viewport_loc=-670%2C-21%2C5713%2C2832%2C0_0&invitationId=inv_71e7ab8b-e901-4415-b13e-033b9236d30a)
 
 [Web Applications Mock-ups](https://www.figma.com/file/BMO4VvH6k4huMoU6qYDIyn/Prototype---TechShop?type=design&node-id=0%3A1&mode=design&t=1Zz1SG0wtxEoFZ3J-1)
 
