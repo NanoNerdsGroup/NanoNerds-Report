@@ -27,4 +27,9 @@ Soy Antonella Frida Gonzales Gomez, como estudiante de la carrera de Ingeniería
 </tr>
 
 Soy Farid Hinostroza, escogí la carrera de Ingeniería de Software por mi gran interés en la tecnología y su avance continuo, me motivan a aprender y ser autodidacta.
-![Imgur](https://i.imgur.com/tgoZfyU.png)<br>
+<tr>
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+        <center><img src="ttps://i.imgur.com/tgoZfyU.png" alt="Imagen desde Google Drive" width="200" height="250"></center>
+    </td>
+</tr>
