@@ -1643,7 +1643,7 @@ Team Collaboration Insights hace referencia a una variedad de datos e informaci√
 
 [User Journey Mapping]()
 
-[Empathy Mapping]()
+[Empathy Mapping](https://miro.com/app/board/uXjVMm02As8=/?share_link_id=105376156822)
 
 [As-is Scenario Mapping]()
 
