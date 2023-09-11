@@ -1643,13 +1643,13 @@ Team Collaboration Insights hace referencia a una variedad de datos e informaci√
 
 [Landing page Mock-ups](https://www.figma.com/file/d2K0pcnqAZyC8POc7vQOXX/TechShop-LandingPage?type=design&node-id=0%3A1&mode=design&t=E3ft7PDLLxwLfk76-1)
 
-[Web Applications Wireframes]()
+[Web Applications Wireframes](https://www.figma.com/file/TWrdKG3A54QB62406l9eRe/TechShop?type=design&node-id=9%3A408&mode=design&t=d8gwVT9zQ1zrWzQ5-1)
 
-[Web Applications Wireflow Diagrams](https://lucid.app/lucidchart/95e317cf-5ddc-44e2-b801-185f55a2bf3b/edit?viewport_loc=-670%2C-21%2C5713%2C2832%2C0_0&invitationId=inv_71e7ab8b-e901-4415-b13e-033b9236d30a)
+[Web Applications Wireflow Diagrams](https://www.figma.com/file/qYJCrilHp0JAnV6qpW5E4e/TechShop-Diagrams?type=design&node-id=0%3A1&mode=design&t=3Ls1r4uRK6LZiS9w-1)
 
 [Web Applications Mock-ups](https://www.figma.com/file/BMO4VvH6k4huMoU6qYDIyn/Prototype---TechShop?type=design&node-id=0%3A1&mode=design&t=1Zz1SG0wtxEoFZ3J-1)
 
-[Web Applications User Flow Diagrams]()
+[Web Applications User Flow Diagrams](https://lucid.app/lucidchart/95e317cf-5ddc-44e2-b801-185f55a2bf3b/edit?viewport_loc=-670%2C-21%2C5713%2C2832%2C0_0&invitationId=inv_71e7ab8b-e901-4415-b13e-033b9236d30a)
 
 [Explicaci√≥n del web applications Prototyping](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202124162_upc_edu_pe/EcXtN-bSh6RJkv9QDrzr_4cBmmHq53i-b7ZQmRq_RD--XQ?e=LWUOSH)
 
