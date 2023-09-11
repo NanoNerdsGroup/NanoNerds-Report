@@ -75,8 +75,12 @@
 |833c24f1cf4ffc085b5873b83e9711bce3e00f03|Gustavo|09-09-2023|doc: Web Applications Wireframes and images added|
 |85fe6ffce3d839f859f1243cd96ec27e6ca71161|Gustavo|09-09-2023|doc: modified images|
 |13b6dd749cc235280b475285c14cc8b294ec1e7b|Gustavo|09-09-2023|doc: Web Applications User Flow Diagrams added|
+|a416a20228e7bfbe76678949d1528ec57be3b13e|Farid|09-09-2023|doc: update impact mapping|
+|8e23a2097ce4cbde7c6dd57eb47996a473270c20|Farid|10-09-2023|doc: fix productbacklog bug|
 |41346ac9fdc98c588d5d3a3c62b1ad621ab525ce|Gustavo|10-09-2023|doc: Web Applications Prototyping added|
-
+|aee61d20a2faeb17f86f4567198bbd24bfeeb53a|Farid|10-09-2023| doc: about-the-team added|
+|dc5a09c799ccc44546c5e602cf2aa053179f763b|Farid|10-09-2023|doc: about-the-product added|
+|5fb664ab5a1ba14d76549aeb798aaf0167a845ba|Farid|10-09-2023|doc: footer|
 
 ### Actividades:
 - fecha: 20-08-2023
