@@ -4,7 +4,7 @@ En el contexto de las aplicaciones web, el Sprint Backlog puede contener tareas 
 importantes para el éxito del proyecto.
 
 
-<table><tr><th colspan="1" valign="top">Sprint #</th><th colspan="7" valign="top">Sprint 1</th></tr>
+<table><tr><th colspan="1" valign="top"><a name="_hlk146456709"></a>Sprint #</th><th colspan="7" valign="top">Sprint 1</th></tr>
 <tr><td colspan="2" valign="top">User story</td><td colspan="6" valign="top">Work Item/Task</td></tr>
 <tr><td colspan="1" valign="top">Id</td><td colspan="1" valign="top">Title</td><td colspan="1" valign="top">Id</td><td colspan="1" valign="top">Title</td><td colspan="1" valign="top">Description</td><td colspan="1" valign="top"><p>Estimation</p><p>(Hours)</p></td><td colspan="1" valign="top">Assigned To</td><td colspan="1" valign="top">Status(To-do InProcess ToReview Done)</td></tr>
 <tr><td colspan="1" rowspan="2" valign="top">HU03</td><td colspan="1" rowspan="2" valign="top">Sección inicial del landing page</td><td colspan="1" valign="top">T01</td><td colspan="1" valign="top">Creación del repositorio de la landing page</td><td colspan="1" valign="top">Creación del repositorio de Github</td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Louis</td><td colspan="1" valign="top">To-do</td></tr>
