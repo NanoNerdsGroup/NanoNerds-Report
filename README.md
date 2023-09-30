@@ -35,6 +35,7 @@
 | TB1     | 09-09-2023 | Louis   | Avance el capitulo 2 y 4 en el repositorio                      |
 | TB1     | 09-09-2023 | Orlando | Avance el capitulo 1, 2 y 3 en el repositorio                   |
 | TB1     | 08-09-2023 | Antonella | Avance el capitulo 1, y 5 en el repositorio                   |
+| TP     | 20-09-2023 | Antonella | Avance el  5 en el repositorio       |
 
 
 
@@ -56,7 +57,9 @@
 |829cec314671610d0025d3215d39e5f54d88a245|Orlando|09-09-2023|doc: Competitive analysis, Competitors and strategies and tactics against competitos added|
 |8770ca25d5b57886f85c143394bd8017c7c1492c|Orlando|09-09-2023|Landing page and Architecture information parts added|
 |4a4538f7c137f24d34992cf582b5f2cce14c6ac7|Orlando|09-09-2023|doc: class diagram, class dictionary and database diagram added|
-
+|80c36cc7feb26f056618be2349055cc2f65ba470|Antonella|20-09-2023|doc:Update Sprint Backlog 1|
+|0eddb7637711fb4f44606643dac5bf963352e32e|Antonella|20-09-2023|doc:Update Create Sprint Planning 2|
+|0eddb7637711fb4f44606643dac5bf963352e32e|Antonella|20-09-2023|doc:Update Sprint Backlog 2|
 
 ### Actividades:
 - fecha: 20-08-2023
