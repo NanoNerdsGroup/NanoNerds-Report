@@ -83,6 +83,7 @@
 |aee61d20a2faeb17f86f4567198bbd24bfeeb53a|Farid|10-09-2023| doc: about-the-team added|
 |dc5a09c799ccc44546c5e602cf2aa053179f763b|Farid|10-09-2023|doc: about-the-product added|
 |5fb664ab5a1ba14d76549aeb798aaf0167a845ba|Farid|10-09-2023|doc: footer|
+|bba11e695f46e4d494cadbfdb09ff1f4635fa56a|Farid|30-09-2023|doc: updateInforme|
 
 ### Actividades:
 - fecha: 20-08-2023
