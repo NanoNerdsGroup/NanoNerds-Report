@@ -1753,3 +1753,5 @@ Team Collaboration Insights hace referencia a una variedad de datos e informaci√
 [Organizaci√≥n en GitHub](https://github.com/NanoNerdsGroup)
 
 [Link del Landing Page desplegado](https://nanonerdsgroup.github.io/NanoNerds-LandingPage/)
+
+[Link del Frontend](https://nanonerds-techshop.web.app/suscriptions)
