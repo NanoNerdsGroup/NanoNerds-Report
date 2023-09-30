@@ -44,7 +44,8 @@
 |TB1| 08-09-2023|Gustavo|Avance del capitulo 2 y 4 en el repositorio|
 |TB1| 08-09-2023|Farid|Avance del capitulo 1 y 3 en el repositorio|
 |TB1| 09-09-2023|Farid|Avance del capitulo 3, cambios en estimación de story points en el repositorio|
-|TP| 29-09-2023|Orlando|Desarrollo de la primera version del frontend|
+|TP| 30-09-2023|Farid|Avance de user stories en app web, frontend actualizado|
+|TP| 30-09-2023|Farid|Mejoras en Documentos de sprint anterior|
 
 
 
@@ -56,32 +57,34 @@
 
 
 
-| Commit ID | Autor   | Fecha      | Descripción del Commit                          |
-|-----------|---------|------------|-----------------------------------------------|
-|e1c2ae2aaf4e4bebc9bcbbc3735131e8f9db7662| Orlando | 21-08-2023 | chore: Initial repository setup - Setting up the project structure and initializing the repository.|
-|1194fd4e070ed6f7a4e21d90a04bf135c80c607a| Orlando | 21-08-2023 | chore: Add initial files for team to start working - Included the necessary files in the chapter 1 for the team to begin working on the assigned task|
-|746ab558314266c63a4d54f581242b4eb60506b9| Orlando | 21-08-2023 |chore: Add initial files for team to start working - Included the necessary files in the chapter 2 for the team to begin working on the assigned task|
-|cad53628381fa3bbd01b186e2e63305c7ee37e85| Louis   | 09-09-2023 |doc: As-is-Scenario-Mapping, Empathy-Mapping, User-Journey-Mapping added                                                                                                                                                     |
-|859f290a360ac940dd594d2fd5d7fb7d179c9e04| Louis   | 09-09-2023 |doc: Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams added                                                                                                                                                     |
-|2651227a287c63ac50234204a6650104dd84f764|Orlando|09-09-2023|doc: Canvas, Target Segment and Team members profile added|
-|829cec314671610d0025d3215d39e5f54d88a245|Orlando|09-09-2023|doc: Competitive analysis, Competitors and strategies and tactics against competitos added|
-|8770ca25d5b57886f85c143394bd8017c7c1492c|Orlando|09-09-2023|Landing page and Architecture information parts added|
-|4a4538f7c137f24d34992cf582b5f2cce14c6ac7|Orlando|09-09-2023|doc: class diagram, class dictionary and database diagram added|
-|9d359303769f0a685720263d94cd3c2d51854f78|Gustavo|09-09-23|doc: interview analysis added|
-|e2b06beaa55b397b9d949a57c1c9eebe34632a0b|Gustavo|09-09-2023|doc: interview record added|
-|81c82cf12b7654dd3c19755effe9ad1b2a46da03|Gustavo|09-09-2023|interviuw-record added|
-|2bc4c299542ff2b2d5fbe2504e510c3b27c595cc|Gustavo|09-09-2023|interview images ad0des|
-|48951439f83ee0065f5d8baf58258b6d0856f46f|Gustavo|09-09-2023|doc: Images and Web-Applications-wireframes added|
-|d5bcb707c331ecb9db103314957cfb3974a7ab5f|Gustavo|09-09-2023|doc: Web-Applications-Wireflows-Diagrams added|
-|833c24f1cf4ffc085b5873b83e9711bce3e00f03|Gustavo|09-09-2023|doc: Web Applications Wireframes and images added|
-|85fe6ffce3d839f859f1243cd96ec27e6ca71161|Gustavo|09-09-2023|doc: modified images|
-|13b6dd749cc235280b475285c14cc8b294ec1e7b|Gustavo|09-09-2023|doc: Web Applications User Flow Diagrams added|
-|a416a20228e7bfbe76678949d1528ec57be3b13e|Farid|09-09-2023|doc: update impact mapping|
-|8e23a2097ce4cbde7c6dd57eb47996a473270c20|Farid|10-09-2023|doc: fix productbacklog bug|
-|41346ac9fdc98c588d5d3a3c62b1ad621ab525ce|Gustavo|10-09-2023|doc: Web Applications Prototyping added|
-|aee61d20a2faeb17f86f4567198bbd24bfeeb53a|Farid|10-09-2023| doc: about-the-team added|
-|dc5a09c799ccc44546c5e602cf2aa053179f763b|Farid|10-09-2023|doc: about-the-product added|
-|5fb664ab5a1ba14d76549aeb798aaf0167a845ba|Farid|10-09-2023|doc: footer|
+| Commit ID | Autor   | Fecha      | Descripción del Commit                                                                                                                               |
+|-----------|---------|------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
+|e1c2ae2aaf4e4bebc9bcbbc3735131e8f9db7662| Orlando | 21-08-2023 | chore: Initial repository setup - Setting up the project structure and initializing the repository.                                                  |
+|1194fd4e070ed6f7a4e21d90a04bf135c80c607a| Orlando | 21-08-2023 | chore: Add initial files for team to start working - Included the necessary files in the chapter 1 for the team to begin working on the assigned task |
+|746ab558314266c63a4d54f581242b4eb60506b9| Orlando | 21-08-2023 | chore: Add initial files for team to start working - Included the necessary files in the chapter 2 for the team to begin working on the assigned task |
+|cad53628381fa3bbd01b186e2e63305c7ee37e85| Louis   | 09-09-2023 | doc: As-is-Scenario-Mapping, Empathy-Mapping, User-Journey-Mapping added                                                                             |
+|859f290a360ac940dd594d2fd5d7fb7d179c9e04| Louis   | 09-09-2023 | doc: Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams added                |
+|2651227a287c63ac50234204a6650104dd84f764| Orlando | 09-09-2023 | doc: Canvas, Target Segment and Team members profile added                                                                                           |
+|829cec314671610d0025d3215d39e5f54d88a245| Orlando | 09-09-2023 | doc: Competitive analysis, Competitors and strategies and tactics against competitos added                                                           |
+|8770ca25d5b57886f85c143394bd8017c7c1492c| Orlando | 09-09-2023 | Landing page and Architecture information parts added                                                                                                |
+|4a4538f7c137f24d34992cf582b5f2cce14c6ac7| Orlando | 09-09-2023 | doc: class diagram, class dictionary and database diagram added                                                                                      |
+|9d359303769f0a685720263d94cd3c2d51854f78| Gustavo | 09-09-23   | doc: interview analysis added                                                                                                                        |
+|e2b06beaa55b397b9d949a57c1c9eebe34632a0b| Gustavo | 09-09-2023 | doc: interview record added                                                                                                                          |
+|81c82cf12b7654dd3c19755effe9ad1b2a46da03| Gustavo | 09-09-2023 | interviuw-record added                                                                                                                               |
+|2bc4c299542ff2b2d5fbe2504e510c3b27c595cc| Gustavo | 09-09-2023 | interview images ad0des                                                                                                                              |
+|48951439f83ee0065f5d8baf58258b6d0856f46f| Gustavo | 09-09-2023 | doc: Images and Web-Applications-wireframes added                                                                                                    |
+|d5bcb707c331ecb9db103314957cfb3974a7ab5f| Gustavo | 09-09-2023 | doc: Web-Applications-Wireflows-Diagrams added                                                                                                       |
+|833c24f1cf4ffc085b5873b83e9711bce3e00f03| Gustavo | 09-09-2023 | doc: Web Applications Wireframes and images added                                                                                                    |
+|85fe6ffce3d839f859f1243cd96ec27e6ca71161| Gustavo | 09-09-2023 | doc: modified images                                                                                                                                 |
+|13b6dd749cc235280b475285c14cc8b294ec1e7b| Gustavo | 09-09-2023 | doc: Web Applications User Flow Diagrams added                                                                                                       |
+|a416a20228e7bfbe76678949d1528ec57be3b13e| Farid   | 09-09-2023 | doc: update impact mapping                                                                                                                           |
+|8e23a2097ce4cbde7c6dd57eb47996a473270c20| Farid   | 10-09-2023 | doc: fix productbacklog bug                                                                                                                          |
+|41346ac9fdc98c588d5d3a3c62b1ad621ab525ce| Gustavo | 10-09-2023 | doc: Web Applications Prototyping added                                                                                                              |
+|aee61d20a2faeb17f86f4567198bbd24bfeeb53a| Farid   | 10-09-2023 | doc: about-the-team added                                                                                                                            |
+|dc5a09c799ccc44546c5e602cf2aa053179f763b| Farid   | 10-09-2023 | doc: about-the-product added                                                                                                                         |
+|5fb664ab5a1ba14d76549aeb798aaf0167a845ba| Farid   | 10-09-2023 | doc: footer                                                                                                                                          |
+|bba11e695f46e4d494cadbfdb09ff1f4635fa56a| Farid   | 29-09-2023 | doc: updateInforme                                                                                                                                   |
+|a74f748a9a07485c9e7afb626823ab3dfd2721cf| Louis   | 29-09-2023 | doc: add update new C4                                                                                                                               |
 
 ### Actividades:
 - fecha: 20-08-2023
@@ -162,34 +165,43 @@ Durante una reunión de google meet hemos elegido una idea para nuestra startup.
     - [5.1.3. Source Code Style Guide & Conventions](#5)
     - [5.1.4. Software Deployment Configuration](#6)
   - [5.2. Landing Page, Services & Applications Implementation](#7)
-    - [5.2.X. Sprint n](#8)
-      - [5.2.X.1. Sprint Planning n](#9)
-      - [5.2.X.2. Sprint Backlog n](#10)
-      - [5.2.X.3. Development Evidence for Sprint Review](#11)
-      - [5.2.X.4. Testing Suite Evidence for Sprint Review](#12)
-      - [5.2.X.5. Execution Evidence for Sprint Review](#13)
-      - [5.2.X.6. Services Documentation Evidence for Sprint Review](#14)
-      - [5.2.X.7. Software Deployment Evidence for Sprint Review](#15)
-      - [5.2.X.8. Team Collaboration Insights during Sprint](#16)
-  - [5.3. Validation Interviews](#17)
-    - [5.3.1. Diseño de Entrevistas](#18)
-    - [5.3.2. Registro de Entrevistas](#19)
-    - [5.3.3. Evaluaciones según heurísticas](#20)
-  - [5.4. Video About-the-Product](#21)
+    - [5.2.1. Sprint 1](#8)
+      - [5.2.1.1. Sprint Planning 1](#9)
+      - [5.2.1.2. Sprint Backlog 1](#10)
+      - [5.2.1.3. Development Evidence for Sprint Review](#11)
+      - [5.2.1.4. Testing Suite Evidence for Sprint Review](#12)
+      - [5.2.1.5. Execution Evidence for Sprint Review](#13)
+      - [5.2.1.6. Services Documentation Evidence for Sprint Review](#14)
+      - [5.2.1.7. Software Deployment Evidence for Sprint Review](#15)
+      - [5.2.1.8. Team Collaboration Insights during Sprint](#16)
+    - [5.2.2. Sprint 2](#17)
+      - [5.2.2.1. Sprint Planning 2](#18)
+      - [5.2.2.2. Sprint Backlog 2](#19)
+      - [5.2.2.3. Development Evidence for Sprint Review](#20)
+      - [5.2.2.4. Testing Suite Evidence for Sprint Review](#21)
+      - [5.2.2.5. Execution Evidence for Sprint Review](#22)
+      - [5.2.2.6. Services Documentation Evidence for Sprint Review](#23)
+      - [5.2.2.7. Software Deployment Evidence for Sprint Review](#24)
+      - [5.2.2.8. Team Collaboration Insights during Sprint](#25)
+  - [5.3. Validation Interviews](#26)
+    - [5.3.1. Diseño de Entrevistas](#27)
+    - [5.3.2. Registro de Entrevistas](#28)
+    - [5.3.3. Evaluaciones según heurísticas](#29)
+  - [5.4. Video About-the-Product](#30)
 
-- [Conclusiones](#22)
-  - [Conclusiones y recomendaciones](#23)
-  - [Video About-the-Team](#24)
+- [Conclusiones](#31)
+  - [Conclusiones y recomendaciones](#32)
+  - [Video About-the-Team](#33)
 
-- [Bibliografía](#25)
-- [Anexos](#26)
+- [Bibliografía](#34)
+- [Anexos](#35)
 
 # Student Outcome
 
-|**Criterio específico**|**Acciones realizadas**|**Conclusiones**|
-| :- | :- | :- |
-|<p>**Participa en equipos** </p><p>**multidisciplinarios con eficacia,** </p><p>**eficiencia y objetividad, en el** </p><p>**marco de un proyecto en** </p><p>**soluciones de ingeniería de** </p><p>**software.**</p>|<p>**Orlando Arturo Roca Huapaya**</p><p>**TB1**</p><p>En esta entrega me encargue de realizar revisiones oportunas en el trabajo para realizar un correcto desarrollo del TB1. Asimismo, participe en el desarrollo de la idea de negocio</p><p></p><p>**Gonzales Gomez, Antonella**</p><p>**TB1**</p><p>` `Para el desarrollo del proyecto, se tuvo que identificar un problema o una necesidad latente, nuestro startup resuelve la necesidad de dos segmentos de usuarios, a través de las diferentes funcionalidades de nuestra aplicación.</p><p></p><p>**Aguirre Rodríguez, Gustavo Jandroel**</p><p>**TB1**</p><p>En el proceso, tuve que identificar las funciones esenciales del aplicativo y analizar el pensamiento del público objetivo para guiar la creación del diseño del web application.</p><p></p><p>**Louis Piero Alfaro Coveñas**</p><p>**TB1**</p><p>En esta entrega tuve que ver con que software me ayudaría para realizar el capítulo 2 del trabajo y analizar cómo lo que nuestro sistema embarca y con qué lenguaje pensaba programar el diseño de la estructura de nuestro sistema</p>|<br>|
-|<p>**Conoce al menos un sector** </p><p>**empresarial o dominio de** </p><p>**aplicación de soluciones de** </p><p>**software.**</p>|<p>**Orlando Arturo Roca Huapaya**</p><p>**TB1**</p><p>Me encargue de realizar el analisis competitivo, los wireframes y mock-ups de la landing page, el diagrama de clases y el diagrama de base de datos</p><p></p><p>**Gonzales Gomez, Antonella**</p><p>**TB1**</p><p>` `Me encargue de la gestión de la configuración del software y de las herramientas utilizadas en diferentes aspectos del proyecto. Estas herramientas abarcan desde la gestión de proyectos hasta el desarrollo, pruebas, documentación y despliegue del software. </p><p></p><p>**Aguirre Rodríguez, Gustavo Jandroel**</p><p>**TB1**</p><p>En este trabajo, mi responsabilidad abarcó el diseño de entrevistas, la recolección y análisis de datos, así como la creación de diseños en Figma para la aplicación web. Además, utilicé Lucidchart para confeccionar diagramas relevantes.</p><p>**Louis Piero Alfaro Coveñas**</p><p>**TB1**</p><p>Me encargue de los Customer Journey Mapping, Empathy Mapping, As-is Scenario Mapping</p><p>como también de DOMAIN-DRIVEN SOFTWARE ARCHITECTURE. </p> </p><p>**Farid Hinostroza Mavila**</p><p>**TB1**</p><p>Me encargue de las historias de usuario y product backlog, a su vez, definiciones en el capitulo I</p><p>diseño de la edición del video </p>|||
+| **Criterio específico**                                                                                                                                                                                              | **Acciones realizadas**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | **Conclusiones**                                                                                                                         |
+|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------|
+| <p>**Participa en equipos** </p><p>**multidisciplinarios con eficacia,** </p><p>**eficiencia y objetividad, en el** </p><p>**marco de un proyecto en** </p><p>**soluciones de ingeniería de** </p><p>**software.**</p>| <p>**Orlando Arturo Roca Huapaya**</p><p>**TB1**</p><p>En esta entrega me encargue de realizar revisiones oportunas en el trabajo para realizar un correcto desarrollo del TB1. Asimismo, participe en el desarrollo de la idea de negocio</p><p></p><p>**Gonzales Gomez, Antonella**</p><p>**TB1**</p><p>` `Para el desarrollo del proyecto, se tuvo que identificar un problema o una necesidad latente, nuestro startup resuelve la necesidad de dos segmentos de usuarios, a través de las diferentes funcionalidades de nuestra aplicación.</p><p></p><p>**Aguirre Rodríguez, Gustavo Jandroel**</p><p>**TB1**</p><p>En el proceso, tuve que identificar las funciones esenciales del aplicativo y analizar el pensamiento del público objetivo para guiar la creación del diseño del web application.</p><p></p><p>**Louis Piero Alfaro Coveñas**</p><p>**TB1**</p><p>En esta entrega tuve que ver con que software me ayudaría para realizar el capítulo 2 del trabajo y analizar cómo lo que nuestro sistema embarca y con qué lenguaje pensaba programar el diseño de la estructura de nuestro sistema</p><p>**Louis Piero Alfaro Coveñas**</p><p></p> <p>**TP**</p><p>Me encargue de pasar el proyecto del markdown a word con todas las correcciones respectivas</p>                                                                                                                                     |                                                                                                                                          |<br>|
+| <p>**Conoce al menos un sector** </p><p>**empresarial o dominio de** </p><p>**aplicación de soluciones de** </p><p>**software.**</p>                                                                                 | <p>**Orlando Arturo Roca Huapaya**</p><p>**TB1**</p><p>Me encargue de realizar el analisis competitivo, los wireframes y mock-ups de la landing page, el diagrama de clases y el diagrama de base de datos</p><p></p><p>**Gonzales Gomez, Antonella**</p><p>**TB1**</p><p>` `Me encargue de la gestión de la configuración del software y de las herramientas utilizadas en diferentes aspectos del proyecto. Estas herramientas abarcan desde la gestión de proyectos hasta el desarrollo, pruebas, documentación y despliegue del software. </p><p></p><p>**Aguirre Rodríguez, Gustavo Jandroel**</p><p>**TB1**</p><p>En este trabajo, mi responsabilidad abarcó el diseño de entrevistas, la recolección y análisis de datos, así como la creación de diseños en Figma para la aplicación web. Además, utilicé Lucidchart para confeccionar diagramas relevantes.</p><p>**Louis Piero Alfaro Coveñas**</p><p>**TB1**</p><p>Me encargue de los Customer Journey Mapping, Empathy Mapping, As-is Scenario Mapping</p><p>como también de DOMAIN-DRIVEN SOFTWARE ARCHITECTURE. </p> </p><p>**Farid Hinostroza Mavila**</p><p>**TB1**</p><p>Me encargue de las historias de usuario y product backlog, a su vez, definiciones en el capitulo I</p><p>diseño de la edición del video  </p> </p><p>**Louis Piero Alfaro Coveñas**</p><p></p> <p>**TP**</p><p>Me encargue de hacer una mejora a los C4 del proyecto </p> |||
 
 
 # Capítulo I: Introducción <a name="capitulo-1"></a>
@@ -244,13 +256,13 @@ Como estudiante de la carrera de Ingeniería de Software, brindaré mis conocimi
   </tr>
 <br>
 
-Soy Farid Hinostroza, escogí la carrera de Ingeniería de Software por mi gran interés en la tecnología y su avance continuo, me motivan a aprender y ser autodidacta. 
-
+Soy Farid Hinostroza Mavila, escogí la carrera de Ingeniería de Software por mi gran interés en la tecnología y su avance continuo, me motivan a aprender y ser autodidacta.
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-        <center><img src="https://cdn.discordapp.com/attachments/775786045790355459/1150644075050045502/Screenshot_2023-08-27_at_12.png" alt="Imagen" width="200" height="250"></center>
+      <center><img src="https://cdn.discordapp.com/attachments/775786045790355459/1150644075050045502/Screenshot_2023-08-27_at_12.png" width="280" height="250"></center>
     </td>
-</tr>
+  </tr>
+<br>
 
 
 
@@ -258,20 +270,6 @@ Soy Farid Hinostroza, escogí la carrera de Ingeniería de Software por mi gran 
 
 ### 1.2.1  Antecedentes y problemática <a name="121-antecedentes-y-problemática"></a>
 
-
-● What (Qué) El desconocimiento de gran parte de la población sobre el hardware y el armado de una computadora, en especial el sector juvenil que se integra en el mundo del gaming, trabajo o estudio. Por ello se desea ayudar dando información sobre los componentes y así despejando las dudas que pudiesen tener sin el temor de ser estafados por precios inflados, componentes de segunda o de mala calidad, especializadas en constatar todos los precios e informarse sobre los productos.
-
-● When (Cuando) La principal causa de la problemática es cuando una persona quiere comprar o renovar los componentes para su pc o laptop y carece de conocimientos de marcas y demás cosas, además de no querer informarse sobre los precios, calidad y variedad de componentes, al ocurrir este problema el usuario recurrirá a nuestra página en busca de información.
-
-● Where (dónde) Esta problemática ocurre a más del 60% de la población, pero nos enfocaremos principalmente en la ciudad de Lima, con el fin de que en ese lugar conoceremos más sobre la problemática por la cantidad de habitantes, para luego expandirnos a todo el Perú.
-
-● Who (quién) Nuestro target principal son los jóvenes que están ingresando al mundo del gaming, trabajo o estudio, que viven en Lima, gran parte de ellos desconocen sobre los componentes y precio/
-
-● Why (por qué) La principal causa de esta problemática surge cuando las personas no quieren investigar o informarse sobre hardware y Software de computadoras o laptops por falta de tiempo o diversas circunstancias. Además, hay mucha confusión al momento de elegir entre modelos de laptops y desconocimiento sobre el armado de computadoras.
-
-● How (cómo) El problema de no saber que componente comprar, ya sea como funciona o qué es lo que hace, ocurre cuando la persona está pensando en comprar o renovar en la tienda o en su casa, a causa de la falta de información acerca de ello.
-
-● How much (cuánto) Este problema tiene un gran sector al cual podemos abarcar como queda demostrado en los siguientes cuadros estadísticos, más del 50% no tiene conocimiento y no investiga acerca del hardware de su pc.
 
 ### 1.2.2 Lean UX Process. <a name="122-lean-ux-process"></a>
 
@@ -293,44 +291,7 @@ Objetivos actuales del producto: Conectar a los usuarios con tiendas de componen
 
 
 #### 1.2.2.2. Lean UX Assumptions. <a name="1222-lean-ux-assumptions"></a>
-Business Outcomes
-1. Creemos que nuestros clientes necesitan un servicio en el cual que les simplifique la compra de componentes de pc o laptops a precios justos y económicos.
 
-3. Nuestros clientes iniciales son (o serán) personas mayores de los 15 años, de cualquier sexo, con un nivel socioeconómico A,B,C,D; con acceso a internet y que estén interesados en comprar componentes de pc o laptops.
-
-4. 	El valor fundamental que el usuario buscará en nuestra página es el asesoramiento para la compra de componentes de pc o laptops con seguridad de conseguir precios justos y económicos.
-
-5. 	El cliente también puede obtener beneficios adicionales como: distribuidores oficiales de ciertas marcas de componentes y garantía de los componentes que compra con nosotros.
-
-6.   Vamos a conseguir gran parte de nuestros clientes por medio de publicidad por las redes sociales. También, por la recomendación y comentarios de los usuarios asesorados.
-
-7. Haremos dinero a través de la suscripción a nuestro servicio y comisiones de marcas y comerciales que deseen que enviemos a nuestros usuarios.
-
-8. Mi competencia principal serán otras páginas y centros comerciales que cuentan con asesorías en la compra de componentes.
-
-9. 	Los venceremos, debido a que ofreceremos muchos más beneficios que la competencia.
-
-10.	Nuestro mayor riesgo de producto es que ocurran inconvenientes con la página cuando se conectan muchos usuarios al mismo tiempo.
-    
-11.	Resolveremos esto a través de actualizaciones seguido a nuestra página.
-
-
-
-
-
- Users Assumptions
-1. ¿Quién es el usuario?
-Los usuarios son aquellos que requieren comprar o renovar componentes de pc o laptops, sin ningún conocimiento sobre ello o con algún conocimiento previo.
-2. ¿Dónde encaja nuestro producto? ¿En su trabajo o vida?
-Nuestro producto encaja en su vida diaria y en algunos casos trabajo. Por la cual, nuestra página brindará asistencia a las personas que deseen comprar o renovar  componentes para su uso diario o para el trabajo.
-3. ¿Qué problemas tiene nuestro producto y cómo se pueden resolver?
-TechShop encaja perfectamente en la vida y el trabajo de aquellos que desean personalizar sus computadoras y laptops para satisfacer necesidades específicas, como edición de video, diseño gráfico, juegos y más. Además, ofrece a los vendedores de componentes la oportunidad de presentar sus productos de manera atractiva a una audiencia comprometida con la tecnología.
-4. ¿Cuándo y cómo es usado nuestro producto?
-Nuestra página es usada cuando el cliente no tiene claro sobre el funcionamiento de algunos componentes o que componentes usar para diversos factores como gaming, estudio o trabajo. La página se usa siguiendo los siguientes pasos: registrarse, ingresar que es lo que se desea hacer (comprar, renovar o mejorar componentes), se pregunta para qué será usado (trabajo, estudios o gaming), se pregunta el rango de dinero disponible para la compra y se muestra los resultados.
-6.  ¿Qué características son importantes?
-Nuestra página poseerá una interfaz de fácil uso, lo cual permitirá al usuario moverse por la página con seguridad.
-7. ¿Cómo debe verse y comportarse nuestro producto?
-La interfaz de usuario debe ser fácil y agradable uso, con colores neutros para captar su atención y tranquilidad. Además, la actualización constante de los precios, instalaciones y ubicaciones de las tiendas.
 
 
 #### 1.2.2.3. Lean UX Hypothesis Statements. <a name="1223-lean-ux-hypothesis-statements"></a>
@@ -751,6 +712,7 @@ Ambos valoran la posibilidad de encontrar ofertas y descuentos en tiendas asocia
 
 ### 2.3.4. Empathy Mapping. <a name="234-empathy-mapping"></a>
 Con motivo de comprender con mayor precisión nuestros segmentos objetivos, en este apartado utilizaremos la herramienta Impact Map que nos permite establecer una relación entre las necesidades del usuario con las metas de nuestro proyecto, a través de: impactos y entregables. Los impactos describen qué debe hacer nuestro usuario para acercarnos más a nuestra meta, mientras que los entregables nos dicen cómo podemos ayudarlos para lograr esta meta. A continuación, se encuentran los Impact Mapping de los usuarios.
+![Imgur](https://i.imgur.com/AOlYVMV.png) <br> 
 
 ### Segmento Usuario
 <tr>
@@ -816,9 +778,9 @@ Con motivo de comprender con mayor precisión nuestros segmentos objetivos, en e
 |**Thinking**|●        Encontrar tienda confiable y de buena atención.|●        Encontrar una tienda con buena atención y que cumpla sus requerimientos.|●        Verificar el rendimiento de la computadora al llegar a su domicilio.|
 |**Feeling**|●        Ansioso por saber si la tienda cumple con sus expectativas.|●        Ansioso por llegar a un acuerdo con la tienda eh ir.|●        Ansioso por ver su rendimiento de la pc comprada.|
 
-## 3.2. User Stories. 
-En esta sección redactamos las historias de usuario necesarias para el correcto funcionamiento de nuestra aplicación según las necesidades de nuestros segmentos objetivos, considerando con ello un mínimo de un criterio de aceptación para cada historia de usuario.
+## 3.2. User Stories. <a name="32-user-stories"></a>
 
+En esta sección redactamos las historias de usuario necesarias para el correcto funcionamiento de nuestra aplicación según las necesidades de nuestros segmentos objetivos, considerando con ello un mínimo de un criterio de aceptación para cada historia de usuario.
 
 |<p>**Epic/User Story**</p><p>**ID**</p>|**Título**|**Descripción**|**Criterios de Aceptación**|**Relacionado con (Epic ID)**|
 | :- | :- | :- | :- | :- |
@@ -859,7 +821,8 @@ Impact Mapping de los usuarios.
 ![Imgur](https://i.imgur.com/AOlYVMV.png) <br>
 
 
-## 3.4. Product Backlog. 
+## 3.4. Product Backlog. <a name="34-product-backlog"></a>
+
 
 |![](Aspose.Words.ebfc1af6-edf8-4618-9338-165c542cca53.001.png)|![](Aspose.Words.ebfc1af6-edf8-4618-9338-165c542cca53.002.png)|![](Aspose.Words.ebfc1af6-edf8-4618-9338-165c542cca53.003.png)|![](Aspose.Words.ebfc1af6-edf8-4618-9338-165c542cca53.004.png)|![](Aspose.Words.ebfc1af6-edf8-4618-9338-165c542cca53.005.png)|
 | :- | :- | :- | :- | :- |
@@ -894,6 +857,7 @@ Impact Mapping de los usuarios.
 |23|US-22|Conocer propósito de sitio web, About US.|Como usuario deseo conocer el propósito del sitio web para conocer los servicios ofrecidos a los usuarios|5|
 |24|US-23|Customer Start|Como cliente deseo comprar mi pc ideal|8|
 |25|US-24|Footer|Como usuario deseo conocer más información acerca de TechShop|3|
+
 
 # Capítulo IV: Product Design <a name="capítulo-iv-product-design"></a>
 ## 4.1. Style Guidelines. <a name="41-style-guidelines"></a>
@@ -1418,7 +1382,7 @@ A continuación, se mostrará el Container Diagram de nuestra aplicación en el 
 
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://media.discordapp.net/attachments/610911183339388978/1149957676541935776/2.2.JPG?width=961&height=676">
+      <img src="https://media.discordapp.net/attachments/610911183339388978/1157545210713227355/image.png?ex=6518ff7c&is=6517adfc&hm=ead9cb0278741ac17d6358293af3606221fc54f1240c5a5f8a70ec66f13c99d6&=&width=962&height=676">
     </td>
   </tr>
 <br>
@@ -1701,14 +1665,153 @@ Team Collaboration Insights hace referencia a una variedad de datos e informaci�
 
 ![Logo de GitHub](https://github.com/NanoNerdsGroup/NanoNerds-Report/blob/chapter-5/images/team-collaboration.png?raw=true) 
 
-## 5.3. Validation Interviews. <a name="17"></a>
-### 5.3.1. Diseño de Entrevistas. <a name="18"></a>
-### 5.3.2. Registro de Entrevistas. <a name="19"></a>
-### 5.3.3. Evaluaciones según heurísticas. <a name="20"></a>
 
-## 5.4. Video About-the-Product. <a name="21"></a>
-# Conclusiones<a name="22"></a>
-## Conclusiones Conclusiones y recomendaciones. <a name="23"></a>
+### 5.2.2. Sprint 2 <a name="17"></a>
+#### 5.2.2.1. Sprint Planning 2. <a name="18"></a>
+
+A continuación, se presentará el sprint planning 2 donde se mostraran las evidencias de planificación para la implementación de la aplicación web.
+
+|Sprint #|Sprint 2|
+| :- | - |
+|Sprint Planning Background||
+|Date|2023-09-22|
+|Time|18:19|
+|Location|Reunión virtual (Plataforma Discord)|
+|Prepared By|Antonella Gonzales|
+|Attendees (to planning meeting)|Miembros de NanoNerdsGroup|
+|Sprint 1 Review Summary|<p>-Se aplicaron mejoras en los capítulos que necesitaban mejora según la retroalimentación</p><p>-Se inició con el desarrollo de los componentes de la aplicación web</p>|
+|Sprint 1-2 Retrospective Summary|Se plantea desarrollar avances del front-end de la aplicación web, donde se incluirán las vistas para la autenticación del usuario y vistas core del usuario reclutador. Además, Además se planea implementar la configuración del idioma. Por otro lado, se espera desarrollar la sección de términos de servicio. Al finalizar este sprint, el landing page debe tener una versión actualizada y una demo de la aplicación web front-end deben estar desplegados |
+|Sprint Goal & User Stories||
+|Sprint 1 Goal|Como Startup el Goal de este Sprint es implementar la mayoría de los componentes planificados en nuestro mockup.|
+|Sprint 1 Velocity|50|
+|Sprint of Story Points|30|
+
+#### 5.2.2.2. Sprint Backlog 2. <a name="19"></a>
+
+El backlog para este segundo sprint es el que se muestra a continuación:
+
+
+
+
+<table><tr><th colspan="1" valign="top">Sprint #</th><th colspan="7" valign="top">Sprint 2</th></tr>
+<tr><td colspan="2" valign="top">User story</td><td colspan="6" valign="top">Work Item/Task</td></tr>
+<tr><td colspan="1" valign="top">Id</td><td colspan="1" valign="top">Title</td><td colspan="1" valign="top">Id</td><td colspan="1" valign="top">Title</td><td colspan="1" valign="top">Description</td><td colspan="1" valign="top"><p>Estimation</p><p>(Hours)</p></td><td colspan="1" valign="top">Assigned To</td><td colspan="1" valign="top">Status(To-do InProcess ToReview Done)</td></tr>
+<tr><td colspan="1" rowspan="3" valign="top">HU02</td><td colspan="1" rowspan="3" valign="top">Creación de cuenta</td><td colspan="1" valign="top">T01</td><td colspan="1" valign="top">Interfaz de la creación de cuenta  </td><td colspan="1" valign="top">Implementar interfaz de los formularios de cuenta tanto para el saller y costumer</td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Antonella</td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" valign="top">T02</td><td colspan="1" valign="top">Desarrollo de código front-end </td><td colspan="1" valign="top">Desarrollar la interfaz de usuario </td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Antonella</td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" valign="top">T03</td><td colspan="1" valign="top">Desarrollar mensaje de confirmación de la creación de cuenta </td><td colspan="1" valign="top">Implementar una notificación de éxito para la creación de cuenta</td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Antonella</td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" rowspan="2" valign="top">HU03</td><td colspan="1" rowspan="2" valign="top">Inicio de sección </td><td colspan="1" valign="top">T01</td><td colspan="1" valign="top">Interfaz de usuario del inicio de sesión de cuentas</td><td colspan="1" valign="top">Implementar interfaz de los formularios para inicio de sesión tanto para saller y costumer</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Antonella</td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" valign="top">T02</td><td colspan="1" valign="top">Desarrollo de código front-end </td><td colspan="1" valign="top">Desarrollar la página de inicio de sesión </td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Antonella</td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" rowspan="2" valign="top">HU04</td><td colspan="1" rowspan="2" valign="top">Recuperación de cuenta </td><td colspan="1" valign="top">T01</td><td colspan="1" valign="top">Formulario de recuperación de contraseña </td><td colspan="1" valign="top">Implementar interfaz estática para la petición de recuperación de contraseña  </td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Antonella</td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" valign="top">T02</td><td colspan="1" valign="top">Desarrollo de código front-end </td><td colspan="1" valign="top"><p></p><p>Implementar el flujo de recuperación de contraseña </p></td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Antonella</td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" rowspan="3" valign="top">HU05</td><td colspan="1" rowspan="3" valign="top">LogOut</td><td colspan="1" valign="top">T01</td><td colspan="1" valign="top">Diseño del botón de cerrar sesión </td><td colspan="1" valign="top">Diseñar la interfaz de usuario para el botón de cerrar sesión </td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Farid</td><td colspan="1" valign="top">Done </td></tr>
+<tr><td colspan="1" valign="top">T02</td><td colspan="1" valign="top">Funcionalidad de cierre de sesión </td><td colspan="1" valign="top">Implementar la funcionalidad de cierre de sesión </td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Farid</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">T03</td><td colspan="1" valign="top">Confirmación de cierre de sesión </td><td colspan="1" valign="top">Diseñar y crear una ventana emergente de confirmación </td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Farid</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" rowspan="3" valign="top">HU13</td><td colspan="1" rowspan="3" valign="top">Edición de perfil</td><td colspan="1" valign="top">T01</td><td colspan="1" valign="top">Interfaz del perfil de usuario </td><td colspan="1" valign="top">Implementar interfaz de usuario con datos de la cuenta.</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Orlando</td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" valign="top">T02</td><td colspan="1" valign="top">Implementación de componentes de entrada de datos</td><td colspan="1" valign="top">`  `Crear componentes de entrada de datos </td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Orlando</td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" valign="top">T03</td><td colspan="1" valign="top">Validación de datos </td><td colspan="1" valign="top">Implementar validación de datos en el front-end </td><td colspan="1" valign="top">4</td><td colspan="1" valign="top">Orlando</td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" rowspan="4" valign="top">HU06</td><td colspan="1" rowspan="4" valign="top">Recomendación de Componentes</td><td colspan="1" valign="top">T01</td><td colspan="1" valign="top">Diseño de una interfaz de usuario para recomendaciones</td><td colspan="1" valign="top">Desarrollar y diseñar una interfaz que permita a los usuarios ingresar sus preferencias y necesidades  </td><td colspan="1" valign="top">3</td><td colspan="1" valign="top"><p>Orlando</p><p></p></td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" valign="top">T02</td><td colspan="1" valign="top">Implementación de lógica de recomendaciones </td><td colspan="1" valign="top">Implementar la lógica de recomendaciones para visualizar en tiempo real  </td><td colspan="1" valign="top">3</td><td colspan="1" valign="top"><p>Orlando</p><p></p></td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" valign="top">T03</td><td colspan="1" valign="top">Integración de imágenes de productos </td><td colspan="1" valign="top">Desarrollar para mostrar imágenes de productos junto con las recomendaciones </td><td colspan="1" valign="top">2</td><td colspan="1" valign="top"><p>Orlando</p><p></p></td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" valign="top">T04</td><td colspan="1" valign="top">Personalizar la experiencia de usuario </td><td colspan="1" valign="top">Implementar la capacidad de personalizar la experiencia de usuario </td><td colspan="1" valign="top">3</td><td colspan="1" valign="top"><p>Orlando</p><p></p></td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" rowspan="4" valign="top">HU7</td><td colspan="1" rowspan="4" valign="top">Almacenamiento de busqueda de componentes </td><td colspan="1" valign="top">T01</td><td colspan="1" valign="top">Diseño de interfaz para cotizaciones  </td><td colspan="1" valign="top">Diseñar la interfaz de usuario para guardar cotizaciones de componentes </td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Orlando </td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" valign="top">T02</td><td colspan="1" valign="top">implementación de la función guardar cotización </td><td colspan="1" valign="top">Implementar la función que permita guardar la cotización de componentes </td><td colspan="1" valign="top">4</td><td colspan="1" valign="top">Gustavo</td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" valign="top">T03</td><td colspan="1" valign="top">Creación de la página ver todas mis cotizaciones </td><td colspan="1" valign="top">Diseñar y crear una página donde se pueda ver todas las cotizaciones guardadas </td><td colspan="1" valign="top">4</td><td colspan="1" valign="top">Gustavo</td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" valign="top">T04</td><td colspan="1" valign="top">implementación de la función eliminar cotización </td><td colspan="1" valign="top">Implementar la función para eliminar una cotización especifica </td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Gustavo</td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" rowspan="4" valign="top">HU08</td><td colspan="1" rowspan="4" valign="top">Lista de proveedores de componentes</td><td colspan="1" valign="top">T01</td><td colspan="1" valign="top">Diseño de la interfaz de la página de proveedores</td><td colspan="1" valign="top">Desarrollar la interfaz de usuario para la pagina de proveedores </td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Orlando </td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" valign="top">T02</td><td colspan="1" valign="top">Implantación de la lógica de Consulta de proveedores </td><td colspan="1" valign="top">` `Crear la lógica para obtener la lista de proveedores </td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Farid</td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" valign="top">T03</td><td colspan="1" valign="top">Lista de proveedores en la interfaz de usuario </td><td colspan="1" valign="top">Mostrar la lista de proveedores en la interfaz de usuario</td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Farid</td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" valign="top">T04</td><td colspan="1" valign="top">Detalles del proveedor </td><td colspan="1" valign="top">Desarrollar la funcionalidad para ver detalles del proveedor </td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Farid</td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" rowspan="2" valign="top">HU09</td><td colspan="1" rowspan="2" valign="top">Modelos de Productos</td><td colspan="1" valign="top">T01</td><td colspan="1" valign="top">implementación de la vista de modelos de productos </td><td colspan="1" valign="top">Desarrollar un componente que muestre el interfaz de usuario </td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Louis</td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" valign="top">T02</td><td colspan="1" valign="top">implementación de la vista de modelos de productos</td><td colspan="1" valign="top">Diseñar y construir los campos de entrada, botones y elementos de interfaz</td><td colspan="1" valign="top">4</td><td colspan="1" valign="top">Gustavo</td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" rowspan="2" valign="top">HU10</td><td colspan="1" rowspan="2" valign="top">Gestionar compras del usuario</td><td colspan="1" valign="top">T01</td><td colspan="1" valign="top">Interfaz de usuario para visualizar precios de componentes</td><td colspan="1" valign="top">Crear una interfaz que permita ver el precio total de un componente </td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Louis</td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" valign="top">T02</td><td colspan="1" valign="top">Diseño de una pantalla de resumen de precios </td><td colspan="1" valign="top">Diseñar una pantalla de resumen de precios </td><td colspan="1" valign="top">3</td><td colspan="1" valign="top"></td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" rowspan="2" valign="top">HU11</td><td colspan="1" rowspan="2" valign="top">Ofertas en compras de componentes</td><td colspan="1" valign="top">T01</td><td colspan="1" valign="top">Diseño de página de ofertas  </td><td colspan="1" valign="top">Diseñar una pagina para mostrar las ofertas  </td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Louis</td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" valign="top">T02</td><td colspan="1" valign="top">Visualización de detalles de ofertas </td><td colspan="1" valign="top">Implementar una interfaz que permita ver los detalles de las ofertas </td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Louis</td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" rowspan="4" valign="top">HU12</td><td colspan="1" rowspan="4" valign="top">Compra de Suscripciones</td><td colspan="1" valign="top">T01</td><td colspan="1" valign="top">Interfaz de compra de suscripciones</td><td colspan="1" valign="top">Implementar las opciones de suscripción </td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Louis</td><td colspan="1" valign="top">Do-do</td></tr>
+<tr><td colspan="1" valign="top">T02</td><td colspan="1" valign="top">Integración de pasarela de pago </td><td colspan="1" valign="top">Integrar una pasarela de pago </td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Louis</td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" valign="top">T03</td><td colspan="1" valign="top">Validación de datos de usuario </td><td colspan="1" valign="top">Implementar la validación de datos de usuario </td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Louis</td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" valign="top">T04</td><td colspan="1" valign="top">Generaciones de recibos y confirmaciones </td><td colspan="1" valign="top">Desarrollar la lógica para generar recibos y confirmaciones de compra</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Louis</td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" rowspan="3" valign="top">HU13</td><td colspan="1" rowspan="3" valign="top">Edición de perfil</td><td colspan="1" valign="top">T01</td><td colspan="1" valign="top">Interfaz del perfil de usuario </td><td colspan="1" valign="top">Implementar interfaz de usuario con datos de la cuenta.</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Orlando</td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" valign="top">T02</td><td colspan="1" valign="top">Implementación de componentes de entrada de datos</td><td colspan="1" valign="top">`  `Crear componentes de entrada de datos </td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Orlando</td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" valign="top">T03</td><td colspan="1" valign="top">Validación de datos </td><td colspan="1" valign="top">Implementar validación de datos en el front-end </td><td colspan="1" valign="top">4</td><td colspan="1" valign="top">Orlando</td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" rowspan="3" valign="top">HU14</td><td colspan="1" rowspan="3" valign="top">Actualización de Métodos de pago </td><td colspan="1" valign="top">T01</td><td colspan="1" valign="top">Diseño de la página de actualización de pagos </td><td colspan="1" valign="top">Diseñar interfaz de usuario de actualización de pagos </td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Louis</td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" valign="top">T02</td><td colspan="1" valign="top">Formularios interactivos </td><td colspan="1" valign="top">Implementar formularios interactivos </td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Louis</td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" valign="top">T03</td><td colspan="1" valign="top">Validación de datos del usuario </td><td colspan="1" valign="top">Implementar la validación del lado del cliente </td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Louis</td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" rowspan="3" valign="top">HU15</td><td colspan="1" rowspan="3" valign="top">Dejar opinión acerca del componente</td><td colspan="1" valign="top">T01</td><td colspan="1" valign="top">Diseñar el componente de los comentarios </td><td colspan="1" valign="top">Crear un componente de comentarios </td><td colspan="1" valign="top">4</td><td colspan="1" valign="top">Louis</td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" valign="top">T02</td><td colspan="1" valign="top">Mostrar comentarios en el interfaz de usuario </td><td colspan="1" valign="top">Diseñar una sección en la interfaz de usuario que muestre los comentarios </td><td colspan="1" valign="top">4</td><td colspan="1" valign="top">Louis</td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" valign="top">T03</td><td colspan="1" valign="top">Gestión de comentarios </td><td colspan="1" valign="top">Implementar la funcionalidad que permita editar y eliminar comentarios </td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Gustavo</td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" rowspan="2" valign="top">HU19</td><td colspan="1" rowspan="2" valign="top">Cambio de idioma</td><td colspan="1" valign="top">T01</td><td colspan="1" valign="top">Diseño de la interfaz de usuario multilingüe </td><td colspan="1" valign="top">Crear interfaz de usuario para mostrar contenido en múltiples idiomas </td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Gustavo</td><td colspan="1" valign="top">Done </td></tr>
+<tr><td colspan="1" valign="top">T02</td><td colspan="1" valign="top">Opción de cambio de idioma</td><td colspan="1" valign="top">Implementar la opción de cambio de idioma</td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Gustavo</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" rowspan="2" valign="top">HU21</td><td colspan="1" rowspan="2" valign="top">Hero, inicio de proceso de búsqueda</td><td colspan="1" valign="top">T01</td><td colspan="1" valign="top">Diseño de la sección “Hero” para iniciar búsqueda </td><td colspan="1" valign="top">Desarrollar una interfaz que incluya sección “Hero” en la página principal </td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Gustavo</td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" valign="top">T02</td><td colspan="1" valign="top">Integración de componentes de búsqueda </td><td colspan="1" valign="top">Desarrollar un componente de búsqueda en la sección “Hero”</td><td colspan="1" valign="top">4</td><td colspan="1" valign="top">Gustavo</td><td colspan="1" valign="top">Done</td></tr>
+</table>
+
+#### 5.2.2.3. Development Evidence for Sprint Review. <a name="20"></a>
+
+
+
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review. <a name="21"></a>
+
+
+
+#### 5.2.2.5. Execution Evidence for Sprint Review. <a name="22"></a>
+
+A continuación, se presentarán capturas de las vistas más relevantes que se llevaron a cabo en este segundo sprint. De igual forma, se puede acceder a la aplicación web desde el siguiente link: 
+
+Web Application deployment: https://nanonerds-techshop.web.app/suscriptions
+
+Home: 
+
+![](https://cdn.discordapp.com/attachments/782453162409328641/1157609164491739217/wahome.png?ex=65193b0c&is=6517e98c&hm=03dd4993376f05a01162ddcf3c1f5c983a4558470100591aa5e69e18b6a6d3f5&)
+
+Suscripciones:
+
+![](https://cdn.discordapp.com/attachments/782453162409328641/1157609164240068649/wasuscriptions.png?ex=65193b0c&is=6517e98c&hm=912b04fe08b0441c71ef21016eb41776dabcf5a85ba8108b862a921c6c83a705&)
+
+Buscar Componentes:
+
+![](https://cdn.discordapp.com/attachments/782453162409328641/1157609164013580378/wasearch.png?ex=65193b0c&is=6517e98c&hm=f49d38814e39c47a5abf6dbe104c8918be70e46904492ab294cdb40385bb8ba1&)
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review. <a name="23"></a>
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review. <a name="24"></a>
+
+En este sprint, para poder hacer el deploy de TechShops, se utilizó Firebase. El proceso incluyó la instalación de Firebase, la autenticación y la inicialización en el directorio de nuestro proyecto
+
+![](https://cdn.discordapp.com/attachments/782453162409328641/1157609997652471808/deploy1.png?ex=65193bd2&is=6517ea52&hm=ffa85495f3c0863b91c1c7790e0177fc668e0530d5cd5bba520d9b282e8d09c0&)
+
+Configuramos el host:
+
+![](https://cdn.discordapp.com/attachments/782453162409328641/1157609997321109504/deploy2.png?ex=65193bd2&is=6517ea52&hm=f9452a09b8460746f3654d2846a2333112b6427d8c5508b210665f6e92fc2bd6&)
+
+En la consola de WebStorm, ejecutamos el comando "npm run build" para generar los archivos necesarios que Firebase utilizará para realizar la implementación. 
+
+![](https://cdn.discordapp.com/attachments/782453162409328641/1157609996838785024/deploy3.png?ex=65193bd2&is=6517ea52&hm=fab3f505c484a759fe37b486020583726cc5b0bde1b4dfca68c229be9d0c0c5e&)
+
+![](https://cdn.discordapp.com/attachments/782453162409328641/1157609996448706600/deploy4.png?ex=65193bd2&is=6517ea52&hm=c551cae6f40cda4220650f637d8ad477bd161c06302bc2dbdcab1a5f17de9654&)
+
+![](https://cdn.discordapp.com/attachments/782453162409328641/1157609996142510080/deploy5.png?ex=65193bd2&is=6517ea52&hm=e405fdaec656c1bc5d6843604f54a2887f3e9fa0a302724011e2dd91d4347687&)
+
+Una vez completado el proceso de implementación, abrimos el dominio correspondiente: 
+
+![](https://cdn.discordapp.com/attachments/782453162409328641/1157609998453571615/deploy6.png?ex=65193bd2&is=6517ea52&hm=1f82ee036f9745c3a2b7fe616bbbb9aacb4916ea721195ba6cec75c08a47e90f&)
+
+Adicionalmente, el proyecto se ha cargado en un repositorio de GitHub para facilitar las actualizaciones subsiguientes.
+
+![](https://cdn.discordapp.com/attachments/782453162409328641/1157609997996412958/deploy7.png?ex=65193bd2&is=6517ea52&hm=6e3e128f9c8647ca359b72ec111f8b3f31137a659046a610f357d23e5dc1f01c&)
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint. <a name="25"></a>
+
+
+
+## 5.3. Validation Interviews. <a name="26"></a>
+### 5.3.1. Diseño de Entrevistas. <a name="27"></a>
+### 5.3.2. Registro de Entrevistas. <a name="28"></a>
+### 5.3.3. Evaluaciones según heurísticas. <a name="29"></a>
+
+## 5.4. Video About-the-Product. <a name="30"></a>
+# Conclusiones<a name="31"></a>
+## Conclusiones Conclusiones y recomendaciones. <a name="32"></a>
 
  - La aplicación TechShop tiene el potencial de abordar un problema real y común en entornos urbanos, que es la escasez de espacios de estacionamiento y la búsqueda ineficiente de lugares para estacionar. La propuesta de la aplicación para permitir a los usuarios buscar, reservar y pagar por espacios de estacionamiento de manera eficiente, así como permitir a los propietarios de espacios registrarse y alquilar a través de la plataforma, puede tener un impacto significativo en la experiencia de los conductores y en la congestión del tráfico en las áreas urbanas.
 
@@ -1716,12 +1819,12 @@ Team Collaboration Insights hace referencia a una variedad de datos e informaci�
   
  - Creemos que se han cumplido adecuadamente todos los criterios solicitados para esta primera entrega. Cabe mencionar que el trabajo colaborativo y bien planificado ha sido muy importante para completar las secciones de este informe, como recomendación, sería excelente tener fechas y horarios preestablecidos para cada reunión.
 
-## Video About-the-Team.  <a name="24"></a>
+## Video About-the-Team.  <a name="33"></a>
 
 
 
-# Bibliografía  <a name="25"></a>
-# Anexos <a name="26"></a>
+# Bibliografía  <a name="34"></a>
+# Anexos <a name="35"></a>
 
 [User Persona]()
 
@@ -1754,5 +1857,3 @@ Team Collaboration Insights hace referencia a una variedad de datos e informaci�
 [Organización en GitHub](https://github.com/NanoNerdsGroup)
 
 [Link del Landing Page desplegado](https://nanonerdsgroup.github.io/NanoNerds-LandingPage/)
-
-[Link del Frontend](https://nanonerds-techshop.web.app/suscriptions)
