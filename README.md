@@ -171,27 +171,36 @@ Durante una reunión de google meet hemos elegido una idea para nuestra startup.
     - [5.1.3. Source Code Style Guide & Conventions](#5)
     - [5.1.4. Software Deployment Configuration](#6)
   - [5.2. Landing Page, Services & Applications Implementation](#7)
-    - [5.2.X. Sprint n](#8)
-      - [5.2.X.1. Sprint Planning n](#9)
-      - [5.2.X.2. Sprint Backlog n](#10)
-      - [5.2.X.3. Development Evidence for Sprint Review](#11)
-      - [5.2.X.4. Testing Suite Evidence for Sprint Review](#12)
-      - [5.2.X.5. Execution Evidence for Sprint Review](#13)
-      - [5.2.X.6. Services Documentation Evidence for Sprint Review](#14)
-      - [5.2.X.7. Software Deployment Evidence for Sprint Review](#15)
-      - [5.2.X.8. Team Collaboration Insights during Sprint](#16)
-  - [5.3. Validation Interviews](#17)
-    - [5.3.1. Diseño de Entrevistas](#18)
-    - [5.3.2. Registro de Entrevistas](#19)
-    - [5.3.3. Evaluaciones según heurísticas](#20)
-  - [5.4. Video About-the-Product](#21)
+    - [5.2.1. Sprint n](#8)
+      - [5.2.1.1. Sprint Planning n](#9)
+      - [5.2.1.2. Sprint Backlog n](#10)
+      - [5.2.1.3. Development Evidence for Sprint Review](#11)
+      - [5.2.1.4. Testing Suite Evidence for Sprint Review](#12)
+      - [5.2.1.5. Execution Evidence for Sprint Review](#13)
+      - [5.2.1.6. Services Documentation Evidence for Sprint Review](#14)
+      - [5.2.1.7. Software Deployment Evidence for Sprint Review](#15)
+      - [5.2.1.8. Team Collaboration Insights during Sprint](#16)
+    - [5.2.2. Sprint n](#17)
+      - [5.2.2.1. Sprint Planning n](#18)
+      - [5.2.2.2. Sprint Backlog n](#19)
+      - [5.2.2.3. Development Evidence for Sprint Review](#20)
+      - [5.2.2.4. Testing Suite Evidence for Sprint Review](#21)
+      - [5.2.2.5. Execution Evidence for Sprint Review](#22)
+      - [5.2.2.6. Services Documentation Evidence for Sprint Review](#23)
+      - [5.2.2.7. Software Deployment Evidence for Sprint Review](#24)
+      - [5.2.2.8. Team Collaboration Insights during Sprint](#25)
+  - [5.3. Validation Interviews](#26)
+    - [5.3.1. Diseño de Entrevistas](#27)
+    - [5.3.2. Registro de Entrevistas](#28)
+    - [5.3.3. Evaluaciones según heurísticas](#29)
+  - [5.4. Video About-the-Product](#30)
 
-- [Conclusiones](#22)
-  - [Conclusiones y recomendaciones](#23)
-  - [Video About-the-Team](#24)
+- [Conclusiones](#31)
+  - [Conclusiones y recomendaciones](#32)
+  - [Video About-the-Team](#33)
 
-- [Bibliografía](#25)
-- [Anexos](#26)
+- [Bibliografía](#34)
+- [Anexos](#35)
 
 # Student Outcome
 
@@ -1380,7 +1389,7 @@ A continuación, se mostrará el Container Diagram de nuestra aplicación en el 
 
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://media.discordapp.net/attachments/610911183339388978/1149957676541935776/2.2.JPG?width=961&height=676">
+      <img src="https://media.discordapp.net/attachments/610911183339388978/1157545210713227355/image.png?ex=6518ff7c&is=6517adfc&hm=ead9cb0278741ac17d6358293af3606221fc54f1240c5a5f8a70ec66f13c99d6&=&width=962&height=676">
     </td>
   </tr>
 <br>
@@ -1663,14 +1672,153 @@ Team Collaboration Insights hace referencia a una variedad de datos e informaci�
 
 ![Logo de GitHub](https://github.com/NanoNerdsGroup/NanoNerds-Report/blob/chapter-5/images/team-collaboration.png?raw=true) 
 
-## 5.3. Validation Interviews. <a name="17"></a>
-### 5.3.1. Diseño de Entrevistas. <a name="18"></a>
-### 5.3.2. Registro de Entrevistas. <a name="19"></a>
-### 5.3.3. Evaluaciones según heurísticas. <a name="20"></a>
 
-## 5.4. Video About-the-Product. <a name="21"></a>
-# Conclusiones<a name="22"></a>
-## Conclusiones Conclusiones y recomendaciones. <a name="23"></a>
+### 5.2.2. Sprint 2 <a name="17"></a>
+#### 5.2.2.1. Sprint Planning 2. <a name="18"></a>
+
+A continuación, se presentará el sprint planning 2 donde se mostraran las evidencias de planificación para la implementación de la aplicación web.
+
+|Sprint #|Sprint 2|
+| :- | - |
+|Sprint Planning Background||
+|Date|2023-09-22|
+|Time|18:19|
+|Location|Reunión virtual (Plataforma Discord)|
+|Prepared By|Antonella Gonzales|
+|Attendees (to planning meeting)|Miembros de NanoNerdsGroup|
+|Sprint 1 Review Summary|<p>-Se aplicaron mejoras en los capítulos que necesitaban mejora según la retroalimentación</p><p>-Se inició con el desarrollo de los componentes de la aplicación web</p>|
+|Sprint 1-2 Retrospective Summary|Se plantea desarrollar avances del front-end de la aplicación web, donde se incluirán las vistas para la autenticación del usuario y vistas core del usuario reclutador. Además, Además se planea implementar la configuración del idioma. Por otro lado, se espera desarrollar la sección de términos de servicio. Al finalizar este sprint, el landing page debe tener una versión actualizada y una demo de la aplicación web front-end deben estar desplegados |
+|Sprint Goal & User Stories||
+|Sprint 1 Goal|Como Startup el Goal de este Sprint es implementar la mayoría de los componentes planificados en nuestro mockup.|
+|Sprint 1 Velocity|50|
+|Sprint of Story Points|30|
+
+#### 5.2.2.2. Sprint Backlog 2. <a name="19"></a>
+
+El backlog para este segundo sprint es el que se muestra a continuación:
+
+
+
+
+<table><tr><th colspan="1" valign="top">Sprint #</th><th colspan="7" valign="top">Sprint 2</th></tr>
+<tr><td colspan="2" valign="top">User story</td><td colspan="6" valign="top">Work Item/Task</td></tr>
+<tr><td colspan="1" valign="top">Id</td><td colspan="1" valign="top">Title</td><td colspan="1" valign="top">Id</td><td colspan="1" valign="top">Title</td><td colspan="1" valign="top">Description</td><td colspan="1" valign="top"><p>Estimation</p><p>(Hours)</p></td><td colspan="1" valign="top">Assigned To</td><td colspan="1" valign="top">Status(To-do InProcess ToReview Done)</td></tr>
+<tr><td colspan="1" rowspan="3" valign="top">HU02</td><td colspan="1" rowspan="3" valign="top">Creación de cuenta</td><td colspan="1" valign="top">T01</td><td colspan="1" valign="top">Interfaz de la creación de cuenta  </td><td colspan="1" valign="top">Implementar interfaz de los formularios de cuenta tanto para el saller y costumer</td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Antonella</td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" valign="top">T02</td><td colspan="1" valign="top">Desarrollo de código front-end </td><td colspan="1" valign="top">Desarrollar la interfaz de usuario </td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Antonella</td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" valign="top">T03</td><td colspan="1" valign="top">Desarrollar mensaje de confirmación de la creación de cuenta </td><td colspan="1" valign="top">Implementar una notificación de éxito para la creación de cuenta</td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Antonella</td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" rowspan="2" valign="top">HU03</td><td colspan="1" rowspan="2" valign="top">Inicio de sección </td><td colspan="1" valign="top">T01</td><td colspan="1" valign="top">Interfaz de usuario del inicio de sesión de cuentas</td><td colspan="1" valign="top">Implementar interfaz de los formularios para inicio de sesión tanto para saller y costumer</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Antonella</td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" valign="top">T02</td><td colspan="1" valign="top">Desarrollo de código front-end </td><td colspan="1" valign="top">Desarrollar la página de inicio de sesión </td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Antonella</td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" rowspan="2" valign="top">HU04</td><td colspan="1" rowspan="2" valign="top">Recuperación de cuenta </td><td colspan="1" valign="top">T01</td><td colspan="1" valign="top">Formulario de recuperación de contraseña </td><td colspan="1" valign="top">Implementar interfaz estática para la petición de recuperación de contraseña  </td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Antonella</td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" valign="top">T02</td><td colspan="1" valign="top">Desarrollo de código front-end </td><td colspan="1" valign="top"><p></p><p>Implementar el flujo de recuperación de contraseña </p></td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Antonella</td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" rowspan="3" valign="top">HU05</td><td colspan="1" rowspan="3" valign="top">LogOut</td><td colspan="1" valign="top">T01</td><td colspan="1" valign="top">Diseño del botón de cerrar sesión </td><td colspan="1" valign="top">Diseñar la interfaz de usuario para el botón de cerrar sesión </td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Farid</td><td colspan="1" valign="top">Done </td></tr>
+<tr><td colspan="1" valign="top">T02</td><td colspan="1" valign="top">Funcionalidad de cierre de sesión </td><td colspan="1" valign="top">Implementar la funcionalidad de cierre de sesión </td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Farid</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">T03</td><td colspan="1" valign="top">Confirmación de cierre de sesión </td><td colspan="1" valign="top">Diseñar y crear una ventana emergente de confirmación </td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Farid</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" rowspan="3" valign="top">HU13</td><td colspan="1" rowspan="3" valign="top">Edición de perfil</td><td colspan="1" valign="top">T01</td><td colspan="1" valign="top">Interfaz del perfil de usuario </td><td colspan="1" valign="top">Implementar interfaz de usuario con datos de la cuenta.</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Orlando</td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" valign="top">T02</td><td colspan="1" valign="top">Implementación de componentes de entrada de datos</td><td colspan="1" valign="top">`  `Crear componentes de entrada de datos </td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Orlando</td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" valign="top">T03</td><td colspan="1" valign="top">Validación de datos </td><td colspan="1" valign="top">Implementar validación de datos en el front-end </td><td colspan="1" valign="top">4</td><td colspan="1" valign="top">Orlando</td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" rowspan="4" valign="top">HU06</td><td colspan="1" rowspan="4" valign="top">Recomendación de Componentes</td><td colspan="1" valign="top">T01</td><td colspan="1" valign="top">Diseño de una interfaz de usuario para recomendaciones</td><td colspan="1" valign="top">Desarrollar y diseñar una interfaz que permita a los usuarios ingresar sus preferencias y necesidades  </td><td colspan="1" valign="top">3</td><td colspan="1" valign="top"><p>Orlando</p><p></p></td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" valign="top">T02</td><td colspan="1" valign="top">Implementación de lógica de recomendaciones </td><td colspan="1" valign="top">Implementar la lógica de recomendaciones para visualizar en tiempo real  </td><td colspan="1" valign="top">3</td><td colspan="1" valign="top"><p>Orlando</p><p></p></td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" valign="top">T03</td><td colspan="1" valign="top">Integración de imágenes de productos </td><td colspan="1" valign="top">Desarrollar para mostrar imágenes de productos junto con las recomendaciones </td><td colspan="1" valign="top">2</td><td colspan="1" valign="top"><p>Orlando</p><p></p></td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" valign="top">T04</td><td colspan="1" valign="top">Personalizar la experiencia de usuario </td><td colspan="1" valign="top">Implementar la capacidad de personalizar la experiencia de usuario </td><td colspan="1" valign="top">3</td><td colspan="1" valign="top"><p>Orlando</p><p></p></td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" rowspan="4" valign="top">HU7</td><td colspan="1" rowspan="4" valign="top">Almacenamiento de busqueda de componentes </td><td colspan="1" valign="top">T01</td><td colspan="1" valign="top">Diseño de interfaz para cotizaciones  </td><td colspan="1" valign="top">Diseñar la interfaz de usuario para guardar cotizaciones de componentes </td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Orlando </td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" valign="top">T02</td><td colspan="1" valign="top">implementación de la función guardar cotización </td><td colspan="1" valign="top">Implementar la función que permita guardar la cotización de componentes </td><td colspan="1" valign="top">4</td><td colspan="1" valign="top">Gustavo</td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" valign="top">T03</td><td colspan="1" valign="top">Creación de la página ver todas mis cotizaciones </td><td colspan="1" valign="top">Diseñar y crear una página donde se pueda ver todas las cotizaciones guardadas </td><td colspan="1" valign="top">4</td><td colspan="1" valign="top">Gustavo</td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" valign="top">T04</td><td colspan="1" valign="top">implementación de la función eliminar cotización </td><td colspan="1" valign="top">Implementar la función para eliminar una cotización especifica </td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Gustavo</td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" rowspan="4" valign="top">HU08</td><td colspan="1" rowspan="4" valign="top">Lista de proveedores de componentes</td><td colspan="1" valign="top">T01</td><td colspan="1" valign="top">Diseño de la interfaz de la página de proveedores</td><td colspan="1" valign="top">Desarrollar la interfaz de usuario para la pagina de proveedores </td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Orlando </td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" valign="top">T02</td><td colspan="1" valign="top">Implantación de la lógica de Consulta de proveedores </td><td colspan="1" valign="top">` `Crear la lógica para obtener la lista de proveedores </td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Farid</td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" valign="top">T03</td><td colspan="1" valign="top">Lista de proveedores en la interfaz de usuario </td><td colspan="1" valign="top">Mostrar la lista de proveedores en la interfaz de usuario</td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Farid</td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" valign="top">T04</td><td colspan="1" valign="top">Detalles del proveedor </td><td colspan="1" valign="top">Desarrollar la funcionalidad para ver detalles del proveedor </td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Farid</td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" rowspan="2" valign="top">HU09</td><td colspan="1" rowspan="2" valign="top">Modelos de Productos</td><td colspan="1" valign="top">T01</td><td colspan="1" valign="top">implementación de la vista de modelos de productos </td><td colspan="1" valign="top">Desarrollar un componente que muestre el interfaz de usuario </td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Louis</td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" valign="top">T02</td><td colspan="1" valign="top">implementación de la vista de modelos de productos</td><td colspan="1" valign="top">Diseñar y construir los campos de entrada, botones y elementos de interfaz</td><td colspan="1" valign="top">4</td><td colspan="1" valign="top">Gustavo</td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" rowspan="2" valign="top">HU10</td><td colspan="1" rowspan="2" valign="top">Gestionar compras del usuario</td><td colspan="1" valign="top">T01</td><td colspan="1" valign="top">Interfaz de usuario para visualizar precios de componentes</td><td colspan="1" valign="top">Crear una interfaz que permita ver el precio total de un componente </td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Louis</td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" valign="top">T02</td><td colspan="1" valign="top">Diseño de una pantalla de resumen de precios </td><td colspan="1" valign="top">Diseñar una pantalla de resumen de precios </td><td colspan="1" valign="top">3</td><td colspan="1" valign="top"></td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" rowspan="2" valign="top">HU11</td><td colspan="1" rowspan="2" valign="top">Ofertas en compras de componentes</td><td colspan="1" valign="top">T01</td><td colspan="1" valign="top">Diseño de página de ofertas  </td><td colspan="1" valign="top">Diseñar una pagina para mostrar las ofertas  </td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Louis</td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" valign="top">T02</td><td colspan="1" valign="top">Visualización de detalles de ofertas </td><td colspan="1" valign="top">Implementar una interfaz que permita ver los detalles de las ofertas </td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Louis</td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" rowspan="4" valign="top">HU12</td><td colspan="1" rowspan="4" valign="top">Compra de Suscripciones</td><td colspan="1" valign="top">T01</td><td colspan="1" valign="top">Interfaz de compra de suscripciones</td><td colspan="1" valign="top">Implementar las opciones de suscripción </td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Louis</td><td colspan="1" valign="top">Do-do</td></tr>
+<tr><td colspan="1" valign="top">T02</td><td colspan="1" valign="top">Integración de pasarela de pago </td><td colspan="1" valign="top">Integrar una pasarela de pago </td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Louis</td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" valign="top">T03</td><td colspan="1" valign="top">Validación de datos de usuario </td><td colspan="1" valign="top">Implementar la validación de datos de usuario </td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Louis</td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" valign="top">T04</td><td colspan="1" valign="top">Generaciones de recibos y confirmaciones </td><td colspan="1" valign="top">Desarrollar la lógica para generar recibos y confirmaciones de compra</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Louis</td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" rowspan="3" valign="top">HU13</td><td colspan="1" rowspan="3" valign="top">Edición de perfil</td><td colspan="1" valign="top">T01</td><td colspan="1" valign="top">Interfaz del perfil de usuario </td><td colspan="1" valign="top">Implementar interfaz de usuario con datos de la cuenta.</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Orlando</td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" valign="top">T02</td><td colspan="1" valign="top">Implementación de componentes de entrada de datos</td><td colspan="1" valign="top">`  `Crear componentes de entrada de datos </td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Orlando</td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" valign="top">T03</td><td colspan="1" valign="top">Validación de datos </td><td colspan="1" valign="top">Implementar validación de datos en el front-end </td><td colspan="1" valign="top">4</td><td colspan="1" valign="top">Orlando</td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" rowspan="3" valign="top">HU14</td><td colspan="1" rowspan="3" valign="top">Actualización de Métodos de pago </td><td colspan="1" valign="top">T01</td><td colspan="1" valign="top">Diseño de la página de actualización de pagos </td><td colspan="1" valign="top">Diseñar interfaz de usuario de actualización de pagos </td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Louis</td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" valign="top">T02</td><td colspan="1" valign="top">Formularios interactivos </td><td colspan="1" valign="top">Implementar formularios interactivos </td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Louis</td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" valign="top">T03</td><td colspan="1" valign="top">Validación de datos del usuario </td><td colspan="1" valign="top">Implementar la validación del lado del cliente </td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Louis</td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" rowspan="3" valign="top">HU15</td><td colspan="1" rowspan="3" valign="top">Dejar opinión acerca del componente</td><td colspan="1" valign="top">T01</td><td colspan="1" valign="top">Diseñar el componente de los comentarios </td><td colspan="1" valign="top">Crear un componente de comentarios </td><td colspan="1" valign="top">4</td><td colspan="1" valign="top">Louis</td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" valign="top">T02</td><td colspan="1" valign="top">Mostrar comentarios en el interfaz de usuario </td><td colspan="1" valign="top">Diseñar una sección en la interfaz de usuario que muestre los comentarios </td><td colspan="1" valign="top">4</td><td colspan="1" valign="top">Louis</td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" valign="top">T03</td><td colspan="1" valign="top">Gestión de comentarios </td><td colspan="1" valign="top">Implementar la funcionalidad que permita editar y eliminar comentarios </td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Gustavo</td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" rowspan="2" valign="top">HU19</td><td colspan="1" rowspan="2" valign="top">Cambio de idioma</td><td colspan="1" valign="top">T01</td><td colspan="1" valign="top">Diseño de la interfaz de usuario multilingüe </td><td colspan="1" valign="top">Crear interfaz de usuario para mostrar contenido en múltiples idiomas </td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Gustavo</td><td colspan="1" valign="top">Done </td></tr>
+<tr><td colspan="1" valign="top">T02</td><td colspan="1" valign="top">Opción de cambio de idioma</td><td colspan="1" valign="top">Implementar la opción de cambio de idioma</td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Gustavo</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" rowspan="2" valign="top">HU21</td><td colspan="1" rowspan="2" valign="top">Hero, inicio de proceso de búsqueda</td><td colspan="1" valign="top">T01</td><td colspan="1" valign="top">Diseño de la sección “Hero” para iniciar búsqueda </td><td colspan="1" valign="top">Desarrollar una interfaz que incluya sección “Hero” en la página principal </td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Gustavo</td><td colspan="1" valign="top">To-do</td></tr>
+<tr><td colspan="1" valign="top">T02</td><td colspan="1" valign="top">Integración de componentes de búsqueda </td><td colspan="1" valign="top">Desarrollar un componente de búsqueda en la sección “Hero”</td><td colspan="1" valign="top">4</td><td colspan="1" valign="top">Gustavo</td><td colspan="1" valign="top">Done</td></tr>
+</table>
+
+#### 5.2.2.3. Development Evidence for Sprint Review. <a name="20"></a>
+
+
+
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review. <a name="21"></a>
+
+
+
+#### 5.2.2.5. Execution Evidence for Sprint Review. <a name="22"></a>
+
+A continuación, se presentarán capturas de las vistas más relevantes que se llevaron a cabo en este segundo sprint. De igual forma, se puede acceder a la aplicación web desde el siguiente link: 
+
+Web Application deployment: https://nanonerds-techshop.web.app/suscriptions
+
+Home: 
+
+![](https://cdn.discordapp.com/attachments/782453162409328641/1157609164491739217/wahome.png?ex=65193b0c&is=6517e98c&hm=03dd4993376f05a01162ddcf3c1f5c983a4558470100591aa5e69e18b6a6d3f5&)
+
+Suscripciones:
+
+![](https://cdn.discordapp.com/attachments/782453162409328641/1157609164240068649/wasuscriptions.png?ex=65193b0c&is=6517e98c&hm=912b04fe08b0441c71ef21016eb41776dabcf5a85ba8108b862a921c6c83a705&)
+
+Buscar Componentes:
+
+![](https://cdn.discordapp.com/attachments/782453162409328641/1157609164013580378/wasearch.png?ex=65193b0c&is=6517e98c&hm=f49d38814e39c47a5abf6dbe104c8918be70e46904492ab294cdb40385bb8ba1&)
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review. <a name="23"></a>
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review. <a name="24"></a>
+
+En este sprint, para poder hacer el deploy de TechShops, se utilizó Firebase. El proceso incluyó la instalación de Firebase, la autenticación y la inicialización en el directorio de nuestro proyecto
+
+![](https://cdn.discordapp.com/attachments/782453162409328641/1157609997652471808/deploy1.png?ex=65193bd2&is=6517ea52&hm=ffa85495f3c0863b91c1c7790e0177fc668e0530d5cd5bba520d9b282e8d09c0&)
+
+Configuramos el host:
+
+![](https://cdn.discordapp.com/attachments/782453162409328641/1157609997321109504/deploy2.png?ex=65193bd2&is=6517ea52&hm=f9452a09b8460746f3654d2846a2333112b6427d8c5508b210665f6e92fc2bd6&)
+
+En la consola de WebStorm, ejecutamos el comando "npm run build" para generar los archivos necesarios que Firebase utilizará para realizar la implementación. 
+
+![](https://cdn.discordapp.com/attachments/782453162409328641/1157609996838785024/deploy3.png?ex=65193bd2&is=6517ea52&hm=fab3f505c484a759fe37b486020583726cc5b0bde1b4dfca68c229be9d0c0c5e&)
+
+![](https://cdn.discordapp.com/attachments/782453162409328641/1157609996448706600/deploy4.png?ex=65193bd2&is=6517ea52&hm=c551cae6f40cda4220650f637d8ad477bd161c06302bc2dbdcab1a5f17de9654&)
+
+![](https://cdn.discordapp.com/attachments/782453162409328641/1157609996142510080/deploy5.png?ex=65193bd2&is=6517ea52&hm=e405fdaec656c1bc5d6843604f54a2887f3e9fa0a302724011e2dd91d4347687&)
+
+Una vez completado el proceso de implementación, abrimos el dominio correspondiente: 
+
+![](https://cdn.discordapp.com/attachments/782453162409328641/1157609998453571615/deploy6.png?ex=65193bd2&is=6517ea52&hm=1f82ee036f9745c3a2b7fe616bbbb9aacb4916ea721195ba6cec75c08a47e90f&)
+
+Adicionalmente, el proyecto se ha cargado en un repositorio de GitHub para facilitar las actualizaciones subsiguientes.
+
+![](https://cdn.discordapp.com/attachments/782453162409328641/1157609997996412958/deploy7.png?ex=65193bd2&is=6517ea52&hm=6e3e128f9c8647ca359b72ec111f8b3f31137a659046a610f357d23e5dc1f01c&)
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint. <a name="25"></a>
+
+
+
+## 5.3. Validation Interviews. <a name="26"></a>
+### 5.3.1. Diseño de Entrevistas. <a name="27"></a>
+### 5.3.2. Registro de Entrevistas. <a name="28"></a>
+### 5.3.3. Evaluaciones según heurísticas. <a name="29"></a>
+
+## 5.4. Video About-the-Product. <a name="30"></a>
+# Conclusiones<a name="31"></a>
+## Conclusiones Conclusiones y recomendaciones. <a name="32"></a>
 
  - La aplicación TechShop tiene el potencial de abordar un problema real y común en entornos urbanos, que es la escasez de espacios de estacionamiento y la búsqueda ineficiente de lugares para estacionar. La propuesta de la aplicación para permitir a los usuarios buscar, reservar y pagar por espacios de estacionamiento de manera eficiente, así como permitir a los propietarios de espacios registrarse y alquilar a través de la plataforma, puede tener un impacto significativo en la experiencia de los conductores y en la congestión del tráfico en las áreas urbanas.
 
@@ -1678,12 +1826,12 @@ Team Collaboration Insights hace referencia a una variedad de datos e informaci�
   
  - Creemos que se han cumplido adecuadamente todos los criterios solicitados para esta primera entrega. Cabe mencionar que el trabajo colaborativo y bien planificado ha sido muy importante para completar las secciones de este informe, como recomendación, sería excelente tener fechas y horarios preestablecidos para cada reunión.
 
-## Video About-the-Team.  <a name="24"></a>
+## Video About-the-Team.  <a name="33"></a>
 
 
 
-# Bibliografía  <a name="25"></a>
-# Anexos <a name="26"></a>
+# Bibliografía  <a name="34"></a>
+# Anexos <a name="35"></a>
 
 [User Persona]()
 
