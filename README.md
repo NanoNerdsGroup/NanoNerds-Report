@@ -44,6 +44,8 @@
 |TB1| 08-09-2023|Gustavo|Avance del capitulo 2 y 4 en el repositorio|
 |TB1| 08-09-2023|Farid|Avance del capitulo 1 y 3 en el repositorio|
 |TB1| 09-09-2023|Farid|Avance del capitulo 3, cambios en estimación de story points en el repositorio|
+|TP| 30-09-2023|Farid|Avance de user stories en app web, frontend actualizado|
+|TP| 30-09-2023|Farid|Mejoras en Documentos de sprint anterior|
 
 
 
