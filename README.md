@@ -90,6 +90,12 @@
 |40189a2ab441a0a3f59fde0410340b6e85687f28| Gustavo | 30-09-2023  |doc: Execution Evidence for Sprint added|
 |637e5a08974ec08a7958d3708b4674d97fe105f8|Gustavo|30-09-2023 |doc: Development Evidence added|
 |a1aef3021be824f44242677b7ca95b7ed0edb829|Gustavo|30-09-2023 |doc: fixed point 5.2.2.7|
+|80c36cc7feb26f056618be2349055cc2f65ba470|Antonella|20-09-2023|doc:Update Sprint Backlog 1|
+|0eddb7637711fb4f44606643dac5bf963352e32e|Antonella|20-09-2023|doc:Update Create Sprint Planning 2|
+|0eddb7637711fb4f44606643dac5bf963352e32e|Antonella|20-09-2023|doc:Update Sprint Backlog 2|
+
+
+
 
 
 ### Actividades:
