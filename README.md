@@ -1815,6 +1815,144 @@ Adicionalmente, el proyecto se ha cargado en un repositorio de GitHub para facil
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint. <a name="25"></a>
 
+### 5.2.3.3.Development Evidence for Sprint Review
+
+En esta sección se detallan los commits efectuados en los repositorios de la aplicación web en GitHub. Dado el considerable número de commits, nos centraremos en destacar aquellos que resultan más relevantes para el proceso de desarrollo.
+
+Asimismo, se incluyen los links de los repositorios:
+
+Landing page: <https://github.com/NanoNerdsGroup/NanoNerds-LandingPage> 
+
+Frontend - Web Application: https://github.com/NanoNerdsGroup/NanoNerds-Frontend
+
+
+<table><tr><th colspan="1" valign="top"><b>Repository</b></th><th colspan="1" valign="top"><b>Branch</b></th><th colspan="1" valign="top"><b>Commit Id</b> </th><th colspan="1" valign="top"><b>Commit Message</b></th><th colspan="1" valign="top"><b>Commit Message Body</b></th><th colspan="1" valign="top"><b>Commited on (Date)</b></th></tr>
+<tr><td colspan="1" rowspan="27" valign="top"><p></p><p>NanoNerds-Frontend</p></td><td colspan="1" rowspan="2" valign="top">develop</td><td colspan="1" valign="top">1f0176a8f388b0f5494ccd9f1cdc4d810e3e3673</td><td colspan="1" valign="top">Initial commit</td><td colspan="1" valign="top"></td><td colspan="1" rowspan="2" valign="top">30/10/2023</td></tr>
+<tr><td colspan="1" valign="top">69c5f321a08e877f03613ffbf34caa2d29523c07</td><td colspan="1" valign="top">chore: initial project</td><td colspan="1" valign="top"></td></tr>
+<tr><td colspan="1" rowspan="4" valign="top">feature/us10/sign-up </td><td colspan="1" valign="top">fcbd0360f2c96cdb0f68de950bba43072841e2b3</td><td colspan="1" valign="top">feat: toolbar-top component created</td><td colspan="1" valign="top"></td><td colspan="1" rowspan="4" valign="top">30/10/2023</td></tr>
+<tr><td colspan="1" valign="top">bacf92dfb204679a39c01790878228fa3862a850</td><td colspan="1" valign="top">feat: sidebar for seller and customer created</td><td colspan="1" valign="top"></td></tr>
+<tr><td colspan="1" valign="top">71a21f17a70b9504a614215d0ba8ad50a64b577c</td><td colspan="1" valign="top">feat: crud posts implemented</td><td colspan="1" valign="top"></td></tr>
+<tr><td colspan="1" valign="top">5882a789bcd86f4ad6d4679369ab7863aec52884</td><td colspan="1" valign="top">feature: sign in function created</td><td colspan="1" valign="top"></td></tr>
+<tr><td colspan="1" rowspan="4" valign="top">feature/us11/sign-in</td><td colspan="1" valign="top">fcbd0360f2c96cdb0f68de950bba43072841e2b3</td><td colspan="1" valign="top">feat: toolbar-top component created</td><td colspan="1" valign="top"></td><td colspan="1" rowspan="4" valign="top">30/10/2023</td></tr>
+<tr><td colspan="1" valign="top">bacf92dfb204679a39c01790878228fa3862a850</td><td colspan="1" valign="top">feat: sidebar for seller and customer created</td><td colspan="1" valign="top"></td></tr>
+<tr><td colspan="1" valign="top">71a21f17a70b9504a614215d0ba8ad50a64b577c</td><td colspan="1" valign="top">feat: crud posts implemented</td><td colspan="1" valign="top"></td></tr>
+<tr><td colspan="1" valign="top">5882a789bcd86f4ad6d4679369ab7863aec52884</td><td colspan="1" valign="top">feature: sign in function created</td><td colspan="1" valign="top"></td></tr>
+<tr><td colspan="1" rowspan="3" valign="top">feature/us12/forgot-password</td><td colspan="1" valign="top">5882a789bcd86f4ad6d4679369ab7863aec52884</td><td colspan="1" valign="top">feature: sign in function created</td><td colspan="1" valign="top"></td><td colspan="1" rowspan="3" valign="top">30/10/2023</td></tr>
+<tr><td colspan="1" valign="top">4b854eb46a203e8551a6dfaf16c7a1d51a91bfd7</td><td colspan="1" valign="top">feature: sign up function created</td><td colspan="1" valign="top"></td></tr>
+<tr><td colspan="1" valign="top">aa2dce5a46a214f4b9799c0efb38c72af7e4c7d7</td><td colspan="1" valign="top">feature: forgot password function created</td><td colspan="1" valign="top"></td></tr>
+<tr><td colspan="1" rowspan="4" valign="top">feature/us14/my-favorites</td><td colspan="1" valign="top">51e5fbce911bb5b49573cdfae7f426c644ac27db</td><td colspan="1" valign="top">feature: search and show components function created</td><td colspan="1" valign="top"></td><td colspan="1" rowspan="4" valign="top">30/10/2023</td></tr>
+<tr><td colspan="1" valign="top">7a38216cbe01278d661de34d45788c561543dfc4</td><td colspan="1" valign="top">feature: components information function created</td><td colspan="1" valign="top"></td></tr>
+<tr><td colspan="1" valign="top">bd65dedd3cdeee6cb18f2aa9296ab653bec870f9</td><td colspan="1" valign="top">feature: advanced filter function created</td><td colspan="1" valign="top"></td></tr>
+<tr><td colspan="1" valign="top">1723896c19c8e318224e84936427f8ae1c871563</td><td colspan="1" valign="top">feature: my favorites function created</td><td colspan="1" valign="top"></td></tr>
+<tr><td colspan="1" valign="top">feature/us18/show-components</td><td colspan="1" valign="top">51e5fbce911bb5b49573cdfae7f426c644ac27db</td><td colspan="1" valign="top">feature: search and show components function created</td><td colspan="1" valign="top"></td><td colspan="1" valign="top">30/10/2023</td></tr>
+<tr><td colspan="1" valign="top">feature/us19/advanced-filter</td><td colspan="1" valign="top">bd65dedd3cdeee6cb18f2aa9296ab653bec870f9</td><td colspan="1" valign="top">feature: advanced filter function created</td><td colspan="1" valign="top"></td><td colspan="1" valign="top">30/10/2023</td></tr>
+<tr><td colspan="1" rowspan="2" valign="top">feature/us20/component-information</td><td colspan="1" valign="top">51e5fbce911bb5b49573cdfae7f426c644ac27db</td><td colspan="1" valign="top">feature: search and show components function created</td><td colspan="1" valign="top"></td><td colspan="1" valign="top">30/10/2023</td></tr>
+<tr><td colspan="1" valign="top">7a38216cbe01278d661de34d45788c561543dfc4</td><td colspan="1" valign="top">feature: components information function created</td><td colspan="1" valign="top"></td><td colspan="1" valign="top">30/10/2023</td></tr>
+<tr><td colspan="1" rowspan="2" valign="top">feature/us22/navigate</td><td colspan="1" valign="top">fcbd0360f2c96cdb0f68de950bba43072841e2b3</td><td colspan="1" valign="top">feat: toolbar-top component created</td><td colspan="1" valign="top"></td><td colspan="1" rowspan="2" valign="top">30/10/2023</td></tr>
+<tr><td colspan="1" valign="top">bacf92dfb204679a39c01790878228fa3862a850</td><td colspan="1" valign="top">feat: sidebar for seller and customer created</td><td colspan="1" valign="top"></td></tr>
+<tr><td colspan="1" valign="top">feature/us23/shopping-cart</td><td colspan="1" valign="top">422b332736787ce33c7531a1fa02cc2104526afa</td><td colspan="1" valign="top">feature: shopping cart function created</td><td colspan="1" valign="top"></td><td colspan="1" valign="top">30/10/2023</td></tr>
+<tr><td colspan="1" valign="top">feature/us31/view-post</td><td colspan="1" valign="top">71a21f17a70b9504a614215d0ba8ad50a64b577c</td><td colspan="1" valign="top">feat: crud posts implemented</td><td colspan="1" valign="top"></td><td colspan="1" valign="top">30/10/2023</td></tr>
+<tr><td colspan="1" rowspan="4" valign="top">develop</td><td colspan="1" valign="top">7d3f0fe42d66e4b26089c5d90405fccb328f4e89</td><td colspan="1" valign="top">fix: crud posts adapted</td><td colspan="1" valign="top"></td><td colspan="1" rowspan="2" valign="top">31/10/2023</td></tr>
+<tr><td colspan="1" valign="top">29c782366b47a0bdaf0b9ade0ff2080344c5ae71</td><td colspan="1" valign="top">fix: add post function</td><td colspan="1" valign="top"></td></tr>
+<tr><td colspan="1" valign="top"></td><td colspan="1" valign="top">83aa823dde1ffcf03e64f53fd527b30d75edd937</td><td colspan="1" valign="top">fix: integrate software input in add and edit form</td><td colspan="1" valign="top"></td><td colspan="1" rowspan="2" valign="top">02/11/2023</td></tr>
+<tr><td colspan="1" valign="top"></td><td colspan="1" valign="top">b092866d3ca7ef2fe55825015ac44556885e5d74</td><td colspan="1" valign="top">fix: add and edit form improved</td><td colspan="1" valign="top"></td></tr>
+<tr><td colspan="1" valign="top">NanoNerds-Backend</td><td colspan="1" valign="top">master</td><td colspan="1" valign="top">874c38c69ca5217a6d2edd3b06b877bfd8d9a5a2</td><td colspan="1" valign="top">chore: initial repository</td><td colspan="1" valign="top"></td><td colspan="1" valign="top">02/11/2023</td></tr>
+</table>
+
+### 5.2.3.4.Testing Suite Evidence for Sprint Review
+
+En el alcance de este sprint, no se han implementado funcionalidades relacionadas con pruebas en el backend API, por lo que la tabla se encuentra sin contenido.
+
+
+|**Repository**|**Branch**|**Commit Id** |**Commit Message**|**Commit Message Body**|**Commited on (Date)**|
+| :- | :- | :- | :- | :- | :- |
+|||||||
+
+### 5.2.3.5.Execution Evidence for Sprint Review.
+
+En este Sprint, se llevó a cabo la implementación y desarrollo del frontend de la aplicación. Los logros alcanzados en esta etapa incluyen la implementación de las vistas asociadas a las historias de usuario del frontend, tal como se detalla en la sección superior del sprint backlog.
+
+A continuación, se mostrará un video que incluye la explicación y navegación de este sprint:
+
+Web Application: <https://nanonerds-techshop.web.app/> 
+
+Asimismo, se presentan capturas de la Web Application:
+
+Vista de Inicio de Sesión
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <center><img src="https://cdn.discordapp.com/attachments/834550053590925412/1170135237922136105/image.png"></center>
+    </td>
+  </tr>
+<br>
+
+Vista de Registro de Usuario
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <center><img src="https://cdn.discordapp.com/attachments/834550053590925412/1170136607509196960/image.png?ex=6557f1a3&is=65457ca3&hm=0dcb5bbf551e5ebb3ef94f72fa8df0064dc0eee6b0859db85daf5106f9043832&"></center>
+    </td>
+  </tr>
+<br>
+
+Vista de Home
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <center><img src="https://cdn.discordapp.com/attachments/834550053590925412/1170136621048414338/image.png?ex=6557f1a6&is=65457ca6&hm=3ba3e8f36d40d31f19eaee4d251fd67565666aeeab35112d00eb5f24835d8a4b&"></center>
+    </td>
+  </tr>
+<br>
+
+Buscar componentes
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <center><img src="https://cdn.discordapp.com/attachments/834550053590925412/1170136637657854063/image.png?ex=6557f1aa&is=65457caa&hm=1dab95bd5b1f9521b0bf4e3d73be9519a362a59eb051389a90abf424e144f595&"></center>
+    </td>
+  </tr>
+<br>
+
+Filtro de Búsqueda
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <center><img src="https://cdn.discordapp.com/attachments/834550053590925412/1170136656943272136/image.png?ex=6557f1af&is=65457caf&hm=19924f73941e95acdf9353a52225922f4f4c329c4967f68e3ef0a280f5b3c51b&"></center>
+    </td>
+  </tr>
+<br>
+
+Cambio de tipo de Usuario
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <center><img src="https://cdn.discordapp.com/attachments/834550053590925412/1170137099224227931/image.png?ex=6557f218&is=65457d18&hm=8262e2046b18a9910a6d71b9731c75d92a85aba2f11833e0b5bb714b3ed39c66&"></center>
+    </td>
+  </tr>
+<br>
+
+Perfil de Seller
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <center><img src="https://cdn.discordapp.com/attachments/834550053590925412/1170137113015111784/image.png?ex=6557f21b&is=65457d1b&hm=7c3251a0f434a3e2093d1a0fbf5e882cc708ce9076dc2a426c2870d58ef536b9&"></center>
+    </td>
+  </tr>
+<br>
+
+Vista al momento de agregar una publicación
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <center><img src="https://cdn.discordapp.com/attachments/834550053590925412/1170137131637805076/image.png?ex=6557f220&is=65457d20&hm=eac401be4c9280d482dd1c523c274b5a5df78fb57ec43749b9e6aa0dc07c6ff6&"></center>
+    </td>
+  </tr>
+<br>
+
+### 5.2.3.6.Services Documentation Evidence for Sprint Review
+
+Como se mencionó previamente, dado que nos encontramos en la fase de diseño del prototipo de la aplicación web, no estamos en posición de documentar la relación de los endpoints en este momento.
 
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 En este sprint, para poder hacer el deploy de TechShops, primero se instaló los paquetes del angular con el comando “npm install”, la autenticación y la inicialización en el directorio de nuestro proyecto
