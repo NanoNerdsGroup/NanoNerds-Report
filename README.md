@@ -1816,11 +1816,140 @@ Adicionalmente, el proyecto se ha cargado en un repositorio de GitHub para facil
 #### 5.2.2.8. Team Collaboration Insights during Sprint. <a name="25"></a>
 
 
+### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+En este sprint, para poder hacer el deploy de TechShops, primero se instaló los paquetes del angular con el comando “npm install”, la autenticación y la inicialización en el directorio de nuestro proyecto
+
+
+En la consola de WebStorm, ejecutamos el comando "npm serve" para generar los archivos necesarios utilizará para realizar la implementación
+
+![](https://media.discordapp.net/attachments/610911183339388978/1169920093346594836/image.png?ex=655727fe&is=6544b2fe&hm=f5064e72f4bebef7a961236aa98a7af97583250ea4e43d148c01b4adedeb6687&=)
+
+
+
+![](https://media.discordapp.net/attachments/610911183339388978/1169920114557190154/image.png?ex=65572803&is=6544b303&hm=e42f2da79f4b524407f7c8473422012039914d194996a438ffa91d1eb5115c08&=)
+
+
+Una vez completado el proceso de implementación, abrimos el dominio correspondiente:
+
+![](https://media.discordapp.net/attachments/610911183339388978/1169920129828651018/image.png?ex=65572807&is=6544b307&hm=b601d65001f9a6e4c6ca8b5a9e55839c7a10376f7fde7146f4a4e74df35fc855&=)
+
+![](https://media.discordapp.net/attachments/610911183339388978/1169920143191715892/image.png?ex=6557280a&is=6544b30a&hm=b1eedb8498d0eabbd9c5577181e3500081776c9b6220c8a489ade22a681c033f&=)
+
+![](https://media.discordapp.net/attachments/610911183339388978/1169920162665877524/image.png?ex=6557280e&is=6544b30e&hm=444ffbadc008dfcfb33fbafea71161d94c491f428e7b5f4c69108070059b6f44&=)
+
+En la consola de WebStorm, ejecutamos el comando "cd .\server\" para generar los archivos necesarios que Json-Server utilizará para realizar la implementación.
+
+![](https://media.discordapp.net/attachments/610911183339388978/1169920177224298516/image.png?ex=65572812&is=6544b312&hm=5e05d3eaec3de51ca07efdc09380521b78768c24d372a1a7553bd6f5e7aca254&=)
+
+![](https://media.discordapp.net/attachments/610911183339388978/1169920190553784400/image.png?ex=65572815&is=6544b315&hm=fa2fae1b8fb4d803144ddbfa5e72544ac1262d5c4a1a3df9390e7cac45423c11&=)
+
+Una vez completado el proceso de implementación, abrimos el dominio correspondiente:
+
+![](https://media.discordapp.net/attachments/610911183339388978/1169920205351305297/image.png?ex=65572819&is=6544b319&hm=95c00d99eb190afe088e541b833c78d717d43158598f2a24aefb37e64c30a557&=)
+
+
+
+
+
 
 ## 5.3. Validation Interviews. <a name="26"></a>
 ### 5.3.1. Diseño de Entrevistas. <a name="27"></a>
+
+#### Para los usuarios Customer fueron asignadas las siguientes preguntas:
+¿Qué tipo de componentes de computadora te gustaría vender en una plataforma en línea?
+
+¿Cuáles son las principales dificultades que has enfrentado al intentar vender estos componentes en otros canales o plataformas?
+
+¿Qué funcionalidades o herramientas te gustaría tener en una página web para vender tus productos de manera más efectiva?
+
+¿Qué información consideras fundamental para mostrar sobre los componentes que estás vendiendo?
+
+¿Cómo te gustaría gestionar el inventario y la actualización de productos en la página web?
+
+¿Qué políticas de venta, como devoluciones o garantías, consideras esenciales para ofrecer a los clientes?
+
+¿Qué métodos de pago y opciones de envío te gustaría tener disponibles en la plataforma de venta en línea?
+
+¿Valoras la posibilidad de integrar herramientas de análisis y estadísticas para monitorear el desempeño de tus ventas en la página web?
+
+¿Qué te preocupa más al vender componentes de computadora en línea (seguridad de pago, alcance de la audiencia, competencia, etc.)?
+
+¿Qué tipo de soporte o asistencia te gustaría recibir por parte de la plataforma para gestionar tus ventas y resolver problemas?
+
+
+#### Para los usuarios Seller fueron asignadas las siguientes preguntas:
+¿Qué tipo de componentes de computadora sueles buscar o comprar con mayor frecuencia?
+
+¿Qué información consideras crucial al elegir y comprar componentes de computadora en línea?
+
+¿Qué te gustaría ver en una página web de venta de componentes de computadora que facilitaría tu experiencia de compra?
+
+¿Qué características de navegación y búsqueda consideras importantes para encontrar fácilmente los productos que necesitas?
+
+¿Qué aspectos influyen más en tu decisión de compra online de componentes de computadora (precio, especificaciones, reseñas de productos, etc.)?
+
+¿Te gustaría contar con asesoramiento técnico o guías de compra para elegir los componentes más adecuados para tus necesidades?
+
+¿Qué consideras fundamental en términos de servicio al cliente al comprar componentes de computadora en línea?
+
+¿Valoras la posibilidad de personalización o configuración de los componentes a través de la página web?
+
+¿Qué te preocupa más al comprar componentes de computadora en línea (seguridad de pago, autenticidad del producto, tiempo de entrega, etc.)?
+
+¿Prefieres una interfaz de usuario que sea fácil de usar o una que ofrezca una amplia gama de opciones y detalles técnicos?
+
+
 ### 5.3.2. Registro de Entrevistas. <a name="28"></a>
+### Usuario Customer
+
+En una reciente entrevista, conversé con César Ley, un apasionado de la tecnología y los ordenadores. César es un entusiasta de las compras en línea, especialmente cuando se trata de adquirir componentes para computadoras. Él enfatizó la conveniencia de comprar en línea cuando su computadora necesita reparaciones o actualizaciones, ya que le resulta mucho más sencillo. César se identificó como un experto en componentes de computadoras y expresó un fuerte interés en mejorar la experiencia de compra en el sitio web mencionado. Mencionó la importancia de facilitar el proceso de compra y destacó su deseo de implementar un apartado de comentarios para fomentar la interacción entre los usuarios y la página. También enfatizó la relevancia de mostrar una amplia gama de precios para que los compradores tengan opciones variadas. Asimismo, César expresó su preferencia por la personalización, mencionando específicamente su interés en que los iconos sean adaptables o personalizables en la página web. Está motivado por mejorar la experiencia del usuario y la accesibilidad a la información para que la navegación sea más amigable y práctica.
+
+![](https://media.discordapp.net/attachments/610911183339388978/1169920227245559818/image.png?ex=6557281e&is=6544b31e&hm=d256c35b384c9c7df38217ce0c8cb0a778231c47f267cdce96e175a22945f897&=)
+
+![](https://media.discordapp.net/attachments/610911183339388978/1169920244475777074/image.png?ex=65572822&is=6544b322&hm=bf7e885a020281a178aa137cc542574192f759a3be43130ca17d9197c5b11ba7&=)
+
+Link de la entrevista: https://youtu.be/ZE47xFnrBak
+
+### Usuario Seller
+
+En una reciente entrevista con Mathias Horna, un vendedor especializado en componentes de computadoras, se destacó su deseo de ampliar el alcance de sus productos de alta calidad a una base de clientes más amplia. Mathias enfatizó su enfoque en ofrecer productos a precios asequibles y moderados, con el objetivo de llegar a más personas interesadas en este mercado. Además, expresó su interés en contar con un apartado de comentarios en la página web para obtener información sobre la percepción de los clientes acerca de los precios en comparación con la competencia. Desea utilizar estos comentarios como referencia para ajustar estrategias de precios y mejorar su oferta. Otro aspecto fundamental que Mathias resaltó fue la necesidad de contar con asesoramiento para las ventas y control de stock en su negocio. Busca integrar herramientas que faciliten la gestión de inventario y que provean orientación para optimizar las ventas. Finalmente, mencionó su interés en promocionar su negocio a través de la aplicación web para atraer a una mayor cantidad de clientes potenciales. Esta estrategia de marketing digital le permitiría expandir su alcance y visibilidad, generando mayor interés en sus productos entre el público interesado en componentes de computadoras.
+
+![](https://media.discordapp.net/attachments/610911183339388978/1169920256643432499/image.png?ex=65572825&is=6544b325&hm=a3f80ab33a1b656da8bf3383df5826dd7d888addcd8f56594adf95a818814507&=)
+![](https://media.discordapp.net/attachments/610911183339388978/1169920271331901521/image.png?ex=65572828&is=6544b328&hm=f5254e23b9d38f1cd49cc317af4574e19cd9b49175da4a297b1d119260cfd8e7&=)
+
+Link de la entrevista: https://youtu.be/ynnDVtEeGk4
+
+
 ### 5.3.3. Evaluaciones según heurísticas. <a name="29"></a>
+
+#### 1) Visibilidad del Estado del Sistema:
+   Asegúrate de que los usuarios siempre estén al tanto del estado de su acción. Por ejemplo, proporciona indicadores claros cuando se agrega un producto al carrito o se realiza una compra.
+
+#### 2) Coincidencia entre el Sistema y el Mundo Real:
+   Utiliza un lenguaje y elementos de diseño que sean familiares para los usuarios. Por ejemplo, nomenclatura de productos que sea entendible y familiar para los entusiastas de la tecnología.
+
+#### 3) Control y Libertad del Usuario:
+   Brinda a los usuarios la posibilidad de deshacer acciones, como eliminar elementos del carrito antes de confirmar la compra.
+
+#### 4) Consistencia y Estándares:
+   Asegúrate de que la interfaz mantenga la coherencia en el diseño, la navegación y el etiquetado. Los botones, menús y opciones deben ser consistentes a lo largo de la aplicación.
+
+#### 5) Prevención de Errores:
+   Ofrece confirmaciones claras antes de que el usuario realice acciones irreversibles, como eliminar un elemento del carrito o finalizar una compra.
+
+#### 6) Flexibilidad y Eficiencia de Uso:
+   Proporciona atajos y funcionalidades avanzadas para usuarios expertos, como una búsqueda avanzada o filtros detallados para encontrar rápidamente componentes específicos.
+
+#### 7) Diseño Estético y Minimalista:
+   Asegúrate de que el diseño sea atractivo, pero no a expensas de la funcionalidad. Una interfaz limpia y minimalista facilita la navegación.
+
+#### 8) Ayuda y Documentación:
+   Ofrece una sección de preguntas frecuentes, tutoriales o soporte en línea para ayudar a los usuarios a resolver problemas o dudas comunes.
+
+#### 9) Compatibilidad con Reconocimiento de Errores:
+   Proporciona mensajes de error claros y orientados a la solución cuando los usuarios cometan errores, como introducir información incorrecta en formularios.
+
+
 
 ## 5.4. Video About-the-Product. <a name="30"></a>
 # Conclusiones<a name="31"></a>
@@ -1831,6 +1960,9 @@ Adicionalmente, el proyecto se ha cargado en un repositorio de GitHub para facil
   - Después de delimitar las funcionalidades de ParKEase a partir del capítulo cuatro, se ha realizado la planificación para el despliegue del landing page y web applications, partiendo de las especificaciones de estilo, hasta la realización de los wireframes y mockups. Además de completar el despliegue del landing page con HTML, CSS y JavaScript, dando uso a la plataforma de control de versiones, GitHub.
   
  - Creemos que se han cumplido adecuadamente todos los criterios solicitados para esta primera entrega. Cabe mencionar que el trabajo colaborativo y bien planificado ha sido muy importante para completar las secciones de este informe, como recomendación, sería excelente tener fechas y horarios preestablecidos para cada reunión.
+
+
+- Las conclusiones de la evaluación heurística y las entrevistas proporcionan pautas claras para mejorar la usabilidad de la aplicación. El despliegue exitoso del proyecto implica una planificación cuidadosa y pruebas exhaustivas antes y después del lanzamiento.
 
 ## Video About-the-Team.  <a name="33"></a>
 
