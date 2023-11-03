@@ -183,18 +183,29 @@ Durante una reunión de google meet hemos elegido una idea para nuestra startup.
       - [5.2.2.6. Services Documentation Evidence for Sprint Review](#23)
       - [5.2.2.7. Software Deployment Evidence for Sprint Review](#24)
       - [5.2.2.8. Team Collaboration Insights during Sprint](#25)
-  - [5.3. Validation Interviews](#26)
-    - [5.3.1. Diseño de Entrevistas](#27)
-    - [5.3.2. Registro de Entrevistas](#28)
-    - [5.3.3. Evaluaciones según heurísticas](#29)
-  - [5.4. Video About-the-Product](#30)
+        
+    - [5.2.3. Sprint 3](#26)
+      - [5.2.3.1.Sprint Planning 3.](#27)
+      - [5.2.3.2.Sprint Backlog 3.](#28)
+      - [5.2.3.3.Development Evidence for Sprint Review.](#29)
+      - [5.2.3.4.Testing Suite Evidence for Sprint Review.](#30)
+      - [5.2.3.5.Execution Evidence for Sprint Review.](#31)
+      - [5.2.3.6.Services Documentation Evidence for Sprint Review.](#32)
+      - [5.2.3.7.Software Deployment Evidence for Sprint Review.](#33)
+      - [5.2.3.8.Team Collaboration Insights during Sprint.](#34)
+      - [5.3. Validation Interviews](#35)
+      - [5.3.1. Diseño de Entrevistas](#36)
+      - [5.3.2. Registro de Entrevistas](#37)
+      - [5.3.3. Evaluaciones según heurísticas](#38)
+      - [5.4. Video About-the-Product](#39)
+        
 
-- [Conclusiones](#31)
-  - [Conclusiones y recomendaciones](#32)
-  - [Video About-the-Team](#33)
+- [Conclusiones](#40)
+  - [Conclusiones y recomendaciones](#41)
+  - [Video About-the-Team](#42)
 
-- [Bibliografía](#34)
-- [Anexos](#35)
+- [Bibliografía](#43)
+- [Anexos](#44)
 
 # Student Outcome
 
@@ -1747,65 +1758,7 @@ El backlog para este segundo sprint es el que se muestra a continuación:
 </table>
 
 
-#### 5.2.2.3. Sprint Planning 3. <a name="19"></a>
-|**Sprint #**|Sprint 3|
-| :- | :- |
-|**Sprint Planning Background**||
-|Date|2023-10-22|
-|Time|7:00 PM|
-|Location|Canal de voz de la plataforma de Discord|
-|Prepared By|Farid Hinostroza|
-|<p>Attendees (to planning </p><p>meeting)</p>|<p>Orlando Arturo Roca Huapaya </p><p>Farid Rolando Hinostroza Mavila </p><p>Louis Piero Alfaro Coveñas </p><p>Antonella Frida Gonzales Gomez </p><p>Gustavo Jandroel Aguirre Rodriguez</p>|
-|<p>Sprint 3 Review </p><p>Summary</p>|<p>El equipo de desarrollo ha logrado completar con éxito las tareas asignadas, con un enfoque principal en la mejora del frontend y el inicio del proceso de desarrollo del backend.</p><p></p>|
-|<p>Sprint 2 Retrospective </p><p>Summary</p>|Summary Aunque se lograron avances significativos, se identificaron oportunidades de mejora en la organización del equipo para garantizar la finalización de tareas asignadas y el seguimiento de los progresos.|
-|**Sprint Goal & User Stories**||
-|Sprint 3 Goal|<p>**Objetivos:**</p><p>Programación: Iniciar el desarrollo del backend y realizar mejoras en el frontend.</p><p></p><p>Despliegue: Desplegar la solución estática y verificar su correcto funcionamiento en el entorno de producción.</p>|
 
-
-#### 5.2.2.2. Sprint Backlog 3. <a name="19"></a>
-
-|Sprint #|||||||
-| :- | :- | :- | :- | :- | :- | :- |
-|User Story|||||||
-|ID|Title|ID|Description|Estimation|Assigned To|Status|
-|<p></p><p>US-01</p>|<p></p><p>Landing Page</p>|<p></p><p>WI17</p>|<p></p><p>Como usuario quiero navegar libremente por la landing page, para conocer más sobre los servicios que me brindan.</p>|<p></p><p>3h</p>|<p></p><p>Orlando Arturo Roca Huapaya</p>|<p></p><p>Done</p>|
-|<p></p><p></p><p></p><p>US-11</p>|<p></p><p></p><p></p><p>Registrar</p>|<p></p><p></p><p></p><p>WI18</p>|<p> </p><p></p><p></p><p>Como usuario deseo crear una cuenta para utilizar los servicios que me brinda la aplicación.</p><p></p>|<p></p><p></p><p></p><p>2h</p>|<p></p><p></p><p></p><p>Antonella Frida Gonzales Gomez </p><p></p>|<p></p><p></p><p></p><p>Done</p>|
-|<p></p><p></p><p></p><p>US-12</p>|<p></p><p></p><p></p><p>Editar perfil</p>|<p></p><p></p><p></p><p>WI19</p>|<p>  </p><p></p><p>Como usuario, quiero tener la opción de editar la información de mi perfil para mantenerla actualizada.</p>|<p></p><p></p><p></p><p>2h</p>|<p></p><p></p><p>Orlando Arturo Roca Huapaya </p><p></p>|<p></p><p></p><p></p><p>Done</p>|
-|<p></p><p></p><p></p><p>US-13</p>|<p></p><p></p><p>Mis favoritos</p>|<p></p><p></p><p></p><p>WI20</p>|<p></p><p></p><p></p><p>Como usuario deseo acceder a mi lista de productos favoritos.</p><p></p>|<p></p><p></p><p></p><p>2h</p>|<p></p><p></p><p>Orlando Arturo Roca Huapaya </p><p></p><p></p>|<p></p><p></p><p></p><p>Done</p>|
-|<p></p><p>US-14</p>|<p></p><p></p><p>Suscripciones</p>|<p></p><p>WI21</p>|Como usuario, deseo tener la opción de comprar suscripciones dentro de la aplicación para acceder a características premium y beneficios exclusivos. Esto me permitirá disfrutar de una experiencia mejorada mientras uso la aplicación.|<p></p><p>2h</p>|<p></p><p>Farid Hinosroza</p>|<p></p><p>Done</p>|
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-||||||||
-| :- | :- | :- | :- | :- | :- | :- |
-|<p></p><p></p><p></p><p>TS-01</p>|<p></p><p></p><p>Ver mis cotizaciones</p>|<p></p><p></p><p></p><p>WI22</p>|<p>Como usuario quiero que coticen los componentes elegidos.</p><p></p>|<p></p><p></p><p></p><p>3h</p>|<p></p><p></p><p>Antonella Frida Gonzales Gomez </p><p></p>|<p></p><p></p><p></p><p>Done</p>|
-|<p></p><p></p><p></p><p>TS-02</p>|<p></p><p></p><p>Cambiar el tipo de usuario</p>|<p></p><p></p><p></p><p>WI23</p>|Como usuario de la plataforma, deseo tener la capacidad de cambiar mi tipo de usuario en caso de que mis necesidades o roles cambien con el tiempo. Esto me permitirá acceder a las funcionalidades adecuadas para mi nueva situación.|<p></p><p></p><p></p><p>3h</p>|<p></p><p></p><p>Antonella Frida Gonzales Gomez </p><p></p>|<p></p><p></p><p></p><p>Done</p>|
-|<p></p><p></p><p>TS-03</p>|<p></p><p></p><p>Mostrar</p><p>components</p>|<p></p><p></p><p>WI24</p>|<p></p><p>Como usuario, deseo que la plataforma me proporcione recomendaciones de componentes y los sellers asociados, para facilitar mi búsqueda y selección de productos y servicios informáticos.</p>|<p></p><p></p><p>3h</p>|<p></p><p></p><p>Louis Piero Alfaro Coveñas</p>|<p></p><p></p><p>Done</p>|
-|<p></p><p></p><p>TS-04</p>|<p></p><p></p><p>`     `Filtrar componentes</p>|<p></p><p></p><p>WI25</p>|<p></p><p>Como usuario de la plataforma, deseo la capacidad de aplicar filtros a la lista de componentes disponibles, para encontrar las opciones que se ajusten a mis necesidades y preferencias.</p>|<p></p><p></p><p>3h</p>|<p></p><p></p><p>Gustavo Jandroel Aguirre Rodriguez</p>|<p></p><p></p><p>Intermediate</p>|
-|<p></p><p></p><p></p><p>TS-05</p>|<p> </p><p>` `Ver los detalles de los componentes</p>|<p></p><p></p><p></p><p>WI26</p>|<p></p><p>Como usuario de la plataforma, quiero poder ver información detallada sobre un componente en particular, para conocer sus especificaciones, características, precios y otros detalles relevantes antes de tomar una decisión de compra.</p>|<p></p><p></p><p></p><p>3h</p>|<p></p><p>Gustavo Jandroel Aguirre Rodriguez</p><p></p>|<p></p><p></p><p></p><p>Done</p>|
-|<p></p><p></p><p></p><p>TS-06</p>|<p></p><p></p><p>Guardar cotizaciones de los componentes</p>|<p></p><p></p><p></p><p>WI27</p>|Como usuario quiero que mi cuenta almacene información sobre mis cotizaciones sobre componentes para mi pc.|<p></p><p></p><p></p><p>3h</p>|<p></p><p></p><p></p><p>Farid</p><p>Hinostroa</p>|<p></p><p></p><p></p><p>Done</p>|
-
-
-
-|<p></p><p></p><p></p><p>TS-07</p>|<p></p><p></p><p>Seleccionar el componente para comprar</p>|<p></p><p></p><p></p><p>WI28</p>|Como usuario de la plataforma, deseo tener la capacidad de seleccionar y comprar un componente que me interese, lo que incluye un proceso de compra claro y seguro que me permita revisar la información detallada del componente y realizar la transacción de manera efectiva.|<p></p><p></p><p></p><p>3h</p>|<p></p><p></p><p>Antonella Frida Gonzales Gomez </p><p></p>|<p></p><p></p><p></p><p>Done</p>|
-| :- | :- | :- | :- | :- | :- | :- |
-|<p></p><p></p><p></p><p>TS-08</p>|<p></p><p>Ver los detalles de la compra</p><p></p>|<p></p><p></p><p></p><p>WI29</p>|Como usuario, quiero poder ver información detallada sobre compras previas en la plataforma para revisar componentes, fechas y detalles de transacciones. Esto facilitará el seguimiento de mis compras anteriores.|<p></p><p></p><p></p><p>3h</p>|<p></p><p></p><p>Orlando Arturo Roca Huapaya</p>|<p></p><p></p><p></p><p>Done</p>|
-|<p></p><p></p><p>TS-09</p>|<p></p><p></p><p>Elegir el método del pago</p>|<p></p><p></p><p>WI30</p>|Como usuario de la plataforma, deseo tener la capacidad de elegir el método de pago que prefiero al realizar una compra. Esto incluye la posibilidad de seleccionar entre diversas opciones de pago, como tarjetas de crédito, transferencia bancaria, PayPal u otros métodos aceptados.|<p></p><p></p><p>3h</p>|<p></p><p></p><p>Farid Hinostroza</p>|<p></p><p></p><p>Done</p>|
-|<p></p><p></p><p>TS-10</p>|<p>    </p><p>` `Realizar el pago</p>|<p></p><p></p><p>WI31</p>|Como usuario de la plataforma, deseo tener la capacidad de completar el proceso de pago de manera efectiva y segura después de seleccionar un componente y un método de pago. Esto garantizará que pueda finalizar la transacción con éxito y recibir una confirmación de compra.|<p></p><p></p><p>3h</p>|<p></p><p></p><p>Farid Hinostroza</p>|<p></p><p></p><p>Interm edial</p>|
-|<p></p><p></p><p>TS-11</p>|<p></p><p>Publicar componentes</p>|<p></p><p></p><p>WI32</p>|Como seller quiero tener la opción de crear componentes para publicar mis componentes en la aplicación.|<p></p><p></p><p>3h</p>|<p></p><p></p><p>Orlando Arturo Roca Huapaya</p>|<p></p><p></p><p>Interm edial</p>|
-|<p></p><p></p><p>TS-12</p>|<p></p><p>Editar components</p>|<p></p><p></p><p>WI33</p>|Como seller en la plataforma, deseo tener la capacidad de editar componentes previamente publicados para mantener la información actualizada y precisa. Esto incluye la posibilidad de modificar detalles como nombre, descripción, especificaciones técnicas, características, precio, información de contacto y cualquier otro aspecto relevante del componente.|<p></p><p></p><p>3h</p>|<p></p><p></p><p>Antonella Frida Gonzales Gomez</p>|<p></p><p>Interm edial</p>|
-|TS-13 |` `Eliminar componentes|`    `WI34|Como seller en la plataforma, deseo tener la capacidad de eliminar componentes previamente publicados en caso de que ya no estén disponibles o sean obsoletos. Esto garantiza que los usuarios tengan acceso a información relevante y actualizada sobre los componentes.||<p></p><p>Orlando Arturo Roca Huapaya</p>|<p></p><p>Done</p>|
 
 #### 5.2.2.3. Development Evidence for Sprint Review. <a name="20"></a>
 
@@ -1863,7 +1816,67 @@ Adicionalmente, el proyecto se ha cargado en un repositorio de GitHub para facil
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint. <a name="25"></a>
 
+### Sprint 3 <a name ="38"></a>
 
+
+#### 5.2.2.3. Sprint Planning 3. <a name="19"></a>
+|**Sprint #**|Sprint 3|
+| :- | :- |
+|**Sprint Planning Background**||
+|Date|2023-10-22|
+|Time|7:00 PM|
+|Location|Canal de voz de la plataforma de Discord|
+|Prepared By|Farid Hinostroza|
+|<p>Attendees (to planning </p><p>meeting)</p>|<p>Orlando Arturo Roca Huapaya </p><p>Farid Rolando Hinostroza Mavila </p><p>Louis Piero Alfaro Coveñas </p><p>Antonella Frida Gonzales Gomez </p><p>Gustavo Jandroel Aguirre Rodriguez</p>|
+|<p>Sprint 3 Review </p><p>Summary</p>|<p>El equipo de desarrollo ha logrado completar con éxito las tareas asignadas, con un enfoque principal en la mejora del frontend y el inicio del proceso de desarrollo del backend.</p><p></p>|
+|<p>Sprint 2 Retrospective </p><p>Summary</p>|Summary Aunque se lograron avances significativos, se identificaron oportunidades de mejora en la organización del equipo para garantizar la finalización de tareas asignadas y el seguimiento de los progresos.|
+|**Sprint Goal & User Stories**||
+|Sprint 3 Goal|<p>**Objetivos:**</p><p>Programación: Iniciar el desarrollo del backend y realizar mejoras en el frontend.</p><p></p><p>Despliegue: Desplegar la solución estática y verificar su correcto funcionamiento en el entorno de producción.</p>|
+
+
+#### 5.2.2.2. Sprint Backlog 3. <a name="19"></a>
+
+|Sprint #|||||||
+| :- | :- | :- | :- | :- | :- | :- |
+|User Story|||||||
+|ID|Title|ID|Description|Estimation|Assigned To|Status|
+|<p></p><p></p><p></p><p>US-11</p>|<p></p><p></p><p></p><p>Registrar</p>|<p></p><p></p><p></p><p>WI18</p>|<p> </p><p></p><p></p><p>Como usuario deseo crear una cuenta para utilizar los servicios que me brinda la aplicación.</p><p></p>|<p></p><p></p><p></p><p>2h</p>|<p></p><p></p><p></p><p>Antonella Frida Gonzales Gomez </p><p></p>|<p></p><p></p><p></p><p>Done</p>|
+|<p></p><p></p><p></p><p>US-12</p>|<p></p><p></p><p></p><p>Editar perfil</p>|<p></p><p></p><p></p><p>WI19</p>|<p>  </p><p></p><p>Como usuario, quiero tener la opción de editar la información de mi perfil para mantenerla actualizada.</p>|<p></p><p></p><p></p><p>2h</p>|<p></p><p></p><p>Orlando Arturo Roca Huapaya </p><p></p>|<p></p><p></p><p></p><p>Done</p>|
+|<p></p><p></p><p></p><p>US-13</p>|<p></p><p></p><p>Mis favoritos</p>|<p></p><p></p><p></p><p>WI20</p>|<p></p><p></p><p></p><p>Como usuario deseo acceder a mi lista de productos favoritos.</p><p></p>|<p></p><p></p><p></p><p>2h</p>|<p></p><p></p><p>Orlando Arturo Roca Huapaya </p><p></p><p></p>|<p></p><p></p><p></p><p>Done</p>|
+|<p></p><p>US-14</p>|<p></p><p></p><p>Suscripciones</p>|<p></p><p>WI21</p>|Como usuario, deseo tener la opción de comprar suscripciones dentro de la aplicación para acceder a características premium y beneficios exclusivos. Esto me permitirá disfrutar de una experiencia mejorada mientras uso la aplicación.|<p></p><p>2h</p>|<p></p><p>Farid Hinosroza</p>|<p></p><p>Done</p>|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+||||||||
+| :- | :- | :- | :- | :- | :- | :- |
+|<p></p><p></p><p></p><p>TS-01</p>|<p></p><p></p><p>Ver mis cotizaciones</p>|<p></p><p></p><p></p><p>WI22</p>|<p>Como usuario quiero que coticen los componentes elegidos.</p><p></p>|<p></p><p></p><p></p><p>3h</p>|<p></p><p></p><p>Antonella Frida Gonzales Gomez </p><p></p>|<p></p><p></p><p></p><p>Done</p>|
+|<p></p><p></p><p></p><p>TS-02</p>|<p></p><p></p><p>Cambiar el tipo de usuario</p>|<p></p><p></p><p></p><p>WI23</p>|Como usuario de la plataforma, deseo tener la capacidad de cambiar mi tipo de usuario en caso de que mis necesidades o roles cambien con el tiempo. Esto me permitirá acceder a las funcionalidades adecuadas para mi nueva situación.|<p></p><p></p><p></p><p>3h</p>|<p></p><p></p><p>Antonella Frida Gonzales Gomez </p><p></p>|<p></p><p></p><p></p><p>Done</p>|
+|<p></p><p></p><p>TS-03</p>|<p></p><p></p><p>Mostrar</p><p>components</p>|<p></p><p></p><p>WI24</p>|<p></p><p>Como usuario, deseo que la plataforma me proporcione recomendaciones de componentes y los sellers asociados, para facilitar mi búsqueda y selección de productos y servicios informáticos.</p>|<p></p><p></p><p>3h</p>|<p></p><p></p><p>Louis Piero Alfaro Coveñas</p>|<p></p><p></p><p>Done</p>|
+|<p></p><p></p><p>TS-04</p>|<p></p><p></p><p>`     `Filtrar componentes</p>|<p></p><p></p><p>WI25</p>|<p></p><p>Como usuario de la plataforma, deseo la capacidad de aplicar filtros a la lista de componentes disponibles, para encontrar las opciones que se ajusten a mis necesidades y preferencias.</p>|<p></p><p></p><p>3h</p>|<p></p><p></p><p>Gustavo Jandroel Aguirre Rodriguez</p>|<p></p><p></p><p>Intermediate</p>|
+|<p></p><p></p><p></p><p>TS-05</p>|<p> </p><p>` `Ver los detalles de los componentes</p>|<p></p><p></p><p></p><p>WI26</p>|<p></p><p>Como usuario de la plataforma, quiero poder ver información detallada sobre un componente en particular, para conocer sus especificaciones, características, precios y otros detalles relevantes antes de tomar una decisión de compra.</p>|<p></p><p></p><p></p><p>3h</p>|<p></p><p>Gustavo Jandroel Aguirre Rodriguez</p><p></p>|<p></p><p></p><p></p><p>Done</p>|
+|<p></p><p></p><p></p><p>TS-06</p>|<p></p><p></p><p>Guardar cotizaciones de los componentes</p>|<p></p><p></p><p></p><p>WI27</p>|Como usuario quiero que mi cuenta almacene información sobre mis cotizaciones sobre componentes para mi pc.|<p></p><p></p><p></p><p>3h</p>|<p></p><p></p><p></p><p>Farid</p><p>Hinostroa</p>|<p></p><p></p><p></p><p>Done</p>|
+
+
+
+|<p></p><p></p><p></p><p>TS-07</p>|<p></p><p></p><p>Seleccionar el componente para comprar</p>|<p></p><p></p><p></p><p>WI28</p>|Como usuario de la plataforma, deseo tener la capacidad de seleccionar y comprar un componente que me interese, lo que incluye un proceso de compra claro y seguro que me permita revisar la información detallada del componente y realizar la transacción de manera efectiva.|<p></p><p></p><p></p><p>3h</p>|<p></p><p></p><p>Antonella Frida Gonzales Gomez </p><p></p>|<p></p><p></p><p></p><p>Done</p>|
+| :- | :- | :- | :- | :- | :- | :- |
+|<p></p><p></p><p></p><p>TS-08</p>|<p></p><p>Ver los detalles de la compra</p><p></p>|<p></p><p></p><p></p><p>WI29</p>|Como usuario, quiero poder ver información detallada sobre compras previas en la plataforma para revisar componentes, fechas y detalles de transacciones. Esto facilitará el seguimiento de mis compras anteriores.|<p></p><p></p><p></p><p>3h</p>|<p></p><p></p><p>Orlando Arturo Roca Huapaya</p>|<p></p><p></p><p></p><p>Done</p>|
+|<p></p><p></p><p>TS-09</p>|<p></p><p></p><p>Elegir el método del pago</p>|<p></p><p></p><p>WI30</p>|Como usuario de la plataforma, deseo tener la capacidad de elegir el método de pago que prefiero al realizar una compra. Esto incluye la posibilidad de seleccionar entre diversas opciones de pago, como tarjetas de crédito, transferencia bancaria, PayPal u otros métodos aceptados.|<p></p><p></p><p>3h</p>|<p></p><p></p><p>Farid Hinostroza</p>|<p></p><p></p><p>Done</p>|
+|<p></p><p></p><p>TS-10</p>|<p>    </p><p>` `Realizar el pago</p>|<p></p><p></p><p>WI31</p>|Como usuario de la plataforma, deseo tener la capacidad de completar el proceso de pago de manera efectiva y segura después de seleccionar un componente y un método de pago. Esto garantizará que pueda finalizar la transacción con éxito y recibir una confirmación de compra.|<p></p><p></p><p>3h</p>|<p></p><p></p><p>Farid Hinostroza</p>|<p></p><p></p><p>Interm edial</p>|
+|<p></p><p></p><p>TS-11</p>|<p></p><p>Publicar componentes</p>|<p></p><p></p><p>WI32</p>|Como seller quiero tener la opción de crear componentes para publicar mis componentes en la aplicación.|<p></p><p></p><p>3h</p>|<p></p><p></p><p>Orlando Arturo Roca Huapaya</p>|<p></p><p></p><p>Interm edial</p>|
+|<p></p><p></p><p>TS-12</p>|<p></p><p>Editar components</p>|<p></p><p></p><p>WI33</p>|Como seller en la plataforma, deseo tener la capacidad de editar componentes previamente publicados para mantener la información actualizada y precisa. Esto incluye la posibilidad de modificar detalles como nombre, descripción, especificaciones técnicas, características, precio, información de contacto y cualquier otro aspecto relevante del componente.|<p></p><p></p><p>3h</p>|<p></p><p></p><p>Antonella Frida Gonzales Gomez</p>|<p></p><p>Interm edial</p>|
+|TS-13 |` `Eliminar componentes|`    `WI34|Como seller en la plataforma, deseo tener la capacidad de eliminar componentes previamente publicados en caso de que ya no estén disponibles o sean obsoletos. Esto garantiza que los usuarios tengan acceso a información relevante y actualizada sobre los componentes.||<p></p><p>Orlando Arturo Roca Huapaya</p>|<p></p><p>Done</p>|
 
 ## 5.3. Validation Interviews. <a name="26"></a>
 ### 5.3.1. Diseño de Entrevistas. <a name="27"></a>
