@@ -86,11 +86,6 @@
 |bba11e695f46e4d494cadbfdb09ff1f4635fa56a| Farid   | 29-09-2023 | doc: updateInforme                                                                                                                                   |
 |a74f748a9a07485c9e7afb626823ab3dfd2721cf| Louis   | 29-09-2023 | doc: add update new C4                                                                                                                               |
 
-### Actividades:
-- fecha: 20-08-2023
-
-![Asignación de colores](Imagenes-start-report/Acordar-idea.png)
-Durante una reunión de google meet hemos elegido una idea para nuestra startup. Abarcamos temas como el nombre de la startup y el sector en el que ibamos a trabajar, al final de la reunión elegimos el sector de tecnología.
 
 
 # Contenido
