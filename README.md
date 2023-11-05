@@ -2060,32 +2060,322 @@ Link de la entrevista: https://youtu.be/ynnDVtEeGk4
 
 ### 5.3.3. Evaluaciones según heurísticas. <a name="29"></a>
 
-#### 1) Visibilidad del Estado del Sistema:
-   Asegúrate de que los usuarios siempre estén al tanto del estado de su acción. Por ejemplo, proporciona indicadores claros cuando se agrega un producto al carrito o se realiza una compra.
+**Nombre de la Aplicación: TechShop Meta:** 
 
-#### 2) Coincidencia entre el Sistema y el Mundo Real:
-   Utiliza un lenguaje y elementos de diseño que sean familiares para los usuarios. Por ejemplo, nomenclatura de productos que sea entendible y familiar para los entusiastas de la tecnología.
+El propósito general de la evaluación es identificar problemas existentes en la aplicación web TechShop. 
 
-#### 3) Control y Libertad del Usuario:
-   Brinda a los usuarios la posibilidad de deshacer acciones, como eliminar elementos del carrito antes de confirmar la compra.
+Enfoque Metodológico: Los hallazgos del sitio web se llevarán a cabo utilizando la Lista Heurística de Nielsen, inicialmente investigada y creada por Jakob Nielsen. 
 
-#### 4) Consistencia y Estándares:
-   Asegúrate de que la interfaz mantenga la coherencia en el diseño, la navegación y el etiquetado. Los botones, menús y opciones deben ser consistentes a lo largo de la aplicación.
+**Tareas Evaluadas:** 
 
-#### 5) Prevención de Errores:
-   Ofrece confirmaciones claras antes de que el usuario realice acciones irreversibles, como eliminar un elemento del carrito o finalizar una compra.
+**Desktop landing page** 
 
-#### 6) Flexibilidad y Eficiencia de Uso:
-   Proporciona atajos y funcionalidades avanzadas para usuarios expertos, como una búsqueda avanzada o filtros detallados para encontrar rápidamente componentes específicos.
+- Visualización de planes y precio de suscripciones 
+- Interacción del landing page con la aplicación 
+- Información y descripción de TechShop Información del equipo de trabajo
+- Cambio de idioma 
 
-#### 7) Diseño Estético y Minimalista:
-   Asegúrate de que el diseño sea atractivo, pero no a expensas de la funcionalidad. Una interfaz limpia y minimalista facilita la navegación.
+**No incluidas en la evaluación:** 
 
-#### 8) Ayuda y Documentación:
-   Ofrece una sección de preguntas frecuentes, tutoriales o soporte en línea para ayudar a los usuarios a resolver problemas o dudas comunes.
+- Login del usuario 
+- Información exacta del about the producto
+- Creación de cuenta del usuario 
+- Perfiles de usuario tanto seller como customer 
 
-#### 9) Compatibilidad con Reconocimiento de Errores:
-   Proporciona mensajes de error claros y orientados a la solución cuando los usuarios cometan errores, como introducir información incorrecta en formularios.
+**Escala de Severidad:** 
+
+Nivel Descripción 
+
+1 **Problema superficial**: Puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a menos que exista disponibilidad de tiempo. 
+
+2 **Problema menor:** Puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Debería asignarse una prioridad baja para resolverlo en el próximo lanzamiento. 
+
+3 **Problema mayor**: Ocurre frecuentemente o los usuarios no pueden resolverlo. Es importante que se corrija y se le debe asignar una prioridad alta. 
+
+4 **Problema muy grave**: Un error de gran impacto que impide al usuario continuar usando la herramienta. Es imperativo que se corrija antes del lanzamiento.
+
+
+
+
+
+
+
+
+**Tabla de Resumen**
+
+|**#**|**Problema**|**Escala de Severidad**|**Heurística/Principio Violado**|
+| :-: | :-: | :-: | :-: |
+|1|Falta de información clara en la página de inicio|3|Usabilidad: Claridad y legibilidad|
+|2|Interacción pobre entre la página principal y la aplicación|3|Usabilidad: Integración del sistema|
+|3|Escasa información sobre el equipo de trabajo|2|Usabilidad: Información adecuada para el usuario|
+|4|Falta de funcionalidad de Login del usuario|4|Usabilidad: Libertad y control del usuario|
+|5|Información inexacta sobre el producto|3|Usabilidad: Consistencia y estándares|
+|6|Problemas en la creación de cuenta del usuario|4|Usabilidad: Libertad y control del usuario|
+|7|Falta de perfiles de usuario (seller y customer)|4|Usabilidad: Libertad y control del usuario|
+
+
+**Descripción de Problemas:**
+
+**PROBLEMA #1: Falta de información clara en la página de inicio**
+
+Severidad: 3
+
+Heurística violada: Usabilidad - Claridad y legibilidad
+
+Problema: La página de inicio carece de información clara sobre los servicios ofrecidos por TechShop, lo que dificulta a los usuarios comprender rápidamente el propósito de la plataforma.
+
+Recomendación: Revisar y mejorar el contenido de la página de inicio para proporcionar una descripción más clara y concisa de los servicios ofrecidos por TechShop.
+
+Se debe proporcionar una descripción detallada de cada problema identificado, su severidad, la heurística violada y una recomendación para solucionar el problema.
+
+![](https://media.discordapp.net/attachments/610911183339388978/1170645417977970698/image.png?ex=6559cb81&is=65475681&hm=ceb3d7c2cde9daa752401c424386fb0e9c2c23ee4f93f2740858309ea64fa0e4&=)
+
+
+
+**PROBLEMA #2: Interacción pobre entre la página principal y la aplicación**
+
+Severidad: 3
+
+Heurística violada: Usabilidad - Integración del sistema
+
+Problema: Existe una interacción deficiente entre la página principal y la aplicación, lo que puede confundir a los usuarios y afectar su experiencia al navegar entre ambos.
+
+Recomendación: Mejorar la cohesión y la transición entre la página de inicio y la aplicación para brindar una experiencia más fluida y coherente al usuario.
+
+![](https://media.discordapp.net/attachments/610911183339388978/1170645522017685524/image.png?ex=6559cb99&is=65475699&hm=8c8357eae094c0c35aa4be2c7f70a9ecf9c615af961f450190e14817659deb84&=)
+
+
+**PROBLEMA #3: Escasa información sobre el equipo de trabajo**
+
+Severidad: 2
+
+Heurística violada: Usabilidad - Información adecuada para el usuario
+
+Problema: La falta de detalles sobre el equipo de trabajo de TechShop limita la transparencia y la confianza de los usuarios en la plataforma.
+
+Recomendación: Incluir una sección clara y completa sobre el equipo de trabajo, presentando información relevante para mejorar la credibilidad y confianza de los usuarios.
+
+![](https://media.discordapp.net/attachments/610911183339388978/1170645594046472212/image.png?ex=6559cbab&is=654756ab&hm=be36dd6111b5e94defd89c9646353cdc3f170167f966206cbfcc79fb6fbfc749&=)
+
+
+
+**PROBLEMA #4: Falta de funcionalidad de Login del usuario**
+
+Severidad: 4
+
+Heurística violada: Usabilidad - Libertad y control del usuario
+
+Problema: La falta de funcionalidad de inicio de sesión (login) impide a los usuarios acceder a las funcionalidades completas de la plataforma, lo que limita su participación y capacidad para realizar acciones importantes.
+
+Recomendación: Implementar un sistema de inicio de sesión efectivo que permita a los usuarios acceder a sus cuentas y aprovechar las funcionalidades completas de TechShop.
+
+![](https://media.discordapp.net/attachments/610911183339388978/1170645696018403339/image.png?ex=6559cbc3&is=654756c3&hm=68edd564274407d5e1287511f58aca8baf1736a6c6ce61d290a747e22a958ccf&=)
+
+
+
+**PROBLEMA #5: Información inexacta sobre el producto**
+
+Severidad: 3
+
+Heurística violada: Usabilidad - Consistencia y estándares
+
+Problema: La información proporcionada sobre el producto no es precisa o coherente, lo que podría llevar a malentendidos o confusión entre los usuarios.
+
+Recomendación: Revisar y actualizar la información del producto para asegurar que sea precisa y coherente en toda la plataforma.
+
+![](https://media.discordapp.net/attachments/610911183339388978/1170645793082966016/image.png?ex=6559cbda&is=654756da&hm=7cdca5d075c648c0604161c5905051c7238ba35cd3cb4994b63aade789f5c61f&=)
+
+**PROBLEMA #6: Problemas en la creación de cuenta del usuario**
+
+Severidad: 4
+
+Heurística violada: Usabilidad - Libertad y control del usuario
+
+Problema: Los usuarios enfrentan dificultades o errores al intentar crear una cuenta en la plataforma, lo que obstaculiza su capacidad para involucrarse completamente con los servicios de TechShop.
+
+Recomendación: Mejorar el proceso de creación de cuentas, eliminando errores y simplificando la experiencia para los usuarios.
+
+![](https://media.discordapp.net/attachments/610911183339388978/1170646081441386506/image.png?ex=6559cc1f&is=6547571f&hm=c1691d6923c87e959fab33c2329131a6e6297dbe582d753b1a52be420aee1db9&=)
+
+
+
+**PROBLEMA #7: Falta de perfiles de usuario (seller y customer)**
+
+Severidad: 4
+
+Heurística violada: Usabilidad - Libertad y control del usuario
+
+Problema: La ausencia de perfiles de usuario, tanto para vendedores (sellers) como para clientes (customers), limita la interacción personalizada y la capacidad de los usuarios para gestionar sus actividades.
+
+Recomendación: Implementar perfiles de usuario completos que permitan a los vendedores y clientes gestionar sus actividades, interactuar y personalizar su experiencia en la plataforma.
+
+![](https://media.discordapp.net/attachments/610911183339388978/1170646156536184912/image.png?ex=6559cc31&is=65475731&hm=f75ed30388980daed8a8826292f56cb4e55960e36e4a006ba865d1cfafd4cfe8&=)
+
+**Nombre de la Aplicación: TechShop Meta:** 
+
+El propósito general de la evaluación es identificar problemas existentes en la aplicación web TechShop. 
+
+Enfoque Metodológico: Los hallazgos del sitio web se llevarán a cabo utilizando la Lista Heurística de Nielsen, inicialmente investigada y creada por Jakob Nielsen. 
+
+**Tareas Evaluadas:** 
+
+**Web Application**
+
+- Inicio de sesión con usuario existente
+- Iconografía comprensible y consistente con el mundo real
+- Botones interactivos y de uso intuitivo
+- Navegación y orientación dentro de la aplicación
+- Visualización de perfil de Costumer
+- Filtros Avanzados
+- Sección Favoritos
+- Selección del carrito de compras
+- Búsqueda de Componentes
+
+**No están incluidas en esta versión de la evaluación las siguientes tareas:**
+
+- Botones para el sign out 
+- Visualización de perfil de usuario Seller
+- Visualización del perfil del usuario Customer
+- Mensajes que orienten al usuario sobre el estado del sistema
+- Cambio de idioma de la aplicación
+- Estética general de la interfaz atractiva y agradable visualmente.
+- Acciones de retroceso dentro de la aplicación
+- Mensajes de error que reflejen el registro de datos incorrectos
+
+**Escala de Severidad:** 
+
+Nivel Descripción 
+
+1 **Problema superficial**: Puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a menos que exista disponibilidad de tiempo. 
+
+2 **Problema menor:** Puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Debería asignarse una prioridad baja para resolverlo en el próximo lanzamiento. 
+
+3 **Problema mayor**: Ocurre frecuentemente o los usuarios no pueden resolverlo. Es importante que se corrija y se le debe asignar una prioridad alta. 
+
+4 **Problema muy grave**: Un error de gran impacto que impide al usuario continuar usando la herramienta. Es imperativo que se corrija antes del lanzamiento.
+
+
+
+
+
+
+
+
+
+
+
+|**#**|**Problema**|**Escala de Severidad**|**Heurística/Principio Violado**|
+| :-: | :-: | :-: | :-: |
+|1|Botones para el sign out|2|Usabilidad: Libertad y control del usuario|
+|2|Visualización de perfil de usuario Seller|3|Usabilidad: Consistencia y estándares|
+|3|Visualización del perfil de usuario Customer|3|Usabilidad: Consistencia y estándares|
+|4|Mensajes que orienten al usuario sobre el estado del sistema|2|Usabilidad: Visibilidad del estado del sistema|
+|5|Cambio de idioma de la aplicación|2|Usabilidad: Reconocimiento en lugar de recuerdo|
+|6|Estética general de la interfaz atractiva y agradable visualmente|2|Usabilidad: Diseño estético y minimalista|
+|7|Acciones de retroceso dentro de la aplicación|1|Usabilidad: Control y libertad del usuario|
+|8|Mensajes de error que reflejen el registro de datos incorrectos|3|Usabilidad: Prevención de errores|
+
+**Descripción de Problemas:**
+
+**PROBLEMA #1: Botones para el sign out**
+
+Severidad: 2
+
+Heurística violada: Usabilidad - Libertad y control del usuario
+
+Problema: La ubicación o visibilidad de los botones para cerrar sesión no es clara, lo que dificulta que los usuarios se desconecten de manera rápida y sencilla. Esta falta de claridad puede generar confusión sobre cómo cerrar la sesión en la aplicación.
+
+Recomendación: Ubicar los botones de cierre de sesión en un lugar más visible y coherente, preferiblemente en una ubicación estándar dentro de la interfaz, como en un menú desplegable o en la esquina superior derecha, para facilitar el acceso y la comprensión por parte de los usuarios.
+
+![](https://media.discordapp.net/attachments/610911183339388978/1170646312979533835/image.png?ex=6559cc56&is=65475756&hm=2bc829549d783754942d31213f91dbcc7c964dfd6a7db0e8ac1bf94ea616aa99&=)
+
+**PROBLEMA #2: Visualización de perfil de usuario Seller**
+
+Severidad: 3
+
+Heurística violada: Usabilidad - Consistencia y estándares
+
+Problema: La visualización del perfil del usuario 'Seller' no es coherente o consistente con otros perfiles de usuarios dentro de la aplicación. Esta falta de uniformidad puede llevar a una experiencia confusa para los usuarios y dificultar la comprensión de la información proporcionada en el perfil del vendedor.
+
+Recomendación: Mantener una estructura y diseño uniforme en la visualización de perfiles de usuarios, independientemente de su rol o tipo, para proporcionar una experiencia más coherente y comprensible a los usuarios.
+
+![](https://media.discordapp.net/attachments/610911183339388978/1170646386560221244/image.png?ex=6559cc68&is=65475768&hm=22f12dfc7f11d52a34b921337683141283bd984cb646cb76c86c8f8ccf10f596&=)
+
+**PROBLEMA #3: Visualización del perfil de usuario Customer**
+
+Severidad: 3
+
+Heurística violada: Usabilidad - Consistencia y estándares
+
+Problema: La visualización del perfil del usuario 'Customer' no sigue los mismos estándares o estructura que otros perfiles de usuarios en la aplicación. Esto puede generar confusión en la experiencia del usuario al interactuar con diferentes tipos de perfiles dentro de la plataforma.
+
+Recomendación: Mantener la coherencia en la presentación de perfiles de usuarios, utilizando un diseño y una estructura similares para todos los perfiles, lo que facilitará la comprensión y navegación para los usuarios.
+
+![](https://media.discordapp.net/attachments/610911183339388978/1170646467984244858/image.png?ex=6559cc7b&is=6547577b&hm=fca50fd1d0749fdb7fa80d40926118d202728d63ccd551f79dba9ade00ab30a7&=)
+
+
+
+**PROBLEMA #4: Mensajes que orienten al usuario sobre el estado del sistema**
+
+Severidad: 2
+
+Heurística violada: Usabilidad - Visibilidad del estado del sistema
+
+Problema: La falta de mensajes o indicadores claros sobre el estado del sistema, como la finalización de una acción o proceso, puede llevar a una falta de retroalimentación para el usuario. Esto puede generar incertidumbre sobre si una acción se completó con éxito.
+
+Recomendación: Implementar mensajes o indicadores visuales que informen al usuario sobre el progreso o la finalización de acciones dentro de la aplicación, ofreciendo una retroalimentación clara y reduciendo la incertidumbre del usuario.
+
+![](https://media.discordapp.net/attachments/610911183339388978/1170646531829932084/image.png?ex=6559cc8a&is=6547578a&hm=f0f36bb1517077b31bbe92a7a80055728f0b1e149858120119c8b2fcd64054d6&=)
+
+**PROBLEMA #5: Cambio de idioma de la aplicación**
+
+Severidad: 2
+
+Heurística violada: Usabilidad - Reconocimiento en lugar de recuerdo
+
+Problema: No se proporciona de manera clara o intuitiva la opción para cambiar el idioma de la aplicación. La falta de visibilidad o accesibilidad para realizar este cambio puede dificultar que los usuarios ajusten el idioma según sus preferencias.
+
+Recomendación: Incluir un menú o configuración clara que permita a los usuarios cambiar el idioma de la aplicación de manera sencilla, idealmente en un lugar fácilmente identificable y accesible.
+
+![](https://media.discordapp.net/attachments/610911183339388978/1170646604643049512/image.png?ex=6559cc9c&is=6547579c&hm=61a47f168510fdac850c5d81f52934e4fce337c564b67a3b35f6edfec3c43e96&=)
+
+
+**PROBLEMA #6: Estética general de la interfaz atractiva y agradable visualmente**
+
+Severidad: 2
+
+Heurística violada: Usabilidad - Diseño estético y minimalista
+
+Problema: La estética general de la interfaz carece de atractivo visual y no ofrece una experiencia estéticamente agradable para los usuarios. Una interfaz visualmente poco atractiva puede disminuir la satisfacción del usuario.
+
+Recomendación: Realizar mejoras en el diseño visual y la presentación de la interfaz, utilizando una estética más atractiva, coherente y minimalista, lo que mejorará la experiencia del usuario.
+
+![](https://media.discordapp.net/attachments/610911183339388978/1170646686868176946/image.png?ex=6559ccaf&is=654757af&hm=f7257aea0b4f62e0e2adc10f5ede7d746c11041b1a17bb26fb9ea836bbca2f05&=)
+
+**PROBLEMA #7: Acciones de retroceso dentro de la aplicació**n
+
+Severidad: 1
+
+Heurística violada: Usabilidad - Control y libertad del usuario
+
+Problema: No se ofrecen claramente las opciones de retroceso dentro de la aplicación. La ausencia de esta funcionalidad puede generar frustración en los usuarios al no poder retroceder a pasos anteriores.
+
+Recomendación: Implementar opciones claras de retroceso, como botones o enlaces de navegación, que permitan a los usuarios regresar de manera sencilla a pasos anteriores dentro de la aplicación.
+
+![](https://media.discordapp.net/attachments/610911183339388978/1170646835501744179/image.png?ex=6559ccd3&is=654757d3&hm=614dc021acd4d4bea62615291fd8cd641672c0952baf5c605a70b16d62bfa82e&=&width=537&height=676)
+
+**PROBLEMA #8: Mensajes de error que reflejen el registro de datos incorrectos**
+
+Severidad: 3
+
+Heurística violada: Usabilidad - Prevención de errores
+
+Problema: Los mensajes de error no reflejan de manera clara qué datos son incorrectos o no cumplen con los requisitos. Esto puede dificultar a los usuarios corregir los errores y completar acciones con éxito.
+
+![](https://media.discordapp.net/attachments/610911183339388978/1170646900081430609/image.png?ex=6559cce2&is=654757e2&hm=e7a778dd2c04c3137cb4d54b620c16137ca45df12b93ce426992feb3e119383d&=)
+
+
+
 
 
 
